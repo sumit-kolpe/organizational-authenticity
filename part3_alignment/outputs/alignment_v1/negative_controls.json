@@ -1,0 +1,2468 @@
+[
+  {
+    "ticker": "AAPL",
+    "year": 2016,
+    "control_scope": "same_year",
+    "own_score": 0.6998728102815202,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.45421929676093753,
+    "own_minus_other_mean": 0.24565351352058262
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2016,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6998728102815202,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.4492776852383405,
+    "own_minus_other_mean": 0.25059512504317966
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2017,
+    "control_scope": "same_year",
+    "own_score": 0.5911126771652293,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.49770123133117616,
+    "own_minus_other_mean": 0.09341144583405314
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2017,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5911126771652293,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.5002023179179386,
+    "own_minus_other_mean": 0.09091035924729074
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2019,
+    "control_scope": "same_year",
+    "own_score": 0.6535161308899218,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.5472984048978207,
+    "own_minus_other_mean": 0.10621772599210111
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2019,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6535161308899218,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5241283711638715,
+    "own_minus_other_mean": 0.12938775972605032
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.6699742175794207,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.5681228096890395,
+    "own_minus_other_mean": 0.10185140789038116
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6699742175794207,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5212224295094291,
+    "own_minus_other_mean": 0.14875178806999156
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.6436900788133402,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6075002318155792,
+    "own_minus_other_mean": 0.036189846997760955
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6436900788133402,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5987362810714245,
+    "own_minus_other_mean": 0.04495379774191566
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.569831790894251,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6847646281735257,
+    "own_minus_other_mean": -0.11493283727927472
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.569831790894251,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.685665634932017,
+    "own_minus_other_mean": -0.11583384403776609
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.6383179344661273,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.6667181979159672,
+    "own_minus_other_mean": -0.028400263449839924
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6383179344661273,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6347329758789284,
+    "own_minus_other_mean": 0.003584958587198872
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.6107974949133319,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.678829895648726,
+    "own_minus_other_mean": -0.06803240073539407
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6107974949133319,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6196058730828549,
+    "own_minus_other_mean": -0.008808378169522957
+  },
+  {
+    "ticker": "ABBV",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.7981547336689239,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.7653080837147059,
+    "own_minus_other_mean": 0.03284664995421793
+  },
+  {
+    "ticker": "ABBV",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7981547336689239,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.8034936018864238,
+    "own_minus_other_mean": -0.005338868217499959
+  },
+  {
+    "ticker": "ABBV",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.8257560697854165,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7942392478913394,
+    "own_minus_other_mean": 0.03151682189407712
+  },
+  {
+    "ticker": "ABBV",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.8257560697854165,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.8179410737845426,
+    "own_minus_other_mean": 0.007814996000873875
+  },
+  {
+    "ticker": "ABT",
+    "year": 2016,
+    "control_scope": "same_year",
+    "own_score": 0.35985608634244026,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.16550331868046309,
+    "own_minus_other_mean": 0.19435276766197718
+  },
+  {
+    "ticker": "ABT",
+    "year": 2016,
+    "control_scope": "same_sector_year",
+    "own_score": 0.35985608634244026,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.29194398659611753,
+    "own_minus_other_mean": 0.06791209974632273
+  },
+  {
+    "ticker": "ABT",
+    "year": 2017,
+    "control_scope": "same_year",
+    "own_score": 0.16537964611894462,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.20030305567028206,
+    "own_minus_other_mean": -0.034923409551337437
+  },
+  {
+    "ticker": "ABT",
+    "year": 2017,
+    "control_scope": "same_sector_year",
+    "own_score": 0.16537964611894462,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.33022786069446275,
+    "own_minus_other_mean": -0.16484821457551813
+  },
+  {
+    "ticker": "ABT",
+    "year": 2018,
+    "control_scope": "same_year",
+    "own_score": 0.49384395970800765,
+    "n_other_proxies": 47,
+    "mean_other_score": 0.4939041036854683,
+    "own_minus_other_mean": -6.014397746062494e-05
+  },
+  {
+    "ticker": "ABT",
+    "year": 2018,
+    "control_scope": "same_sector_year",
+    "own_score": 0.49384395970800765,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.49995026768269396,
+    "own_minus_other_mean": -0.006106307974686309
+  },
+  {
+    "ticker": "ABT",
+    "year": 2019,
+    "control_scope": "same_year",
+    "own_score": 0.47302949810487305,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.5796215802103721,
+    "own_minus_other_mean": -0.10659208210549909
+  },
+  {
+    "ticker": "ABT",
+    "year": 2019,
+    "control_scope": "same_sector_year",
+    "own_score": 0.47302949810487305,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5885919361655554,
+    "own_minus_other_mean": -0.11556243806068234
+  },
+  {
+    "ticker": "ABT",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.5938807331666133,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6303511415252115,
+    "own_minus_other_mean": -0.03647040835859827
+  },
+  {
+    "ticker": "ABT",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5938807331666133,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5998053786813285,
+    "own_minus_other_mean": -0.0059246455147152766
+  },
+  {
+    "ticker": "ABT",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.6814185279188428,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6342987707561368,
+    "own_minus_other_mean": 0.047119757162706
+  },
+  {
+    "ticker": "ABT",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6814185279188428,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6527169857929956,
+    "own_minus_other_mean": 0.02870154212584719
+  },
+  {
+    "ticker": "ABT",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.7186349921344791,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.6796618283467022,
+    "own_minus_other_mean": 0.03897316378777693
+  },
+  {
+    "ticker": "ABT",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7186349921344791,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7107705633369694,
+    "own_minus_other_mean": 0.007864428797509704
+  },
+  {
+    "ticker": "AXP",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.6031894118160175,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.6523648518368156,
+    "own_minus_other_mean": -0.0491754400207981
+  },
+  {
+    "ticker": "AXP",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6031894118160175,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6134123301168902,
+    "own_minus_other_mean": -0.010222918300872741
+  },
+  {
+    "ticker": "AXP",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.6051688158367956,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6739371965473099,
+    "own_minus_other_mean": -0.06876838071051428
+  },
+  {
+    "ticker": "AXP",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6051688158367956,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6517404399936116,
+    "own_minus_other_mean": -0.04657162415681604
+  },
+  {
+    "ticker": "BAC",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.5442438867366693,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.4404374924916164,
+    "own_minus_other_mean": 0.10380639424505295
+  },
+  {
+    "ticker": "BAC",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5442438867366693,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.41823499002496933,
+    "own_minus_other_mean": 0.1260088967117
+  },
+  {
+    "ticker": "BAC",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.4755057230829589,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.43722669327344305,
+    "own_minus_other_mean": 0.03827902980951586
+  },
+  {
+    "ticker": "BAC",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.4755057230829589,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.44248115128777304,
+    "own_minus_other_mean": 0.033024571795185864
+  },
+  {
+    "ticker": "BAC",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.3710602611224107,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.48735734262770075,
+    "own_minus_other_mean": -0.11629708150529006
+  },
+  {
+    "ticker": "BAC",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.3710602611224107,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.4585864351227977,
+    "own_minus_other_mean": -0.08752617400038698
+  },
+  {
+    "ticker": "BAC",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.5225510784069921,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5359251145241948,
+    "own_minus_other_mean": -0.01337403611720267
+  },
+  {
+    "ticker": "BAC",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5225510784069921,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5036811744434617,
+    "own_minus_other_mean": 0.018869903963530388
+  },
+  {
+    "ticker": "C",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.24674210407057992,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.28028933992914773,
+    "own_minus_other_mean": -0.03354723585856781
+  },
+  {
+    "ticker": "C",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.24674210407057992,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.2791517049942482,
+    "own_minus_other_mean": -0.032409600923668264
+  },
+  {
+    "ticker": "C",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.22206007537668332,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.30855449816671054,
+    "own_minus_other_mean": -0.08649442279002723
+  },
+  {
+    "ticker": "C",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.22206007537668332,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.341819640273333,
+    "own_minus_other_mean": -0.11975956489664968
+  },
+  {
+    "ticker": "COP",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.5594107373790298,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.5684392198043918,
+    "own_minus_other_mean": -0.009028482425362028
+  },
+  {
+    "ticker": "COP",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5594107373790298,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.44092391054015945,
+    "own_minus_other_mean": 0.11848682683887035
+  },
+  {
+    "ticker": "COP",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.598581318737647,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.48616111521067146,
+    "own_minus_other_mean": 0.11242020352697552
+  },
+  {
+    "ticker": "COP",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.598581318737647,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.42774401279206725,
+    "own_minus_other_mean": 0.17083730594557972
+  },
+  {
+    "ticker": "COP",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.4824517572362939,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.48777505302377694,
+    "own_minus_other_mean": -0.005323295787483029
+  },
+  {
+    "ticker": "COP",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.4824517572362939,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.40133915864657754,
+    "own_minus_other_mean": 0.08111259858971637
+  },
+  {
+    "ticker": "COP",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.5773502691896257,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.5437073267885671,
+    "own_minus_other_mean": 0.033642942401058584
+  },
+  {
+    "ticker": "COP",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5773502691896257,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.45722988011321336,
+    "own_minus_other_mean": 0.12012038907641237
+  },
+  {
+    "ticker": "COP",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.6907271518941765,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7548362315787935,
+    "own_minus_other_mean": -0.06410907968461699
+  },
+  {
+    "ticker": "COP",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6907271518941765,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6743439801422679,
+    "own_minus_other_mean": 0.01638317175190862
+  },
+  {
+    "ticker": "CVX",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.7367729032328212,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.8525059970566512,
+    "own_minus_other_mean": -0.11573309382383001
+  },
+  {
+    "ticker": "CVX",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7367729032328212,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.8743294198240009,
+    "own_minus_other_mean": -0.13755651659117973
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2016,
+    "control_scope": "same_year",
+    "own_score": 0.6195307182527474,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5840521430194824,
+    "own_minus_other_mean": 0.03547857523326503
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2016,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6195307182527474,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.6350365764708461,
+    "own_minus_other_mean": -0.01550585821809869
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2017,
+    "control_scope": "same_year",
+    "own_score": 0.6828817427348546,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5707382325056248,
+    "own_minus_other_mean": 0.11214351022922975
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2017,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6828817427348546,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.5995381961533063,
+    "own_minus_other_mean": 0.0833435465815483
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2018,
+    "control_scope": "same_year",
+    "own_score": 0.34565954273029914,
+    "n_other_proxies": 47,
+    "mean_other_score": 0.570761226495051,
+    "own_minus_other_mean": -0.22510168376475187
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2018,
+    "control_scope": "same_sector_year",
+    "own_score": 0.34565954273029914,
+    "n_other_proxies": 7,
+    "mean_other_score": 0.6123892833565998,
+    "own_minus_other_mean": -0.26672974062630067
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2019,
+    "control_scope": "same_year",
+    "own_score": 0.44916735576521344,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.5505613762195626,
+    "own_minus_other_mean": -0.10139402045434914
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2019,
+    "control_scope": "same_sector_year",
+    "own_score": 0.44916735576521344,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.51406733377896,
+    "own_minus_other_mean": -0.06489997801374653
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.49820430565656826,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.561983348796894,
+    "own_minus_other_mean": -0.06377904314032579
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.49820430565656826,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5483501593057108,
+    "own_minus_other_mean": -0.05014585364914259
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.5372928463802237,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.47974246406041277,
+    "own_minus_other_mean": 0.05755038231981091
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5372928463802237,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.4581910796669244,
+    "own_minus_other_mean": 0.07910176671329927
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.2934230754861915,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.46951684546187367,
+    "own_minus_other_mean": -0.17609376997568216
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.2934230754861915,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.43165442102627305,
+    "own_minus_other_mean": -0.13823134554008154
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.49026918386186014,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.5046078344864448,
+    "own_minus_other_mean": -0.014338650624584615
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.49026918386186014,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.49387129233087335,
+    "own_minus_other_mean": -0.00360210846901321
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.5338654184457775,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.47622119185779593,
+    "own_minus_other_mean": 0.05764422658798157
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5338654184457775,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5021891909678138,
+    "own_minus_other_mean": 0.031676227477963725
+  },
+  {
+    "ticker": "GS",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.43422897319722753,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.4821819912639447,
+    "own_minus_other_mean": -0.047953018066717146
+  },
+  {
+    "ticker": "GS",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.43422897319722753,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.4618411318842322,
+    "own_minus_other_mean": -0.027612158687004673
+  },
+  {
+    "ticker": "HAL",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.6902013856519744,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.46511988444141983,
+    "own_minus_other_mean": 0.2250815012105546
+  },
+  {
+    "ticker": "HAL",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6902013856519744,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.5630584926658263,
+    "own_minus_other_mean": 0.12714289298614811
+  },
+  {
+    "ticker": "HAL",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.6064496310619684,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5643695759430433,
+    "own_minus_other_mean": 0.0420800551189251
+  },
+  {
+    "ticker": "HAL",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6064496310619684,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5860145925278162,
+    "own_minus_other_mean": 0.020435038534152183
+  },
+  {
+    "ticker": "HAL",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.49399426349430325,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.5189351616921006,
+    "own_minus_other_mean": -0.02494089819779738
+  },
+  {
+    "ticker": "HAL",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.49399426349430325,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5709451128024354,
+    "own_minus_other_mean": -0.07695084930813217
+  },
+  {
+    "ticker": "HAL",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.609897217810344,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.598963059019706,
+    "own_minus_other_mean": 0.010934158790637971
+  },
+  {
+    "ticker": "HAL",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.609897217810344,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6249764018694348,
+    "own_minus_other_mean": -0.015079184059090811
+  },
+  {
+    "ticker": "IBM",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.39127198971314653,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.31204276479988224,
+    "own_minus_other_mean": 0.07922922491326428
+  },
+  {
+    "ticker": "IBM",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.39127198971314653,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.26889995642191367,
+    "own_minus_other_mean": 0.12237203329123286
+  },
+  {
+    "ticker": "IBM",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.2258156285269456,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.2924829775033437,
+    "own_minus_other_mean": -0.06666734897639809
+  },
+  {
+    "ticker": "IBM",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.2258156285269456,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.28308324469509294,
+    "own_minus_other_mean": -0.05726761616814735
+  },
+  {
+    "ticker": "IBM",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.21413506013330477,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.3085585514829361,
+    "own_minus_other_mean": -0.09442349134963132
+  },
+  {
+    "ticker": "IBM",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.21413506013330477,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.2872092764479157,
+    "own_minus_other_mean": -0.07307421631461095
+  },
+  {
+    "ticker": "IBM",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.35268208589607725,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.3860582755037398,
+    "own_minus_other_mean": -0.03337618960766253
+  },
+  {
+    "ticker": "IBM",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.35268208589607725,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.37089376181204387,
+    "own_minus_other_mean": -0.01821167591596662
+  },
+  {
+    "ticker": "IBM",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.5574699436078229,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5916170266153101,
+    "own_minus_other_mean": -0.034147083007487256
+  },
+  {
+    "ticker": "IBM",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5574699436078229,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5541255631255482,
+    "own_minus_other_mean": 0.0033443804822747003
+  },
+  {
+    "ticker": "INTC",
+    "year": 2016,
+    "control_scope": "same_year",
+    "own_score": 0.6284293746396974,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.4328159458919638,
+    "own_minus_other_mean": 0.19561342874773358
+  },
+  {
+    "ticker": "INTC",
+    "year": 2016,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6284293746396974,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.49085890768911716,
+    "own_minus_other_mean": 0.13757046695058023
+  },
+  {
+    "ticker": "INTC",
+    "year": 2017,
+    "control_scope": "same_year",
+    "own_score": 0.5021228179427528,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.43613307146959546,
+    "own_minus_other_mean": 0.06598974647315736
+  },
+  {
+    "ticker": "INTC",
+    "year": 2017,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5021228179427528,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.544060117883561,
+    "own_minus_other_mean": -0.04193729994080819
+  },
+  {
+    "ticker": "INTC",
+    "year": 2018,
+    "control_scope": "same_year",
+    "own_score": 0.5629446603966209,
+    "n_other_proxies": 47,
+    "mean_other_score": 0.521387190664152,
+    "own_minus_other_mean": 0.04155746973246899
+  },
+  {
+    "ticker": "INTC",
+    "year": 2018,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5629446603966209,
+    "n_other_proxies": 7,
+    "mean_other_score": 0.5519763904974835,
+    "own_minus_other_mean": 0.010968269899137462
+  },
+  {
+    "ticker": "INTC",
+    "year": 2019,
+    "control_scope": "same_year",
+    "own_score": 0.7372781848051391,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.609411098171822,
+    "own_minus_other_mean": 0.12786708663331703
+  },
+  {
+    "ticker": "INTC",
+    "year": 2019,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7372781848051391,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6036251692878067,
+    "own_minus_other_mean": 0.13365301551733233
+  },
+  {
+    "ticker": "INTC",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.8719838017344871,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.7539733014758894,
+    "own_minus_other_mean": 0.11801050025859772
+  },
+  {
+    "ticker": "INTC",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.8719838017344871,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7330886246587236,
+    "own_minus_other_mean": 0.1388951770757635
+  },
+  {
+    "ticker": "INTC",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.7403791947933982,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7280683676208827,
+    "own_minus_other_mean": 0.012310827172515526
+  },
+  {
+    "ticker": "INTC",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7403791947933982,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7338960681948618,
+    "own_minus_other_mean": 0.006483126598536448
+  },
+  {
+    "ticker": "INTC",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.7522077789777112,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7419324113164721,
+    "own_minus_other_mean": 0.010275367661239043
+  },
+  {
+    "ticker": "INTC",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7522077789777112,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7196404190544281,
+    "own_minus_other_mean": 0.03256735992328308
+  },
+  {
+    "ticker": "INTC",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.6002592344969748,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.5826881347077918,
+    "own_minus_other_mean": 0.01757109978918303
+  },
+  {
+    "ticker": "INTC",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6002592344969748,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5481495977876022,
+    "own_minus_other_mean": 0.05210963670937263
+  },
+  {
+    "ticker": "INTC",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.4937124377972751,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5171341386911742,
+    "own_minus_other_mean": -0.02342170089389911
+  },
+  {
+    "ticker": "INTC",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.4937124377972751,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5126436081653593,
+    "own_minus_other_mean": -0.01893117036808417
+  },
+  {
+    "ticker": "JNJ",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.7924820749147037,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.570432186519013,
+    "own_minus_other_mean": 0.22204988839569073
+  },
+  {
+    "ticker": "JNJ",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7924820749147037,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6054833136079063,
+    "own_minus_other_mean": 0.18699876130679738
+  },
+  {
+    "ticker": "JNJ",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.7445420492050672,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6138809189911217,
+    "own_minus_other_mean": 0.13066113021394543
+  },
+  {
+    "ticker": "JNJ",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7445420492050672,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.620519433413725,
+    "own_minus_other_mean": 0.12402261579134222
+  },
+  {
+    "ticker": "JPM",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.7269849963704841,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7134994397375469,
+    "own_minus_other_mean": 0.013485556632937157
+  },
+  {
+    "ticker": "JPM",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7269849963704841,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6695326370588437,
+    "own_minus_other_mean": 0.05745235931164039
+  },
+  {
+    "ticker": "LOW",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.17632083273375124,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.1711133085459058,
+    "own_minus_other_mean": 0.005207524187845425
+  },
+  {
+    "ticker": "LOW",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.17632083273375124,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.17274461071012892,
+    "own_minus_other_mean": 0.0035762220236223163
+  },
+  {
+    "ticker": "LOW",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.3492564447508933,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.1849699248512518,
+    "own_minus_other_mean": 0.1642865198996415
+  },
+  {
+    "ticker": "LOW",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.3492564447508933,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.1897606354515148,
+    "own_minus_other_mean": 0.15949580929937848
+  },
+  {
+    "ticker": "LOW",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.43185349834537573,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.30418380185486277,
+    "own_minus_other_mean": 0.12766969649051296
+  },
+  {
+    "ticker": "LOW",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.43185349834537573,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.32334159625150477,
+    "own_minus_other_mean": 0.10851190209387096
+  },
+  {
+    "ticker": "MCD",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.7719621738623111,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.6806760633332246,
+    "own_minus_other_mean": 0.09128611052908653
+  },
+  {
+    "ticker": "MCD",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7719621738623111,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6650202527366617,
+    "own_minus_other_mean": 0.10694192112564949
+  },
+  {
+    "ticker": "MCD",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.7175949614759236,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7146364098746766,
+    "own_minus_other_mean": 0.002958551601247028
+  },
+  {
+    "ticker": "MCD",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7175949614759236,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6902213350483895,
+    "own_minus_other_mean": 0.02737362642753416
+  },
+  {
+    "ticker": "MCD",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.8036961064336053,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.7513103679506977,
+    "own_minus_other_mean": 0.05238573848290762
+  },
+  {
+    "ticker": "MCD",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.8036961064336053,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7768008588120692,
+    "own_minus_other_mean": 0.026895247621536167
+  },
+  {
+    "ticker": "MCD",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.8109723158741672,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.736367393088985,
+    "own_minus_other_mean": 0.07460492278518216
+  },
+  {
+    "ticker": "MCD",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.8109723158741672,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.7505248304976636,
+    "own_minus_other_mean": 0.060447485376503574
+  },
+  {
+    "ticker": "MDT",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.7158261468636465,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5804929016764001,
+    "own_minus_other_mean": 0.13533324518724643
+  },
+  {
+    "ticker": "MDT",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7158261468636465,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.606897990007392,
+    "own_minus_other_mean": 0.10892815685625457
+  },
+  {
+    "ticker": "META",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.5470162426875745,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6550127534341307,
+    "own_minus_other_mean": -0.10799651074655614
+  },
+  {
+    "ticker": "META",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5470162426875745,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6244704663092464,
+    "own_minus_other_mean": -0.07745422362167187
+  },
+  {
+    "ticker": "META",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.32566947363946486,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.563033605140628,
+    "own_minus_other_mean": -0.2373641315011631
+  },
+  {
+    "ticker": "META",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.32566947363946486,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5756122378175277,
+    "own_minus_other_mean": -0.24994276417806283
+  },
+  {
+    "ticker": "META",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.2989913768030944,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5768423382550398,
+    "own_minus_other_mean": -0.27785096145194543
+  },
+  {
+    "ticker": "META",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.2989913768030944,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5882383746726212,
+    "own_minus_other_mean": -0.2892469978695268
+  },
+  {
+    "ticker": "MPC",
+    "year": 2019,
+    "control_scope": "same_year",
+    "own_score": 0.7182781960208598,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.7109529646131719,
+    "own_minus_other_mean": 0.007325231407687927
+  },
+  {
+    "ticker": "MPC",
+    "year": 2019,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7182781960208598,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7027184370713229,
+    "own_minus_other_mean": 0.015559758949536984
+  },
+  {
+    "ticker": "MPC",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.7106195041520286,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.745433356490628,
+    "own_minus_other_mean": -0.03481385233859946
+  },
+  {
+    "ticker": "MPC",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7106195041520286,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7600139072390732,
+    "own_minus_other_mean": -0.04939440308704468
+  },
+  {
+    "ticker": "MPC",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.7919645013226099,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7516866808973659,
+    "own_minus_other_mean": 0.04027782042524397
+  },
+  {
+    "ticker": "MPC",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7919645013226099,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.7592503051142574,
+    "own_minus_other_mean": 0.032714196208352475
+  },
+  {
+    "ticker": "MPC",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.8801683417838453,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7820715137197342,
+    "own_minus_other_mean": 0.09809682806411113
+  },
+  {
+    "ticker": "MPC",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.8801683417838453,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7662703231956352,
+    "own_minus_other_mean": 0.11389801858821014
+  },
+  {
+    "ticker": "MPC",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.8348651593191478,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.7537145848036405,
+    "own_minus_other_mean": 0.08115057451550733
+  },
+  {
+    "ticker": "MPC",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.8348651593191478,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.759867628450893,
+    "own_minus_other_mean": 0.07499753086825489
+  },
+  {
+    "ticker": "MPC",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.8974445192395055,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7922376519151492,
+    "own_minus_other_mean": 0.10520686732435636
+  },
+  {
+    "ticker": "MPC",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.8974445192395055,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.8108938089602821,
+    "own_minus_other_mean": 0.08655071027922345
+  },
+  {
+    "ticker": "MRK",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.8350249291396531,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.690000981081218,
+    "own_minus_other_mean": 0.1450239480584351
+  },
+  {
+    "ticker": "MRK",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.8350249291396531,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.8139689353303075,
+    "own_minus_other_mean": 0.02105599380934564
+  },
+  {
+    "ticker": "MRK",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.7721162347751404,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.6489173656539763,
+    "own_minus_other_mean": 0.12319886912116407
+  },
+  {
+    "ticker": "MRK",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7721162347751404,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7778664571980611,
+    "own_minus_other_mean": -0.005750222422920781
+  },
+  {
+    "ticker": "MRK",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.7507699744783612,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5656111950051961,
+    "own_minus_other_mean": 0.18515877947316517
+  },
+  {
+    "ticker": "MRK",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7507699744783612,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7029719227909835,
+    "own_minus_other_mean": 0.04779805168737772
+  },
+  {
+    "ticker": "MS",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.6769646428307117,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7307813534490439,
+    "own_minus_other_mean": -0.053816710618332264
+  },
+  {
+    "ticker": "MS",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6769646428307117,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6868604836972555,
+    "own_minus_other_mean": -0.009895840866543826
+  },
+  {
+    "ticker": "MS",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.7807211263629036,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7413383832459474,
+    "own_minus_other_mean": 0.03938274311695622
+  },
+  {
+    "ticker": "MS",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7807211263629036,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7534789991306159,
+    "own_minus_other_mean": 0.027242127232287694
+  },
+  {
+    "ticker": "MS",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.7973779280931882,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.765323936889721,
+    "own_minus_other_mean": 0.03205399120346719
+  },
+  {
+    "ticker": "MS",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7973779280931882,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7522448909438502,
+    "own_minus_other_mean": 0.04513303714933803
+  },
+  {
+    "ticker": "MS",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.5963307937416684,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6371411998183282,
+    "own_minus_other_mean": -0.040810406076659755
+  },
+  {
+    "ticker": "MS",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5963307937416684,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6109718885942378,
+    "own_minus_other_mean": -0.01464109485256937
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2016,
+    "control_scope": "same_year",
+    "own_score": 0.8078470522124086,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6857264045566851,
+    "own_minus_other_mean": 0.1221206476557235
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2016,
+    "control_scope": "same_sector_year",
+    "own_score": 0.8078470522124086,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.720607560740194,
+    "own_minus_other_mean": 0.08723949147221455
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2017,
+    "control_scope": "same_year",
+    "own_score": 0.8056715868297503,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6851702131455915,
+    "own_minus_other_mean": 0.12050137368415881
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2017,
+    "control_scope": "same_sector_year",
+    "own_score": 0.8056715868297503,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.701161580599139,
+    "own_minus_other_mean": 0.10451000623061124
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2018,
+    "control_scope": "same_year",
+    "own_score": 0.8313149490175622,
+    "n_other_proxies": 47,
+    "mean_other_score": 0.7264305827030435,
+    "own_minus_other_mean": 0.1048843663145187
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2018,
+    "control_scope": "same_sector_year",
+    "own_score": 0.8313149490175622,
+    "n_other_proxies": 7,
+    "mean_other_score": 0.7365691434164042,
+    "own_minus_other_mean": 0.09474580560115797
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2019,
+    "control_scope": "same_year",
+    "own_score": 0.6310737939621875,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.5470817798633959,
+    "own_minus_other_mean": 0.08399201409879165
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2019,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6310737939621875,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6056663137987297,
+    "own_minus_other_mean": 0.02540748016345784
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.5982905982905984,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.4896696435832131,
+    "own_minus_other_mean": 0.10862095470738531
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5982905982905984,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5080947944076449,
+    "own_minus_other_mean": 0.09019580388295345
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.568234084137339,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5841382262693485,
+    "own_minus_other_mean": -0.015904142132009524
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.568234084137339,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5812522576192319,
+    "own_minus_other_mean": -0.013018173481892936
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.552325968510516,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5690142127706874,
+    "own_minus_other_mean": -0.01668824426017146
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.552325968510516,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5691549567806924,
+    "own_minus_other_mean": -0.016828988270176426
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.47437137014554326,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.5438700473625817,
+    "own_minus_other_mean": -0.06949867721703845
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.47437137014554326,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.49263370940972956,
+    "own_minus_other_mean": -0.0182623392641863
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.4806851783715085,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5597298870242047,
+    "own_minus_other_mean": -0.0790447086526962
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.4806851783715085,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5118680197289217,
+    "own_minus_other_mean": -0.031182841357413227
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2019,
+    "control_scope": "same_year",
+    "own_score": 0.24545784641604232,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.44950106560765607,
+    "own_minus_other_mean": -0.20404321919161375
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2019,
+    "control_scope": "same_sector_year",
+    "own_score": 0.24545784641604232,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.377682655200053,
+    "own_minus_other_mean": -0.1322248087840107
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.3121572419905744,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.47209914104430334,
+    "own_minus_other_mean": -0.15994189905372896
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.3121572419905744,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.39991636925449364,
+    "own_minus_other_mean": -0.08775912726391927
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.5177680526501975,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.43088145661749655,
+    "own_minus_other_mean": 0.08688659603270099
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5177680526501975,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.387962300245431,
+    "own_minus_other_mean": 0.12980575240476655
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.5554954922486548,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.464057003445989,
+    "own_minus_other_mean": 0.09143848880266581
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5554954922486548,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.4025352636082216,
+    "own_minus_other_mean": 0.15296022864043318
+  },
+  {
+    "ticker": "ORCL",
+    "year": 2019,
+    "control_scope": "same_year",
+    "own_score": 0.17426340488560713,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.20927520080731593,
+    "own_minus_other_mean": -0.035011795921708805
+  },
+  {
+    "ticker": "ORCL",
+    "year": 2019,
+    "control_scope": "same_sector_year",
+    "own_score": 0.17426340488560713,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.18860591531020243,
+    "own_minus_other_mean": -0.014342510424595306
+  },
+  {
+    "ticker": "OXY",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.622101581983194,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.42295015079195347,
+    "own_minus_other_mean": 0.1991514311912405
+  },
+  {
+    "ticker": "OXY",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.622101581983194,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.5567680813630854,
+    "own_minus_other_mean": 0.06533350062010856
+  },
+  {
+    "ticker": "OXY",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.6726038012869032,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.45641132226831876,
+    "own_minus_other_mean": 0.21619247901858446
+  },
+  {
+    "ticker": "OXY",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6726038012869032,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5620400890293902,
+    "own_minus_other_mean": 0.11056371225751305
+  },
+  {
+    "ticker": "OXY",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.609019531759902,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.4969751163452398,
+    "own_minus_other_mean": 0.1120444154146622
+  },
+  {
+    "ticker": "OXY",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.609019531759902,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.58257386502377,
+    "own_minus_other_mean": 0.026445666736132023
+  },
+  {
+    "ticker": "OXY",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.7622505555575465,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5795836482727299,
+    "own_minus_other_mean": 0.1826669072848166
+  },
+  {
+    "ticker": "OXY",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7622505555575465,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6486719802018023,
+    "own_minus_other_mean": 0.11357857535574423
+  },
+  {
+    "ticker": "PSX",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.6050633809075329,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5623830640937852,
+    "own_minus_other_mean": 0.04268031681374762
+  },
+  {
+    "ticker": "PSX",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6050633809075329,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.6444021629349308,
+    "own_minus_other_mean": -0.039338782027397934
+  },
+  {
+    "ticker": "PSX",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.6701804111322314,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5921430474032875,
+    "own_minus_other_mean": 0.07803736372894388
+  },
+  {
+    "ticker": "PSX",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6701804111322314,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.644340544841562,
+    "own_minus_other_mean": 0.025839866290669367
+  },
+  {
+    "ticker": "SCHW",
+    "year": 2019,
+    "control_scope": "same_year",
+    "own_score": 0.2124662400758136,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.34397466057556775,
+    "own_minus_other_mean": -0.13150842049975414
+  },
+  {
+    "ticker": "SCHW",
+    "year": 2019,
+    "control_scope": "same_sector_year",
+    "own_score": 0.2124662400758136,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.3464765272119394,
+    "own_minus_other_mean": -0.13401028713612578
+  },
+  {
+    "ticker": "SCHW",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.16499463776140774,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.2496804161461656,
+    "own_minus_other_mean": -0.08468577838475785
+  },
+  {
+    "ticker": "SCHW",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.16499463776140774,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.21878955259762622,
+    "own_minus_other_mean": -0.05379491483621848
+  },
+  {
+    "ticker": "SLB",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.7086058432489726,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6387416188419411,
+    "own_minus_other_mean": 0.06986422440703144
+  },
+  {
+    "ticker": "SLB",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7086058432489726,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6217060905258872,
+    "own_minus_other_mean": 0.08689975272308537
+  },
+  {
+    "ticker": "SLB",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.72907299058467,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.7115154741281067,
+    "own_minus_other_mean": 0.017557516456563338
+  },
+  {
+    "ticker": "SLB",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.72907299058467,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6956085085906195,
+    "own_minus_other_mean": 0.0334644819940505
+  },
+  {
+    "ticker": "TGT",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.5425492446265004,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.21293471029915526,
+    "own_minus_other_mean": 0.3296145343273452
+  },
+  {
+    "ticker": "TGT",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5425492446265004,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.23430449042910123,
+    "own_minus_other_mean": 0.3082447541973992
+  },
+  {
+    "ticker": "TJX",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.2783303992717976,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.16261574194066258,
+    "own_minus_other_mean": 0.115714657331135
+  },
+  {
+    "ticker": "TJX",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.2783303992717976,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.17912300224598823,
+    "own_minus_other_mean": 0.09920739702580936
+  },
+  {
+    "ticker": "TJX",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.6760046749254618,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5853579721672184,
+    "own_minus_other_mean": 0.09064670275824338
+  },
+  {
+    "ticker": "TJX",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6760046749254618,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.6134180580196452,
+    "own_minus_other_mean": 0.06258661690581657
+  },
+  {
+    "ticker": "TMO",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.41080252783529914,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.19283017440044323,
+    "own_minus_other_mean": 0.2179723534348559
+  },
+  {
+    "ticker": "TMO",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.41080252783529914,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.2955267356201177,
+    "own_minus_other_mean": 0.11527579221518142
+  },
+  {
+    "ticker": "TMO",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.3784179222972101,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.18100414242917456,
+    "own_minus_other_mean": 0.19741377986803554
+  },
+  {
+    "ticker": "TMO",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.3784179222972101,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.3221100852980001,
+    "own_minus_other_mean": 0.05630783699920999
+  },
+  {
+    "ticker": "TMO",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.4585612375822924,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.2281513330704305,
+    "own_minus_other_mean": 0.23040990451186188
+  },
+  {
+    "ticker": "TMO",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.4585612375822924,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.36653066068105444,
+    "own_minus_other_mean": 0.09203057690123795
+  },
+  {
+    "ticker": "TMO",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.5074954869911408,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.24805236895935798,
+    "own_minus_other_mean": 0.25944311803178277
+  },
+  {
+    "ticker": "TMO",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.5074954869911408,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.39180147668710646,
+    "own_minus_other_mean": 0.11569401030403431
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2016,
+    "control_scope": "same_year",
+    "own_score": 0.24671758189758447,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.4341185102588728,
+    "own_minus_other_mean": -0.18740092836128835
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2016,
+    "control_scope": "same_sector_year",
+    "own_score": 0.24671758189758447,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.45946395374946286,
+    "own_minus_other_mean": -0.2127463718518784
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2017,
+    "control_scope": "same_year",
+    "own_score": 0.19011727515734336,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.45050844696069925,
+    "own_minus_other_mean": -0.2603911718033559
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2017,
+    "control_scope": "same_sector_year",
+    "own_score": 0.19011727515734336,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5139287759464813,
+    "own_minus_other_mean": -0.323811500789138
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2018,
+    "control_scope": "same_year",
+    "own_score": 0.15464893460541182,
+    "n_other_proxies": 47,
+    "mean_other_score": 0.3929206183888162,
+    "own_minus_other_mean": -0.23827168378340438
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2018,
+    "control_scope": "same_sector_year",
+    "own_score": 0.15464893460541182,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.33169104188092147,
+    "own_minus_other_mean": -0.17704210727550965
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2019,
+    "control_scope": "same_year",
+    "own_score": 0.2523573072576179,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.3994553702100967,
+    "own_minus_other_mean": -0.1470980629524788
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2019,
+    "control_scope": "same_sector_year",
+    "own_score": 0.2523573072576179,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.4080524290446738,
+    "own_minus_other_mean": -0.1556951217870559
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.2863710324052292,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.4258056999726162,
+    "own_minus_other_mean": -0.13943466756738698
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.2863710324052292,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.450542418930798,
+    "own_minus_other_mean": -0.16417138652556879
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.33783007342852145,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.39585582500719296,
+    "own_minus_other_mean": -0.058025751578671514
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.33783007342852145,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.3969939785037778,
+    "own_minus_other_mean": -0.05916390507525637
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.28033022315406064,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.42556722476618714,
+    "own_minus_other_mean": -0.1452370016121265
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.28033022315406064,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.39677265872806117,
+    "own_minus_other_mean": -0.11644243557400052
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.4975185951049946,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.47613356922376254,
+    "own_minus_other_mean": 0.021385025881232034
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.4975185951049946,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.4268768254980077,
+    "own_minus_other_mean": 0.07064176960698687
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.6170082860753175,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.6221476338906443,
+    "own_minus_other_mean": -0.005139347815326767
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6170082860753175,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.5815195377240016,
+    "own_minus_other_mean": 0.03548874835131599
+  },
+  {
+    "ticker": "VLO",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.6977805655554963,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.6373766077895918,
+    "own_minus_other_mean": 0.06040395776590446
+  },
+  {
+    "ticker": "VLO",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6977805655554963,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6425869420374292,
+    "own_minus_other_mean": 0.055193623518067114
+  },
+  {
+    "ticker": "VLO",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.7459531777612102,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5594478599926669,
+    "own_minus_other_mean": 0.1865053177685433
+  },
+  {
+    "ticker": "VLO",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7459531777612102,
+    "n_other_proxies": 8,
+    "mean_other_score": 0.6267909383282211,
+    "own_minus_other_mean": 0.11916223943298909
+  },
+  {
+    "ticker": "VLO",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.678810442305156,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5937024901172382,
+    "own_minus_other_mean": 0.08510795218791778
+  },
+  {
+    "ticker": "VLO",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.678810442305156,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6228480585135814,
+    "own_minus_other_mean": 0.05596238379157459
+  },
+  {
+    "ticker": "VLO",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.6673450589552753,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.6428811615261256,
+    "own_minus_other_mean": 0.024463897429149672
+  },
+  {
+    "ticker": "VLO",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6673450589552753,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.6595176031993263,
+    "own_minus_other_mean": 0.007827455755949009
+  },
+  {
+    "ticker": "VLO",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.6017655803600163,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.5029105929822408,
+    "own_minus_other_mean": 0.09885498737777543
+  },
+  {
+    "ticker": "VLO",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.6017655803600163,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.5686618608480608,
+    "own_minus_other_mean": 0.033103719511955454
+  },
+  {
+    "ticker": "WFC",
+    "year": 2020,
+    "control_scope": "same_year",
+    "own_score": 0.19045153554012703,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.24421184077544617,
+    "own_minus_other_mean": -0.053760305235319134
+  },
+  {
+    "ticker": "WFC",
+    "year": 2020,
+    "control_scope": "same_sector_year",
+    "own_score": 0.19045153554012703,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.22596461833568945,
+    "own_minus_other_mean": -0.03551308279556242
+  },
+  {
+    "ticker": "WFC",
+    "year": 2021,
+    "control_scope": "same_year",
+    "own_score": 0.07211525799617949,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.10092638878262084,
+    "own_minus_other_mean": -0.028811130786441347
+  },
+  {
+    "ticker": "WFC",
+    "year": 2021,
+    "control_scope": "same_sector_year",
+    "own_score": 0.07211525799617949,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.13154959506726846,
+    "own_minus_other_mean": -0.05943433707108897
+  },
+  {
+    "ticker": "WFC",
+    "year": 2022,
+    "control_scope": "same_year",
+    "own_score": 0.20058140058036783,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.10002421133545017,
+    "own_minus_other_mean": 0.10055718924491766
+  },
+  {
+    "ticker": "WFC",
+    "year": 2022,
+    "control_scope": "same_sector_year",
+    "own_score": 0.20058140058036783,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.15450156240705198,
+    "own_minus_other_mean": 0.046079838173315846
+  },
+  {
+    "ticker": "WFC",
+    "year": 2023,
+    "control_scope": "same_year",
+    "own_score": 0.08883888995398904,
+    "n_other_proxies": 49,
+    "mean_other_score": 0.0828614612221059,
+    "own_minus_other_mean": 0.005977428731883144
+  },
+  {
+    "ticker": "WFC",
+    "year": 2023,
+    "control_scope": "same_sector_year",
+    "own_score": 0.08883888995398904,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.11226437514019814,
+    "own_minus_other_mean": -0.0234254851862091
+  },
+  {
+    "ticker": "WFC",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.11041471335826981,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.09542033005271922,
+    "own_minus_other_mean": 0.014994383305550599
+  },
+  {
+    "ticker": "WFC",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.11041471335826981,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.1008638786572481,
+    "own_minus_other_mean": 0.009550834701021721
+  },
+  {
+    "ticker": "XOM",
+    "year": 2024,
+    "control_scope": "same_year",
+    "own_score": 0.7596275699371735,
+    "n_other_proxies": 48,
+    "mean_other_score": 0.7583981364739067,
+    "own_minus_other_mean": 0.0012294334632667603
+  },
+  {
+    "ticker": "XOM",
+    "year": 2024,
+    "control_scope": "same_sector_year",
+    "own_score": 0.7596275699371735,
+    "n_other_proxies": 9,
+    "mean_other_score": 0.7631208041527288,
+    "own_minus_other_mean": -0.003493234215555252
+  }
+]

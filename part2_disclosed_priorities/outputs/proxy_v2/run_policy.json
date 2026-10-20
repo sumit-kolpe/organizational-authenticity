@@ -1,0 +1,13 @@
+{
+  "version": "proxy_review_v2.0",
+  "baseline_inventory_sha256": "39acc35ba84c7b777d3bd1f6f873b97a528a1319e37107c627ced7fba70bb284",
+  "roster_sha256": "3b7d43b1b3160bc1a08a4c6753bdf68d14c19f86c01b196cfee0456944312b67",
+  "lexicon_sha256": "79cab98c8c3450afe67fd2d113b4f5b9f784c2e65abfb1ee9b746a4f994db9d5",
+  "cik_overrides": {
+    "BLK": 1364742,
+    "XOM": 34088
+  },
+  "annual_proxy_override": "0001564590-18-009339",
+  "selection": "Filing calendar year; earliest DEF 14A except verified TSLA 2018 annual proxy; historical CIK overrides BLK/XOM.",
+  "human_source_review": "completed_no_changes_owner_confirmed_2026-10-19"
+}

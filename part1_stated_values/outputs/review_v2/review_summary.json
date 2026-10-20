@@ -1,0 +1,92 @@
+{
+  "total_rows": 450,
+  "eligible_observations": 140,
+  "eligible_companies": 37,
+  "reviewed_observations": 10,
+  "excluded_by_this_review": 1,
+  "known_comparisons": 83,
+  "changed_true": 53,
+  "changed_false": 30,
+  "comparisons_invalidated": 9,
+  "independent_human_validation": true,
+  "statuses": {
+    "coded_human_reviewed": 140,
+    "unavailable": 257,
+    "excluded_after_ai_review": 1,
+    "coding_validation_failed": 23,
+    "excluded_link_hub": 5,
+    "insufficient_body": 22,
+    "excluded_by_model": 2
+  },
+  "theme_counts": {
+    "inclusion": 65,
+    "innovation": 106,
+    "environment": 77,
+    "customer": 82,
+    "people": 99,
+    "community": 101,
+    "security_privacy": 50,
+    "integrity": 68,
+    "performance": 93
+  },
+  "coverage_by_year": [
+    {
+      "year": 2016,
+      "expected": 50,
+      "coded": 6,
+      "comparison_known": 0
+    },
+    {
+      "year": 2017,
+      "expected": 50,
+      "coded": 6,
+      "comparison_known": 6
+    },
+    {
+      "year": 2018,
+      "expected": 50,
+      "coded": 6,
+      "comparison_known": 6
+    },
+    {
+      "year": 2019,
+      "expected": 50,
+      "coded": 10,
+      "comparison_known": 6
+    },
+    {
+      "year": 2020,
+      "expected": 50,
+      "coded": 13,
+      "comparison_known": 6
+    },
+    {
+      "year": 2021,
+      "expected": 50,
+      "coded": 19,
+      "comparison_known": 8
+    },
+    {
+      "year": 2022,
+      "expected": 50,
+      "coded": 22,
+      "comparison_known": 17
+    },
+    {
+      "year": 2023,
+      "expected": 50,
+      "coded": 27,
+      "comparison_known": 19
+    },
+    {
+      "year": 2024,
+      "expected": 50,
+      "coded": 31,
+      "comparison_known": 15
+    }
+  ],
+  "human_review_completion": "completed_no_changes_owner_confirmed",
+  "human_review_confirmation_date": "2026-10-19",
+  "human_reviewed_inventory_rows": 450,
+  "final_accepted_annual_selections": 140
+}

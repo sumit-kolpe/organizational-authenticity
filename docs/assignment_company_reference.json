@@ -1,0 +1,256 @@
+{
+  "source": "Research Assistant Recruitment Task - Wharton-TAU Lab 2026 (3).pdf, required company table",
+  "purpose": "Assignment reference for detecting accidental changes to the working CSV. Update only if the authoritative assignment changes.",
+  "companies": [
+    {
+      "ticker": "MSFT",
+      "company_name": "Microsoft",
+      "sector": "Technology"
+    },
+    {
+      "ticker": "AAPL",
+      "company_name": "Apple",
+      "sector": "Technology"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA",
+      "sector": "Technology"
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "Alphabet",
+      "sector": "Technology"
+    },
+    {
+      "ticker": "META",
+      "company_name": "Meta Platforms",
+      "sector": "Technology"
+    },
+    {
+      "ticker": "AVGO",
+      "company_name": "Broadcom",
+      "sector": "Technology"
+    },
+    {
+      "ticker": "CRM",
+      "company_name": "Salesforce",
+      "sector": "Technology"
+    },
+    {
+      "ticker": "ORCL",
+      "company_name": "Oracle",
+      "sector": "Technology"
+    },
+    {
+      "ticker": "IBM",
+      "company_name": "IBM",
+      "sector": "Technology"
+    },
+    {
+      "ticker": "INTC",
+      "company_name": "Intel",
+      "sector": "Technology"
+    },
+    {
+      "ticker": "BRK.B",
+      "company_name": "Berkshire Hathaway",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "JPM",
+      "company_name": "JPMorgan Chase",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "BAC",
+      "company_name": "Bank of America",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "WFC",
+      "company_name": "Wells Fargo",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "GS",
+      "company_name": "Goldman Sachs",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "MS",
+      "company_name": "Morgan Stanley",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "BLK",
+      "company_name": "BlackRock",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "SCHW",
+      "company_name": "Charles Schwab",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "AXP",
+      "company_name": "American Express",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "C",
+      "company_name": "Citigroup",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "LLY",
+      "company_name": "Eli Lilly",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "UNH",
+      "company_name": "UnitedHealth Group",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "JNJ",
+      "company_name": "Johnson & Johnson",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "ABBV",
+      "company_name": "AbbVie",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "MRK",
+      "company_name": "Merck",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "TMO",
+      "company_name": "Thermo Fisher Scientific",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "ABT",
+      "company_name": "Abbott Laboratories",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "PFE",
+      "company_name": "Pfizer",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "MDT",
+      "company_name": "Medtronic",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "BMY",
+      "company_name": "Bristol-Myers Squibb",
+      "sector": "Healthcare"
+    },
+    {
+      "ticker": "AMZN",
+      "company_name": "Amazon",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "HD",
+      "company_name": "Home Depot",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "MCD",
+      "company_name": "McDonald's",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "NKE",
+      "company_name": "Nike",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "SBUX",
+      "company_name": "Starbucks",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "TGT",
+      "company_name": "Target",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "LOW",
+      "company_name": "Lowe's",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "TJX",
+      "company_name": "TJX Companies",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "F",
+      "company_name": "Ford Motor",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "XOM",
+      "company_name": "ExxonMobil",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "CVX",
+      "company_name": "Chevron",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "COP",
+      "company_name": "ConocoPhillips",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "EOG",
+      "company_name": "EOG Resources",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "SLB",
+      "company_name": "SLB (Schlumberger)",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "MPC",
+      "company_name": "Marathon Petroleum",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "PSX",
+      "company_name": "Phillips 66",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "VLO",
+      "company_name": "Valero Energy",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "OXY",
+      "company_name": "Occidental Petroleum",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "HAL",
+      "company_name": "Halliburton",
+      "sector": "Energy"
+    }
+  ]
+}

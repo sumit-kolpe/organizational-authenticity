@@ -1,0 +1,20 @@
+{
+  "version": "proxy_lexicon_v1",
+  "themes": {
+    "innovation": ["innovation", "innovative", "research and development", "technological advancement", "continuous improvement", "experimentation"],
+    "integrity": ["integrity", "ethical", "ethics", "code of conduct", "accountability", "transparency", "anti-corruption", "anti-bribery"],
+    "people": ["employee development", "employee engagement", "employee well-being", "employee wellbeing", "employee training", "talent development", "human capital", "workforce", "teamwork"],
+    "inclusion": ["diversity", "diverse workforce", "inclusion", "inclusive", "equal opportunity", "gender equality", "racial equity", "accessibility"],
+    "customer": ["customer satisfaction", "customer service", "customer experience", "client service", "client satisfaction", "product quality", "customer needs", "patient outcomes"],
+    "environment": ["climate change", "greenhouse gas", "carbon emissions", "renewable energy", "environmental", "decarbonization", "net zero", "net-zero", "energy efficiency", "biodiversity"],
+    "community": ["philanthropy", "philanthropic", "charitable", "community investment", "community engagement", "volunteer", "volunteering", "social impact", "community development"],
+    "security_privacy": ["cybersecurity", "cyber security", "data privacy", "data protection", "information security", "workplace safety", "occupational safety", "employee safety", "product safety"],
+    "performance": ["operational excellence", "financial performance", "financial discipline", "operating efficiency", "profitable growth", "long-term value", "long term value", "return on invested capital", "shareholder returns"]
+  },
+  "language_markers": {
+    "commitment": ["committed", "commitment", "pledge", "dedicated"],
+    "uncertainty": ["uncertain", "uncertainty", "may", "might", "could"],
+    "obligation": ["must", "required", "shall", "obligation"],
+    "covid": ["covid", "covid-19", "coronavirus", "pandemic"]
+  }
+}

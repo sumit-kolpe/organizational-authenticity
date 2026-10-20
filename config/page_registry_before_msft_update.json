@@ -1,0 +1,600 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-10-18T02:29:04.518923+00:00",
+  "scope_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "source_company_file": "config/companies.csv",
+  "source_pilot_validation": "part1_stated_values/outputs/pilot_validation.json",
+  "sector_basis": "assignment-defined groups; not newly verified GICS membership",
+  "companies": [
+    {
+      "ticker": "MSFT",
+      "company_name": "Microsoft",
+      "sector": "Technology",
+      "research_status": "pilot_evidence_only",
+      "candidate_ids": [
+        "MSFT_20160101214549_page",
+        "MSFT_20200102053409_page",
+        "MSFT_20240101141329_page"
+      ],
+      "research_notes": ""
+    },
+    {
+      "ticker": "AAPL",
+      "company_name": "Apple",
+      "sector": "Technology",
+      "research_status": "pilot_evidence_only",
+      "candidate_ids": [
+        "AAPL_20160101124138_page",
+        "AAPL_20200115042328_page",
+        "AAPL_20240319041941_page"
+      ],
+      "research_notes": ""
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "Alphabet",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "META",
+      "company_name": "Meta Platforms",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "AVGO",
+      "company_name": "Broadcom",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "CRM",
+      "company_name": "Salesforce",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "ORCL",
+      "company_name": "Oracle",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "IBM",
+      "company_name": "IBM",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "INTC",
+      "company_name": "Intel",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "BRK.B",
+      "company_name": "Berkshire Hathaway",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "JPM",
+      "company_name": "JPMorgan Chase",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "BAC",
+      "company_name": "Bank of America",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "WFC",
+      "company_name": "Wells Fargo",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "GS",
+      "company_name": "Goldman Sachs",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "MS",
+      "company_name": "Morgan Stanley",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "BLK",
+      "company_name": "BlackRock",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "SCHW",
+      "company_name": "Charles Schwab",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "AXP",
+      "company_name": "American Express",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "C",
+      "company_name": "Citigroup",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "LLY",
+      "company_name": "Eli Lilly",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "UNH",
+      "company_name": "UnitedHealth Group",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "JNJ",
+      "company_name": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "ABBV",
+      "company_name": "AbbVie",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "MRK",
+      "company_name": "Merck",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "TMO",
+      "company_name": "Thermo Fisher Scientific",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "ABT",
+      "company_name": "Abbott Laboratories",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "PFE",
+      "company_name": "Pfizer",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "MDT",
+      "company_name": "Medtronic",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "BMY",
+      "company_name": "Bristol-Myers Squibb",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "AMZN",
+      "company_name": "Amazon",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "HD",
+      "company_name": "Home Depot",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "MCD",
+      "company_name": "McDonald's",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "NKE",
+      "company_name": "Nike",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "SBUX",
+      "company_name": "Starbucks",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "TGT",
+      "company_name": "Target",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "LOW",
+      "company_name": "Lowe's",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "TJX",
+      "company_name": "TJX Companies",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "F",
+      "company_name": "Ford Motor",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "XOM",
+      "company_name": "ExxonMobil",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "CVX",
+      "company_name": "Chevron",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "COP",
+      "company_name": "ConocoPhillips",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "EOG",
+      "company_name": "EOG Resources",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "SLB",
+      "company_name": "SLB (Schlumberger)",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "MPC",
+      "company_name": "Marathon Petroleum",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "PSX",
+      "company_name": "Phillips 66",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "VLO",
+      "company_name": "Valero Energy",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "OXY",
+      "company_name": "Occidental Petroleum",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "HAL",
+      "company_name": "Halliburton",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "MSFT_20160101214549_page",
+      "ticker": "MSFT",
+      "original_url": "http://www.microsoft.com/en-us/about",
+      "hostname": "www.microsoft.com",
+      "page_type": "corporate_overview",
+      "page_family": "microsoft_about",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_candidate",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": false,
+      "selection_rationale": "Used for the engineering pilot; broader and historically comparable candidates still need review.",
+      "scope_notes": "Overview mixes identity statements and directory/project descriptions.",
+      "historical_evidence": [
+        {
+          "capture_id": "MSFT_20160101214549",
+          "timestamp": "20160101214549",
+          "snapshot_url": "https://web.archive.org/web/20160101214549/http://www.microsoft.com/en-us/about",
+          "source_sha256": "63f10acf4619006f22483223cd56318c9f37f0707dedb824b0796af29953a6a2",
+          "raw_html": "part1_stated_values/data/raw/html/MSFT_20160101214549.html",
+          "technical_status": "pass",
+          "technical_warnings": [],
+          "review_record": "docs/pilot_validation_review.md"
+        }
+      ]
+    },
+    {
+      "candidate_id": "MSFT_20200102053409_page",
+      "ticker": "MSFT",
+      "original_url": "https://www.microsoft.com/en-us/about",
+      "hostname": "www.microsoft.com",
+      "page_type": "corporate_overview",
+      "page_family": "microsoft_about",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_candidate",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": false,
+      "selection_rationale": "Used for the engineering pilot; broader and historically comparable candidates still need review.",
+      "scope_notes": "Overview mixes identity statements and directory/project descriptions.",
+      "historical_evidence": [
+        {
+          "capture_id": "MSFT_20200102053409",
+          "timestamp": "20200102053409",
+          "snapshot_url": "https://web.archive.org/web/20200102053409/https://www.microsoft.com/en-us/about",
+          "source_sha256": "095f32b7f64c18b4898e5419edbbfade3a41560876329de96c065ca6df54b893",
+          "raw_html": "part1_stated_values/data/raw/html/MSFT_20200102053409.html",
+          "technical_status": "pass",
+          "technical_warnings": [],
+          "review_record": "docs/pilot_validation_review.md"
+        }
+      ]
+    },
+    {
+      "candidate_id": "MSFT_20240101141329_page",
+      "ticker": "MSFT",
+      "original_url": "https://www.microsoft.com/en-us/about/",
+      "hostname": "www.microsoft.com",
+      "page_type": "corporate_overview",
+      "page_family": "microsoft_about",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_candidate",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": false,
+      "selection_rationale": "Used for the engineering pilot; broader and historically comparable candidates still need review.",
+      "scope_notes": "Overview mixes identity statements and directory/project descriptions.",
+      "historical_evidence": [
+        {
+          "capture_id": "MSFT_20240101141329",
+          "timestamp": "20240101141329",
+          "snapshot_url": "https://web.archive.org/web/20240101141329/https://www.microsoft.com/en-us/about/",
+          "source_sha256": "dd360d099732a862ff764aae9898cbcd9247d5340f445b74868d72fc24be484a",
+          "raw_html": "part1_stated_values/data/raw/html/MSFT_20240101141329.html",
+          "technical_status": "pass",
+          "technical_warnings": [],
+          "review_record": "docs/pilot_validation_review.md"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AAPL_20160101124138_page",
+      "ticker": "AAPL",
+      "original_url": "https://www.apple.com/jobs/us/",
+      "hostname": "www.apple.com",
+      "page_type": "recruitment_with_values",
+      "page_family": "apple_careers_identity",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_candidate",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": false,
+      "selection_rationale": "Used for the engineering pilot; broader and historically comparable candidates still need review.",
+      "scope_notes": "Recruitment framing may emphasize employees disproportionately.",
+      "historical_evidence": [
+        {
+          "capture_id": "AAPL_20160101124138",
+          "timestamp": "20160101124138",
+          "snapshot_url": "https://web.archive.org/web/20160101124138/https://www.apple.com/jobs/us/",
+          "source_sha256": "815fc3f793039ed335db686664a4b3e447adab9a9249d0a0fe63b6ac6a3a209e",
+          "raw_html": "part1_stated_values/data/raw/html/AAPL_20160101124138.html",
+          "technical_status": "pass",
+          "technical_warnings": [],
+          "review_record": "docs/pilot_validation_review.md"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AAPL_20200115042328_page",
+      "ticker": "AAPL",
+      "original_url": "https://www.apple.com/jobs/us/about.html",
+      "hostname": "www.apple.com",
+      "page_type": "recruitment_with_values",
+      "page_family": "apple_careers_identity",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_candidate",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": false,
+      "selection_rationale": "Used for the engineering pilot; broader and historically comparable candidates still need review.",
+      "scope_notes": "Recruitment framing may emphasize employees disproportionately.",
+      "historical_evidence": [
+        {
+          "capture_id": "AAPL_20200115042328",
+          "timestamp": "20200115042328",
+          "snapshot_url": "https://web.archive.org/web/20200115042328/https://www.apple.com/jobs/us/about.html",
+          "source_sha256": "5e36c8eda5b74172200bd754da85395c79ed3f59ba2e86de48a520965e1f28be",
+          "raw_html": "part1_stated_values/data/raw/html/AAPL_20200115042328.html",
+          "technical_status": "pass",
+          "technical_warnings": [],
+          "review_record": "docs/pilot_validation_review.md"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AAPL_20240319041941_page",
+      "ticker": "AAPL",
+      "original_url": "https://www.apple.com/careers/us/",
+      "hostname": "www.apple.com",
+      "page_type": "recruitment_with_values",
+      "page_family": "apple_careers_identity",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_candidate",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": false,
+      "selection_rationale": "Used for the engineering pilot; broader and historically comparable candidates still need review.",
+      "scope_notes": "Recruitment framing may emphasize employees disproportionately.",
+      "historical_evidence": [
+        {
+          "capture_id": "AAPL_20240319041941",
+          "timestamp": "20240319041941",
+          "snapshot_url": "https://web.archive.org/web/20240319041941/https://www.apple.com/careers/us/",
+          "source_sha256": "0a8d4ba2456a51c34910a9c4d6ebc4f9252e36783f51df5873db5685361f7953",
+          "raw_html": "part1_stated_values/data/raw/html/AAPL_20240319041941.html",
+          "technical_status": "pass_with_warnings",
+          "technical_warnings": [
+            "Extraction metadata lacks output_sha256. Current hash is recorded, but prior text integrity is not established by length alone."
+          ],
+          "review_record": "docs/pilot_validation_review.md"
+        }
+      ]
+    }
+  ]
+}

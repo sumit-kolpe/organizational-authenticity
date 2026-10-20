@@ -1,0 +1,1469 @@
+{
+  "schema_version": 1,
+  "created_at_utc": "2026-10-18T02:29:04.518923+00:00",
+  "scope_years": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "source_company_file": "config/companies.csv",
+  "source_pilot_validation": "part1_stated_values/outputs/pilot_validation.json",
+  "sector_basis": "assignment-defined groups; not newly verified GICS membership",
+  "companies": [
+    {
+      "ticker": "MSFT",
+      "company_name": "Microsoft",
+      "sector": "Technology",
+      "research_status": "preferred_page_family_provisional",
+      "candidate_ids": [
+        "MSFT_20160101214549_page",
+        "MSFT_20200102053409_page",
+        "MSFT_20240101141329_page",
+        "MSFT_20160603075705_page",
+        "MSFT_20200106023200_page",
+        "MSFT_20200130045129_page"
+      ],
+      "research_notes": "Provisionally prefer the values-overview family: relevant organizational messaging inspected in 2016, 2020 and 2024, with HTTP-200 HTML discovery records in all nine years. Corporate-values remains an alternative with narrower explicit values and no returned records for the queried URL in 2016–2019. No historical absence inferred. Intervening-year content and final annual selections remain unvalidated. Preserve exact returned URL variants and do not silently switch page families.",
+      "preferred_page_family": "microsoft_values_overview"
+    },
+    {
+      "ticker": "AAPL",
+      "company_name": "Apple",
+      "sector": "Technology",
+      "research_status": "preferred_page_family_provisional",
+      "candidate_ids": [
+        "AAPL_20160101124138_page",
+        "AAPL_20200115042328_page",
+        "AAPL_20240319041941_page",
+        "AAPL_20240721115837_page",
+        "AAPL_20241122211637_page"
+      ],
+      "research_notes": "Careers identity family provisionally preferred as a documented fallback after comparison with investor-values pages. Combined discovery queries provide HTTP-200 HTML candidate records for all nine years; relevant careers content inspected in 2016, 2020, 2022 and 2024. Recruitment framing may overweight employees. Landing and About page scope differs and must be reviewed per annual capture; family grouping does not establish equivalence or redirect destinations. Investor-values variants retained separately. No automatic switching to investor pages, no effective intervals, and no final annual selections.",
+      "preferred_page_family": "apple_careers_identity"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "Alphabet",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "META",
+      "company_name": "Meta Platforms",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "AVGO",
+      "company_name": "Broadcom",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "CRM",
+      "company_name": "Salesforce",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "ORCL",
+      "company_name": "Oracle",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "IBM",
+      "company_name": "IBM",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "INTC",
+      "company_name": "Intel",
+      "sector": "Technology",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "BRK.B",
+      "company_name": "Berkshire Hathaway",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "JPM",
+      "company_name": "JPMorgan Chase",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "BAC",
+      "company_name": "Bank of America",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "WFC",
+      "company_name": "Wells Fargo",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "GS",
+      "company_name": "Goldman Sachs",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "MS",
+      "company_name": "Morgan Stanley",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "BLK",
+      "company_name": "BlackRock",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "SCHW",
+      "company_name": "Charles Schwab",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "AXP",
+      "company_name": "American Express",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "C",
+      "company_name": "Citigroup",
+      "sector": "Financials",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "LLY",
+      "company_name": "Eli Lilly",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "UNH",
+      "company_name": "UnitedHealth Group",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "JNJ",
+      "company_name": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "ABBV",
+      "company_name": "AbbVie",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "MRK",
+      "company_name": "Merck",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "TMO",
+      "company_name": "Thermo Fisher Scientific",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "ABT",
+      "company_name": "Abbott Laboratories",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "PFE",
+      "company_name": "Pfizer",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "MDT",
+      "company_name": "Medtronic",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "BMY",
+      "company_name": "Bristol-Myers Squibb",
+      "sector": "Healthcare",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "AMZN",
+      "company_name": "Amazon",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "HD",
+      "company_name": "Home Depot",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "MCD",
+      "company_name": "McDonald's",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "NKE",
+      "company_name": "Nike",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "SBUX",
+      "company_name": "Starbucks",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "TGT",
+      "company_name": "Target",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "LOW",
+      "company_name": "Lowe's",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "TJX",
+      "company_name": "TJX Companies",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "F",
+      "company_name": "Ford Motor",
+      "sector": "Consumer Discretionary",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "XOM",
+      "company_name": "ExxonMobil",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "CVX",
+      "company_name": "Chevron",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "COP",
+      "company_name": "ConocoPhillips",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "EOG",
+      "company_name": "EOG Resources",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "SLB",
+      "company_name": "SLB (Schlumberger)",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "MPC",
+      "company_name": "Marathon Petroleum",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "PSX",
+      "company_name": "Phillips 66",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "VLO",
+      "company_name": "Valero Energy",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "OXY",
+      "company_name": "Occidental Petroleum",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    },
+    {
+      "ticker": "HAL",
+      "company_name": "Halliburton",
+      "sector": "Energy",
+      "research_status": "pending_research",
+      "candidate_ids": [],
+      "research_notes": ""
+    }
+  ],
+  "candidates": [
+    {
+      "candidate_id": "MSFT_20160101214549_page",
+      "ticker": "MSFT",
+      "original_url": "http://www.microsoft.com/en-us/about",
+      "hostname": "www.microsoft.com",
+      "page_type": "corporate_overview",
+      "page_family": "microsoft_about",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_candidate",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": true,
+      "selection_rationale": "Used for the engineering pilot; broader and historically comparable candidates still need review. Following comparison, the values-overview family is provisionally preferred for Microsoft; retain this candidate as alternative evidence.",
+      "scope_notes": "Overview mixes identity statements and directory/project descriptions.",
+      "historical_evidence": [
+        {
+          "capture_id": "MSFT_20160101214549",
+          "timestamp": "20160101214549",
+          "snapshot_url": "https://web.archive.org/web/20160101214549/http://www.microsoft.com/en-us/about",
+          "source_sha256": "63f10acf4619006f22483223cd56318c9f37f0707dedb824b0796af29953a6a2",
+          "raw_html": "part1_stated_values/data/raw/html/MSFT_20160101214549.html",
+          "technical_status": "pass",
+          "technical_warnings": [],
+          "review_record": "docs/pilot_validation_review.md"
+        }
+      ]
+    },
+    {
+      "candidate_id": "MSFT_20200102053409_page",
+      "ticker": "MSFT",
+      "original_url": "https://www.microsoft.com/en-us/about",
+      "hostname": "www.microsoft.com",
+      "page_type": "corporate_overview",
+      "page_family": "microsoft_about",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_candidate",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": true,
+      "selection_rationale": "Used for the engineering pilot; broader and historically comparable candidates still need review. Following comparison, the values-overview family is provisionally preferred for Microsoft; retain this candidate as alternative evidence.",
+      "scope_notes": "Overview mixes identity statements and directory/project descriptions.",
+      "historical_evidence": [
+        {
+          "capture_id": "MSFT_20200102053409",
+          "timestamp": "20200102053409",
+          "snapshot_url": "https://web.archive.org/web/20200102053409/https://www.microsoft.com/en-us/about",
+          "source_sha256": "095f32b7f64c18b4898e5419edbbfade3a41560876329de96c065ca6df54b893",
+          "raw_html": "part1_stated_values/data/raw/html/MSFT_20200102053409.html",
+          "technical_status": "pass",
+          "technical_warnings": [],
+          "review_record": "docs/pilot_validation_review.md"
+        }
+      ]
+    },
+    {
+      "candidate_id": "MSFT_20240101141329_page",
+      "ticker": "MSFT",
+      "original_url": "https://www.microsoft.com/en-us/about/",
+      "hostname": "www.microsoft.com",
+      "page_type": "corporate_overview",
+      "page_family": "microsoft_about",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_candidate",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": true,
+      "selection_rationale": "Used for the engineering pilot; broader and historically comparable candidates still need review. Following comparison, the values-overview family is provisionally preferred for Microsoft; retain this candidate as alternative evidence.",
+      "scope_notes": "Overview mixes identity statements and directory/project descriptions.",
+      "historical_evidence": [
+        {
+          "capture_id": "MSFT_20240101141329",
+          "timestamp": "20240101141329",
+          "snapshot_url": "https://web.archive.org/web/20240101141329/https://www.microsoft.com/en-us/about/",
+          "source_sha256": "dd360d099732a862ff764aae9898cbcd9247d5340f445b74868d72fc24be484a",
+          "raw_html": "part1_stated_values/data/raw/html/MSFT_20240101141329.html",
+          "technical_status": "pass",
+          "technical_warnings": [],
+          "review_record": "docs/pilot_validation_review.md"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AAPL_20160101124138_page",
+      "ticker": "AAPL",
+      "original_url": "https://www.apple.com/jobs/us/",
+      "hostname": "www.apple.com",
+      "page_type": "recruitment_with_values",
+      "page_family": "apple_careers_identity",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "preferred_fallback_candidate_provisional",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": true,
+      "selection_rationale": "Provisional careers-family fallback based on inspected relevant values content and broader observed historical coverage than the investigated investor-values variants. Per-year scope and content validation remain required.",
+      "scope_notes": "Recruitment framing may overweight employee themes. About and landing pages differ in scope; do not interpret page redesign or selection changes automatically as substantive value changes.",
+      "historical_evidence": [
+        {
+          "capture_id": "AAPL_20160101124138",
+          "timestamp": "20160101124138",
+          "snapshot_url": "https://web.archive.org/web/20160101124138/https://www.apple.com/jobs/us/",
+          "source_sha256": "815fc3f793039ed335db686664a4b3e447adab9a9249d0a0fe63b6ac6a3a209e",
+          "raw_html": "part1_stated_values/data/raw/html/AAPL_20160101124138.html",
+          "technical_status": "pass",
+          "technical_warnings": [],
+          "review_record": "docs/pilot_validation_review.md"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AAPL_20200115042328_page",
+      "ticker": "AAPL",
+      "original_url": "https://www.apple.com/jobs/us/about.html",
+      "hostname": "www.apple.com",
+      "page_type": "recruitment_with_values",
+      "page_family": "apple_careers_identity",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "preferred_fallback_candidate_provisional",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": true,
+      "selection_rationale": "Provisional careers-family fallback based on inspected relevant values content and broader observed historical coverage than the investigated investor-values variants. Per-year scope and content validation remain required.",
+      "scope_notes": "Recruitment framing may overweight employee themes. About and landing pages differ in scope; do not interpret page redesign or selection changes automatically as substantive value changes.",
+      "historical_evidence": [
+        {
+          "capture_id": "AAPL_20200115042328",
+          "timestamp": "20200115042328",
+          "snapshot_url": "https://web.archive.org/web/20200115042328/https://www.apple.com/jobs/us/about.html",
+          "source_sha256": "5e36c8eda5b74172200bd754da85395c79ed3f59ba2e86de48a520965e1f28be",
+          "raw_html": "part1_stated_values/data/raw/html/AAPL_20200115042328.html",
+          "technical_status": "pass",
+          "technical_warnings": [],
+          "review_record": "docs/pilot_validation_review.md"
+        }
+      ]
+    },
+    {
+      "candidate_id": "AAPL_20240319041941_page",
+      "ticker": "AAPL",
+      "original_url": "https://www.apple.com/careers/us/",
+      "hostname": "www.apple.com",
+      "page_type": "recruitment_with_values",
+      "page_family": "apple_careers_identity",
+      "verification_status": "inspected_pilot_capture_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "preferred_fallback_candidate_provisional",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": true,
+      "selection_rationale": "Provisional careers-family fallback based on inspected relevant values content and broader observed historical coverage than the investigated investor-values variants. Per-year scope and content validation remain required.",
+      "scope_notes": "Recruitment framing may overweight employee themes. About and landing pages differ in scope; do not interpret page redesign or selection changes automatically as substantive value changes.",
+      "historical_evidence": [
+        {
+          "capture_id": "AAPL_20240319041941",
+          "timestamp": "20240319041941",
+          "snapshot_url": "https://web.archive.org/web/20240319041941/https://www.apple.com/careers/us/",
+          "source_sha256": "0a8d4ba2456a51c34910a9c4d6ebc4f9252e36783f51df5873db5685361f7953",
+          "raw_html": "part1_stated_values/data/raw/html/AAPL_20240319041941.html",
+          "technical_status": "pass_with_warnings",
+          "technical_warnings": [
+            "Extraction metadata lacks output_sha256. Current hash is recorded, but prior text integrity is not established by length alone."
+          ],
+          "review_record": "docs/pilot_validation_review.md"
+        },
+        {
+          "capture_id": "AAPL_20220117000454",
+          "timestamp": "20220117000454",
+          "snapshot_url": "https://web.archive.org/web/20220117000454/https://www.apple.com/careers/us/",
+          "source_sha256": "44daada5ad9e64f025baba10f9ef134a6af37a59ee0f20d3133f0f97852f1474",
+          "raw_html": "part1_stated_values/data/raw/html/AAPL_20220117000454.html",
+          "raw_metadata": "part1_stated_values/data/raw/html/AAPL_20220117000454.json",
+          "technical_status": "download_integrity_checked",
+          "technical_warnings": [
+            "Final clean extraction not yet validated; archive interface and site boilerplate require removal."
+          ],
+          "content_review_status": "source_content_inspected",
+          "review_basis": "Inspection of uploaded raw HTML during Step 3.1; not LLM classification.",
+          "review_notes": "Careers page with seven explicit values, culture language and attributed employee testimonials. Archive date is January 17, 2022; footer copyright 2021 is not the observation year.",
+          "annual_selection_final": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "MSFT_20160603075705_page",
+      "ticker": "MSFT",
+      "original_url": "http://www.microsoft.com:80/en-us/about/values",
+      "hostname": "www.microsoft.com",
+      "page_type": "values_overview",
+      "page_family": "microsoft_values_overview",
+      "verification_status": "inspected_discovery_captures_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "preferred_candidate_provisional",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": true,
+      "selection_rationale": "Relevant values and mission content plus observed discovery coverage across 2016–2024 favor consistent page-family collection. Coverage is sample-based; usable content is not established for every year.",
+      "scope_notes": "Broader priorities and initiatives; do not silently substitute for the narrower corporate-values page.",
+      "historical_evidence": [
+        {
+          "capture_id": "MSFT_20160603075705",
+          "timestamp": "20160603075705",
+          "snapshot_url": "https://web.archive.org/web/20160603075705/http://www.microsoft.com:80/en-us/about/values",
+          "source_sha256": "f869ab137d23e6d4784e477979d3ac96fddcb1f607e65e9a402b5ffff9973c4a",
+          "raw_html": "part1_stated_values/data/raw/html/MSFT_20160603075705.html",
+          "raw_metadata": "part1_stated_values/data/raw/html/MSFT_20160603075705.json",
+          "technical_status": "download_integrity_checked",
+          "technical_warnings": [
+            "Ordinary replay includes archive interface; final clean extraction not yet validated."
+          ],
+          "content_review_status": "source_content_inspected",
+          "review_notes": "What we value: Innovation; Diversity and inclusion; Corporate social responsibility; Philanthropies; Environment; Trustworthy Computing. No link containing corporate-values was found in this capture; this does not establish historical absence elsewhere.",
+          "review_basis": "Inspection of uploaded raw HTML during Step 3.1; not an LLM theme classification.",
+          "annual_selection_final": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "MSFT_20200106023200_page",
+      "ticker": "MSFT",
+      "original_url": "https://www.microsoft.com/en-us/about/values",
+      "hostname": "www.microsoft.com",
+      "page_type": "values_overview",
+      "page_family": "microsoft_values_overview",
+      "verification_status": "inspected_discovery_captures_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "preferred_candidate_provisional",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": true,
+      "selection_rationale": "Relevant values and mission content plus observed discovery coverage across 2016–2024 favor consistent page-family collection. Coverage is sample-based; usable content is not established for every year.",
+      "scope_notes": "Broader priorities and initiatives; do not silently substitute for the narrower corporate-values page.",
+      "historical_evidence": [
+        {
+          "capture_id": "MSFT_20200106023200",
+          "timestamp": "20200106023200",
+          "snapshot_url": "https://web.archive.org/web/20200106023200/https://www.microsoft.com/en-us/about/values",
+          "source_sha256": "a582736ed41bd0e9583aeed3167fc8e750bc1f6423d18e1729af57ba42cdedbf",
+          "raw_html": "part1_stated_values/data/raw/html/MSFT_20200106023200.html",
+          "raw_metadata": "part1_stated_values/data/raw/html/MSFT_20200106023200.json",
+          "technical_status": "download_integrity_checked",
+          "technical_warnings": [
+            "Ordinary replay includes archive interface; final clean extraction not yet validated."
+          ],
+          "content_review_status": "source_content_inspected",
+          "review_notes": "What we value: mission plus Innovation, Diversity and inclusion, Corporate social responsibility, AI, and Trustworthy Computing. Contains a link to /en-us/about/corporate-values.",
+          "review_basis": "Inspection of uploaded raw HTML during Step 3.1; not an LLM theme classification.",
+          "annual_selection_final": false
+        },
+        {
+          "capture_id": "MSFT_20240101141353",
+          "timestamp": "20240101141353",
+          "snapshot_url": "https://web.archive.org/web/20240101141353/https://www.microsoft.com/en-us/about/values",
+          "source_sha256": "f0eb845b6f840538a782af064fc32e2c996fe49557267c80e7c3cd9640aee57b",
+          "raw_html": "part1_stated_values/data/raw/html/MSFT_20240101141353.html",
+          "raw_metadata": "part1_stated_values/data/raw/html/MSFT_20240101141353.json",
+          "technical_status": "download_integrity_checked",
+          "technical_warnings": [
+            "Ordinary replay includes archive interface; final clean extraction not yet validated."
+          ],
+          "content_review_status": "source_content_inspected",
+          "review_notes": "What we value: mission statement; Innovation; Diversity and inclusion; Corporate Social Responsibility; AI; Trustworthy Computing; Responding to COVID-19 together. COVID-19 language is present at the capture date, not necessarily newly written in 2024. Includes a link labelled Learn about our corporate values.",
+          "review_basis": "Inspection of uploaded raw HTML during Step 3.1; not an LLM theme classification.",
+          "annual_selection_final": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "MSFT_20200130045129_page",
+      "ticker": "MSFT",
+      "original_url": "https://www.microsoft.com/en-us/about/corporate-values",
+      "hostname": "www.microsoft.com",
+      "page_type": "declared_corporate_values",
+      "page_family": "microsoft_declared_corporate_values",
+      "verification_status": "inspected_discovery_captures_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_candidate",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": true,
+      "selection_rationale": "Relevant alternative inspected during Step 3.1; historical coverage and final page-family choice remain unresolved. Following comparison, the values-overview family is provisionally preferred for Microsoft; retain this candidate as alternative evidence.",
+      "scope_notes": "Explicit named corporate values; narrower scope than the values overview.",
+      "historical_evidence": [
+        {
+          "capture_id": "MSFT_20200130045129",
+          "timestamp": "20200130045129",
+          "snapshot_url": "https://web.archive.org/web/20200130045129/https://www.microsoft.com/en-us/about/corporate-values",
+          "source_sha256": "a24baaee6ce4e086c33e39dbb949a1a9e2dfcc69bc61c92740e9a60535f74602",
+          "raw_html": "part1_stated_values/data/raw/html/MSFT_20200130045129.html",
+          "raw_metadata": "part1_stated_values/data/raw/html/MSFT_20200130045129.json",
+          "technical_status": "download_integrity_checked",
+          "technical_warnings": [
+            "Ordinary replay includes archive interface; final clean extraction not yet validated."
+          ],
+          "content_review_status": "source_content_inspected",
+          "review_notes": "Our corporate values: Respect, Integrity, Accountability, each with a definition. Introductory paragraph links values to mission and culture.",
+          "review_basis": "Inspection of uploaded raw HTML during Step 3.1; not an LLM theme classification.",
+          "annual_selection_final": false
+        },
+        {
+          "capture_id": "MSFT_20240220165640",
+          "timestamp": "20240220165640",
+          "snapshot_url": "https://web.archive.org/web/20240220165640/https://www.microsoft.com/en-us/about/corporate-values",
+          "source_sha256": "20e9508ac7c84f3898f4078ee0a8632e98bd0ec5bd9dbab1d5b8edf45468d166",
+          "raw_html": "part1_stated_values/data/raw/html/MSFT_20240220165640.html",
+          "raw_metadata": "part1_stated_values/data/raw/html/MSFT_20240220165640.json",
+          "technical_status": "download_integrity_checked",
+          "technical_warnings": [
+            "Ordinary replay includes archive interface; final clean extraction not yet validated."
+          ],
+          "content_review_status": "source_content_inspected",
+          "review_notes": "Our corporate values: Respect, Integrity, Accountability. Definitions match the inspected January 2020 capture; introduction differs. Intervening years have not been checked.",
+          "review_basis": "Inspection of uploaded raw HTML during Step 3.1; not an LLM theme classification.",
+          "annual_selection_final": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "AAPL_20240721115837_page",
+      "ticker": "AAPL",
+      "original_url": "https://investor.apple.com/our_values/default.aspx",
+      "hostname": "investor.apple.com",
+      "page_type": "investor_values_overview",
+      "page_family": "apple_investor_values",
+      "verification_status": "inspected_discovery_captures_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_alternative",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": true,
+      "selection_rationale": "Relevant company-wide values content; queried variants returned records only in 2024 within the study window. No historical absence or launch date inferred.",
+      "scope_notes": "Investor-facing framing, explicit values headings and report directory; distinguish report links from substantive values claims.",
+      "historical_evidence": [
+        {
+          "capture_id": "AAPL_20240721115837",
+          "timestamp": "20240721115837",
+          "snapshot_url": "https://web.archive.org/web/20240721115837/https://investor.apple.com/our_values/default.aspx",
+          "source_sha256": "4c0eda34edb1d7ade93c2c07851aeddc7522874b8337ad76f64d1a3f860f3a3d",
+          "raw_html": "part1_stated_values/data/raw/html/AAPL_20240721115837.html",
+          "raw_metadata": "part1_stated_values/data/raw/html/AAPL_20240721115837.json",
+          "technical_status": "download_integrity_checked",
+          "technical_warnings": [
+            "Final clean extraction not yet validated; archive interface and site boilerplate require removal."
+          ],
+          "content_review_status": "source_content_inspected",
+          "review_basis": "Inspection of uploaded raw HTML during Step 3.1; not LLM classification.",
+          "review_notes": "Company-wide values introduction, seven value headings and report directory. Whitespace-normalized inspected text from opening quotation through report directory matches between the July default.aspx and November directory-URL captures; no continuous availability or unchanged intervening content inferred.",
+          "annual_selection_final": false
+        }
+      ]
+    },
+    {
+      "candidate_id": "AAPL_20241122211637_page",
+      "ticker": "AAPL",
+      "original_url": "https://investor.apple.com/our_values/",
+      "hostname": "investor.apple.com",
+      "page_type": "investor_values_overview",
+      "page_family": "apple_investor_values",
+      "verification_status": "inspected_discovery_captures_only",
+      "effective_from": null,
+      "effective_to": null,
+      "selection_status": "provisional_alternative",
+      "selected_for_annual_collection": false,
+      "alternative_candidates_reviewed": true,
+      "selection_rationale": "Relevant company-wide values content; queried variants returned records only in 2024 within the study window. No historical absence or launch date inferred.",
+      "scope_notes": "Investor-facing framing, explicit values headings and report directory; distinguish report links from substantive values claims.",
+      "historical_evidence": [
+        {
+          "capture_id": "AAPL_20241122211637",
+          "timestamp": "20241122211637",
+          "snapshot_url": "https://web.archive.org/web/20241122211637/https://investor.apple.com/our_values/",
+          "source_sha256": "cb5fc56372bbac8a9171e2542f70931c692c214683e5ff81ea2ca18823d518bb",
+          "raw_html": "part1_stated_values/data/raw/html/AAPL_20241122211637.html",
+          "raw_metadata": "part1_stated_values/data/raw/html/AAPL_20241122211637.json",
+          "technical_status": "download_integrity_checked",
+          "technical_warnings": [
+            "Final clean extraction not yet validated; archive interface and site boilerplate require removal."
+          ],
+          "content_review_status": "source_content_inspected",
+          "review_basis": "Inspection of uploaded raw HTML during Step 3.1; not LLM classification.",
+          "review_notes": "Company-wide values introduction, seven value headings and report directory. Whitespace-normalized inspected text from opening quotation through report directory matches between the July default.aspx and November directory-URL captures; no continuous availability or unchanged intervening content inferred.",
+          "annual_selection_final": false
+        }
+      ]
+    }
+  ],
+  "discovery_queries": [
+    {
+      "ticker": "MSFT",
+      "source_file": "part1_stated_values/data/raw/cdx/aa887a5316076bfb5abd645f79c27cbaae5850a4a7675bb0957900fdb857804b.json",
+      "source_sha256": "edd37fc304d921b0e96747113308b0026de843dfd9cb497cb6dcabf2b1b2d933",
+      "request_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fabout%2Fvalues&matchType=exact&from=2020&to=2020&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype&limit=5",
+      "request_parameters": {
+        "url": "https://www.microsoft.com/en-us/about/values",
+        "matchType": "exact",
+        "from": "2020",
+        "to": "2020",
+        "output": "json",
+        "fl": "timestamp,original,statuscode,mimetype",
+        "limit": "5"
+      },
+      "retrieved_at_utc": "2026-10-18T02:31:14.009506+00:00",
+      "api_http_status": 200,
+      "capture_records_returned": 5,
+      "inventory_complete": false,
+      "interpretation": "Limited discovery sample; not a complete annual inventory."
+    },
+    {
+      "ticker": "MSFT",
+      "source_file": "part1_stated_values/data/raw/cdx/afc4224db7e109eb9c1fa20e2017194a664f956c32e4c1ca973ecda46a267c8c.json",
+      "source_sha256": "904a91e6c7cc6dca2f387d1f145b2b72370c96406c371bbd563f02230d7361e8",
+      "request_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fabout%2Fcorporate-values&matchType=exact&from=2020&to=2020&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype&limit=5",
+      "request_parameters": {
+        "url": "https://www.microsoft.com/en-us/about/corporate-values",
+        "matchType": "exact",
+        "from": "2020",
+        "to": "2020",
+        "output": "json",
+        "fl": "timestamp,original,statuscode,mimetype",
+        "limit": "5"
+      },
+      "retrieved_at_utc": "2026-10-18T02:35:22.516228+00:00",
+      "api_http_status": 200,
+      "capture_records_returned": 3,
+      "inventory_complete": false,
+      "interpretation": "Limited discovery sample; not a complete annual inventory."
+    },
+    {
+      "ticker": "MSFT",
+      "source_file": "part1_stated_values/data/raw/cdx/9b77b7be7d6365777ded363d426fca6193b9337e67ba2803c6fd74bcfaf4ff4b.json",
+      "source_sha256": "90a8ade621fca70a5c138b470889eb81cd40fb69f901f1cf38db7e2472e42720",
+      "request_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fabout%2Fcorporate-values&matchType=exact&from=2016&to=2016&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype&limit=5",
+      "request_parameters": {
+        "url": "https://www.microsoft.com/en-us/about/corporate-values",
+        "matchType": "exact",
+        "from": "2016",
+        "to": "2016",
+        "output": "json",
+        "fl": "timestamp,original,statuscode,mimetype",
+        "limit": "5"
+      },
+      "retrieved_at_utc": "2026-10-18T02:38:31.216064+00:00",
+      "api_http_status": 200,
+      "capture_records_returned": 0,
+      "inventory_complete": false,
+      "interpretation": "No records returned by this specific query; historical absence is not established."
+    },
+    {
+      "ticker": "MSFT",
+      "source_file": "part1_stated_values/data/raw/cdx/cf050c85c31872853cd44cc393878b3dd7cdc663ba1784700aeb45d9700e56bd.json",
+      "source_sha256": "49cb9c3323786ec9b6bc953cc8377d66a1f4475d144b01af414f8dca452ab2f5",
+      "request_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fabout%2Fcorporate-values&matchType=exact&from=2024&to=2024&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype&limit=5",
+      "request_parameters": {
+        "url": "https://www.microsoft.com/en-us/about/corporate-values",
+        "matchType": "exact",
+        "from": "2024",
+        "to": "2024",
+        "output": "json",
+        "fl": "timestamp,original,statuscode,mimetype",
+        "limit": "5"
+      },
+      "retrieved_at_utc": "2026-10-18T02:39:12.603677+00:00",
+      "api_http_status": 200,
+      "capture_records_returned": 5,
+      "inventory_complete": false,
+      "interpretation": "Limited discovery sample; not a complete annual inventory."
+    },
+    {
+      "ticker": "MSFT",
+      "source_file": "part1_stated_values/data/raw/cdx/81b4face9cf5e110042943d2c24ae5f4f571ae8586d195a7c26ac14be3377d2a.json",
+      "source_sha256": "559a4a87da9615644aacba064befa69a38de6a48a4c8ef5f0e2e6c8be21a2d57",
+      "request_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fabout%2Fvalues&matchType=exact&from=2016&to=2016&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype&limit=5",
+      "request_parameters": {
+        "url": "https://www.microsoft.com/en-us/about/values",
+        "matchType": "exact",
+        "from": "2016",
+        "to": "2016",
+        "output": "json",
+        "fl": "timestamp,original,statuscode,mimetype",
+        "limit": "5"
+      },
+      "retrieved_at_utc": "2026-10-18T02:41:37.799576+00:00",
+      "api_http_status": 200,
+      "capture_records_returned": 5,
+      "inventory_complete": false,
+      "interpretation": "Limited discovery sample; not a complete annual inventory."
+    },
+    {
+      "ticker": "MSFT",
+      "source_file": "part1_stated_values/data/raw/cdx/303e55e24b06301c506436ce2eefc4e9300d0a66fb6e87b5cdd8299d6fb8c4f2.json",
+      "source_sha256": "1fa7690836aaec923ec16a0f43a5a708c82a5c27dc74dfd4853543ded43b5b04",
+      "request_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fabout%2Fvalues&matchType=exact&from=2024&to=2024&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype&limit=5",
+      "request_parameters": {
+        "url": "https://www.microsoft.com/en-us/about/values",
+        "matchType": "exact",
+        "from": "2024",
+        "to": "2024",
+        "output": "json",
+        "fl": "timestamp,original,statuscode,mimetype",
+        "limit": "5"
+      },
+      "retrieved_at_utc": "2026-10-18T07:13:42.868271+00:00",
+      "api_http_status": 200,
+      "capture_records_returned": 5,
+      "inventory_complete": false,
+      "interpretation": "Limited discovery sample; not a complete annual inventory."
+    },
+    {
+      "ticker": "AAPL",
+      "source_file": "part1_stated_values/data/raw/cdx/4db609c641ac2b3da72c823ecbac2d57da070477063de8700658bd0fb4d9fdf5.json",
+      "source_sha256": "b2a4f3becc030fd5a2ec5d788fc401abb7b1fecb80522552bcd6a749c6e14659",
+      "request_url": "https://web.archive.org/cdx/search/cdx?url=https%3A%2F%2Fwww.apple.com%2Fcareers%2Fus%2F&matchType=exact&from=2022&to=2022&output=json&fl=timestamp%2Coriginal%2Cstatuscode%2Cmimetype&limit=100",
+      "request_parameters": {
+        "url": "https://www.apple.com/careers/us/",
+        "matchType": "exact",
+        "from": "2022",
+        "to": "2022",
+        "output": "json",
+        "fl": "timestamp,original,statuscode,mimetype",
+        "limit": "100"
+      },
+      "retrieved_at_utc": "2026-10-18T07:42:29.520539+00:00",
+      "api_http_status": 200,
+      "capture_records_returned": 100,
+      "html_200_records": 28,
+      "revisit_records": 59,
+      "redirect_records": 13,
+      "inventory_complete": false,
+      "interpretation": "Expanded 2022 sample found HTTP-200 HTML records beyond the first five revisit records. Supplements, not replaces, the five-record coverage report."
+    }
+  ],
+  "updated_at_utc": "2026-10-18T07:45:15.312912+00:00",
+  "registry_update_notes": [
+    "Step 3.1: added three exact-URL candidates, four inspected captures and five CDX query records. Original six candidates and all non-MSFT company records preserved. No effective date ranges or annual selections inferred. Additional review and discovery fields extend schema version 1 without changing existing fields.",
+    "Step 3.1: added MSFT_20240101141353 to the existing HTTPS values-overview candidate and its limited 2024 CDX query. Values-overview examples inspected in 2016, 2020 and 2024; intervening-year coverage and annual selections remain unresolved.",
+    "Step 3.1: linked two nine-year coverage reports and recorded user-approved provisional preference for microsoft_values_overview. Alternative review refers to the documented comparison, not an exhaustive search. No annual selections or effective date intervals assigned.",
+    "Step 3.1: recorded user-approved provisional Apple careers fallback; added two investor-values URL alternatives, three inspected captures, five coverage reports and expanded 2022 discovery query. No final annual observations selected. Alternative review is limited to documented candidates, not exhaustive."
+  ],
+  "coverage_reports": [
+    {
+      "source_file": "part1_stated_values/outputs/cdx_coverage/MSFT_cbb9faff35fdb728.json",
+      "source_sha256": "5c76dc463470fdc046641bb41e89d9ce05f899cacd69f98eba105d4417dc4135",
+      "settings": {
+        "ticker": "MSFT",
+        "url": "https://www.microsoft.com/en-us/about/values",
+        "start_year": 2016,
+        "end_year": 2024,
+        "limit": 5,
+        "cache_only": false
+      },
+      "run_complete": true,
+      "inventory_complete": false,
+      "year_results": [
+        {
+          "year": 2016,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 5
+        },
+        {
+          "year": 2017,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 5
+        },
+        {
+          "year": 2018,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 5
+        },
+        {
+          "year": 2019,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 3
+        },
+        {
+          "year": 2020,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 5
+        },
+        {
+          "year": 2021,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 5
+        },
+        {
+          "year": 2022,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 5
+        },
+        {
+          "year": 2023,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 5
+        },
+        {
+          "year": 2024,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 5
+        }
+      ]
+    },
+    {
+      "source_file": "part1_stated_values/outputs/cdx_coverage/MSFT_7a21c2e4571d63a0.json",
+      "source_sha256": "19e9201e4f5739ac4ce7fa5fa0491f3c5605836fd82d3f07099d8c0895c692a5",
+      "settings": {
+        "ticker": "MSFT",
+        "url": "https://www.microsoft.com/en-us/about/corporate-values",
+        "start_year": 2016,
+        "end_year": 2024,
+        "limit": 5,
+        "cache_only": false
+      },
+      "run_complete": true,
+      "inventory_complete": false,
+      "year_results": [
+        {
+          "year": 2016,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2017,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2018,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2019,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2020,
+          "status": "records_found",
+          "capture_records": 3,
+          "html_200_records": 3
+        },
+        {
+          "year": 2021,
+          "status": "records_found",
+          "capture_records": 3,
+          "html_200_records": 3
+        },
+        {
+          "year": 2022,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 4
+        },
+        {
+          "year": 2023,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 4
+        },
+        {
+          "year": 2024,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 5
+        }
+      ]
+    },
+    {
+      "source_file": "part1_stated_values/outputs/cdx_coverage/AAPL_1d8c074fd30c6e8d.json",
+      "source_sha256": "6d4f146fd508d6f46b28fdca4feaf99e764de764cce34911b36db8b3a0d9d376",
+      "settings": {
+        "ticker": "AAPL",
+        "url": "https://investor.apple.com/our_values/",
+        "start_year": 2016,
+        "end_year": 2024,
+        "limit": 5,
+        "cache_only": false
+      },
+      "run_complete": true,
+      "inventory_complete": false,
+      "year_results": [
+        {
+          "year": 2016,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2017,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2018,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2019,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2020,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2021,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2022,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2023,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2024,
+          "status": "records_found",
+          "capture_records": 2,
+          "html_200_records": 1
+        }
+      ]
+    },
+    {
+      "source_file": "part1_stated_values/outputs/cdx_coverage/AAPL_a84334bb23126a40.json",
+      "source_sha256": "eb783db66cb0468d4af8cf1e03135a683f45ed84374a62240ef49f526898c0df",
+      "settings": {
+        "ticker": "AAPL",
+        "url": "https://investor.apple.com/our_values/default.aspx",
+        "start_year": 2016,
+        "end_year": 2024,
+        "limit": 5,
+        "cache_only": false
+      },
+      "run_complete": true,
+      "inventory_complete": false,
+      "year_results": [
+        {
+          "year": 2016,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2017,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2018,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2019,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2020,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2021,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2022,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2023,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2024,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 4
+        }
+      ]
+    },
+    {
+      "source_file": "part1_stated_values/outputs/cdx_coverage/AAPL_5612772a2a2cc606.json",
+      "source_sha256": "f7cf3eb8b4da5c65f2db2144cc8c18f6ae3d53d5cfa6bf2e8a9e63d8064508f4",
+      "settings": {
+        "ticker": "AAPL",
+        "url": "https://www.apple.com/jobs/us/about.html",
+        "start_year": 2016,
+        "end_year": 2024,
+        "limit": 5,
+        "cache_only": false
+      },
+      "run_complete": true,
+      "inventory_complete": false,
+      "year_results": [
+        {
+          "year": 2016,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2017,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2018,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 1
+        },
+        {
+          "year": 2019,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 2
+        },
+        {
+          "year": 2020,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 1
+        },
+        {
+          "year": 2021,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 3
+        },
+        {
+          "year": 2022,
+          "status": "records_found",
+          "capture_records": 3,
+          "html_200_records": 0
+        },
+        {
+          "year": 2023,
+          "status": "records_found",
+          "capture_records": 1,
+          "html_200_records": 0
+        },
+        {
+          "year": 2024,
+          "status": "records_found",
+          "capture_records": 2,
+          "html_200_records": 0
+        }
+      ]
+    },
+    {
+      "source_file": "part1_stated_values/outputs/cdx_coverage/AAPL_5f3b0a2b7c8dbf7d.json",
+      "source_sha256": "c9d8f46a05cd901131d2013b7f91245bfa4d4fec7f2ee99ae538d590f4268325",
+      "settings": {
+        "ticker": "AAPL",
+        "url": "https://www.apple.com/jobs/us/",
+        "start_year": 2016,
+        "end_year": 2024,
+        "limit": 5,
+        "cache_only": false
+      },
+      "run_complete": true,
+      "inventory_complete": false,
+      "year_results": [
+        {
+          "year": 2016,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 3
+        },
+        {
+          "year": 2017,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 2
+        },
+        {
+          "year": 2018,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 2
+        },
+        {
+          "year": 2019,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 1
+        },
+        {
+          "year": 2020,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 4
+        },
+        {
+          "year": 2021,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 3
+        },
+        {
+          "year": 2022,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 0
+        },
+        {
+          "year": 2023,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 0
+        },
+        {
+          "year": 2024,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 0
+        }
+      ]
+    },
+    {
+      "source_file": "part1_stated_values/outputs/cdx_coverage/AAPL_bceb1c3c64d246d7.json",
+      "source_sha256": "553478e72697dc955a274c143544870ae1f6b3941a741b1878c4a85875825c4c",
+      "settings": {
+        "ticker": "AAPL",
+        "url": "https://www.apple.com/careers/us/",
+        "start_year": 2016,
+        "end_year": 2024,
+        "limit": 5,
+        "cache_only": false
+      },
+      "run_complete": true,
+      "inventory_complete": false,
+      "year_results": [
+        {
+          "year": 2016,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2017,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2018,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2019,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2020,
+          "status": "no_records_returned",
+          "capture_records": 0,
+          "html_200_records": 0
+        },
+        {
+          "year": 2021,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 5
+        },
+        {
+          "year": 2022,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 0
+        },
+        {
+          "year": 2023,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 2
+        },
+        {
+          "year": 2024,
+          "status": "records_found",
+          "capture_records": 5,
+          "html_200_records": 5
+        }
+      ]
+    }
+  ]
+}

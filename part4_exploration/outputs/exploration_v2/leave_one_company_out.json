@@ -1,0 +1,114 @@
+[
+  {
+    "omitted_ticker": "AAPL",
+    "difference": 0.008353803025012138
+  },
+  {
+    "omitted_ticker": "ABBV",
+    "difference": 0.007708944149285149
+  },
+  {
+    "omitted_ticker": "ABT",
+    "difference": 0.0020279195139334405
+  },
+  {
+    "omitted_ticker": "AXP",
+    "difference": 0.008242734401279206
+  },
+  {
+    "omitted_ticker": "BAC",
+    "difference": 0.007542858506619704
+  },
+  {
+    "omitted_ticker": "C",
+    "difference": 0.00402436065710933
+  },
+  {
+    "omitted_ticker": "COP",
+    "difference": 0.00542286622421094
+  },
+  {
+    "omitted_ticker": "GOOGL",
+    "difference": 0.01651281899634162
+  },
+  {
+    "omitted_ticker": "HAL",
+    "difference": 0.006446237221334292
+  },
+  {
+    "omitted_ticker": "IBM",
+    "difference": 0.0032719844558590644
+  },
+  {
+    "omitted_ticker": "INTC",
+    "difference": 0.012169064725073633
+  },
+  {
+    "omitted_ticker": "JNJ",
+    "difference": 0.00482636055420381
+  },
+  {
+    "omitted_ticker": "LOW",
+    "difference": 0.004938825725514212
+  },
+  {
+    "omitted_ticker": "MCD",
+    "difference": 0.008132384288367045
+  },
+  {
+    "omitted_ticker": "META",
+    "difference": 0.005098566145240679
+  },
+  {
+    "omitted_ticker": "MPC",
+    "difference": 0.007967232825200884
+  },
+  {
+    "omitted_ticker": "MRK",
+    "difference": 0.007839258228862514
+  },
+  {
+    "omitted_ticker": "MS",
+    "difference": 0.007936955282331154
+  },
+  {
+    "omitted_ticker": "MSFT",
+    "difference": -0.005057939366512762
+  },
+  {
+    "omitted_ticker": "NVDA",
+    "difference": 0.00957250670945295
+  },
+  {
+    "omitted_ticker": "OXY",
+    "difference": 0.0027356893454570375
+  },
+  {
+    "omitted_ticker": "PSX",
+    "difference": 0.00692736718869752
+  },
+  {
+    "omitted_ticker": "SLB",
+    "difference": 0.007857573082218378
+  },
+  {
+    "omitted_ticker": "TJX",
+    "difference": -9.087577392541402e-07
+  },
+  {
+    "omitted_ticker": "TMO",
+    "difference": 0.007268482215293942
+  },
+  {
+    "omitted_ticker": "TSLA",
+    "difference": 0.004659965871823865
+  },
+  {
+    "omitted_ticker": "VLO",
+    "difference": 0.00980225137234253
+  },
+  {
+    "omitted_ticker": "WFC",
+    "difference": 0.004763899204019359
+  }
+]

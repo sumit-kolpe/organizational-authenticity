@@ -1,0 +1,7 @@
+# Part 1 — Stated corporate values (2016–2024)
+
+The required 50-firm, 2016–2024 inventory contains 450 rows. Wayback CDX snapshots and source-linked model coding yield 140 accepted usable company-years across 37 firms. The other 310 entries are unavailable, excluded or invalid; they were not imputed. Coverage grows from six accepted observations in 2016 to 31 in 2024. Among 83 known adjacent comparisons, 53 are recorded text changes and 30 unchanged.
+
+An earlier focused model quality check made substantive source/evidence corrections, including restoring Chevron material and excluding unsuitable Abbott 2020. Human source review was subsequently completed as confirmed by the project owner, with no additional changes required. The active 450-row dataset records this owner confirmation, final selection for the 140 accepted sources, and review dispositions for missing/excluded records. The company-year panel and all substantive themes remain unchanged.
+
+Visible-content extraction and page-family comparability remain imperfect; some captures have recruitment, marketing and navigation material. Theme coding uses a documented nine-category taxonomy and Gemini-based evidence selection. Archived text expresses public messaging, not verified behavior. The one-page deliverable is [`Part1_Summary.pdf`](Part1_Summary.pdf), with all input/output provenance and fuller limitations in [`README.md`](README.md).

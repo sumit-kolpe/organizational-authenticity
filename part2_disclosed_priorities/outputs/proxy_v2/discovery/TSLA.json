@@ -1,0 +1,83 @@
+{
+  "cik": 1318605,
+  "sec_name": "Tesla, Inc.",
+  "former_names": [
+    {
+      "name": "TESLA MOTORS INC",
+      "from": "2005-02-17T00:00:00.000Z",
+      "to": "2017-01-27T00:00:00.000Z"
+    }
+  ],
+  "filings": [
+    {
+      "accessionNumber": "0001193125-16-543341",
+      "filingDate": "2016-04-15",
+      "reportDate": "2016-05-31",
+      "form": "DEF 14A",
+      "primaryDocument": "d133980ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-17-130746",
+      "filingDate": "2017-04-20",
+      "reportDate": "2017-06-06",
+      "form": "DEF 14A",
+      "primaryDocument": "d318894ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-18-035345",
+      "filingDate": "2018-02-08",
+      "reportDate": "2018-03-21",
+      "form": "DEF 14A",
+      "primaryDocument": "d524719ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001564590-18-009339",
+      "filingDate": "2018-04-26",
+      "reportDate": "2018-06-05",
+      "form": "DEF 14A",
+      "primaryDocument": "tsla-def14a_20180606.htm"
+    },
+    {
+      "accessionNumber": "0001564590-19-014268",
+      "filingDate": "2019-04-30",
+      "reportDate": "2019-06-11",
+      "form": "DEF 14A",
+      "primaryDocument": "tsla-def14a_20190611.htm"
+    },
+    {
+      "accessionNumber": "0001564590-20-027321",
+      "filingDate": "2020-05-28",
+      "reportDate": "2020-07-07",
+      "form": "DEF 14A",
+      "primaryDocument": "tsla-def14a_20200707.htm"
+    },
+    {
+      "accessionNumber": "0001564590-21-045926",
+      "filingDate": "2021-08-26",
+      "reportDate": "2021-08-26",
+      "form": "DEF 14A",
+      "primaryDocument": "tsla-def14a_20210826.htm"
+    },
+    {
+      "accessionNumber": "0001564590-22-024064",
+      "filingDate": "2022-06-23",
+      "reportDate": "2022-08-04",
+      "form": "DEF 14A",
+      "primaryDocument": "tsla-def14a_20220804.htm"
+    },
+    {
+      "accessionNumber": "0001193125-23-094075",
+      "filingDate": "2023-04-06",
+      "reportDate": "",
+      "form": "DEF 14A",
+      "primaryDocument": "d451342ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001104659-24-053333",
+      "filingDate": "2024-04-29",
+      "reportDate": "2024-06-13",
+      "form": "DEF 14A",
+      "primaryDocument": "tm2326076d15_def14a.htm"
+    }
+  ]
+}

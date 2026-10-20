@@ -1,0 +1,5 @@
+# Additional dependencies for reports and the final local audit.
+# Analysis mathematics use the Python standard library.
+matplotlib
+reportlab
+pypdf

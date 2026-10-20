@@ -1,0 +1,866 @@
+[
+  {
+    "ticker": "AAPL",
+    "year": 2017,
+    "previous_year": 2016,
+    "sector": "Technology",
+    "score": 0.5911126771652293,
+    "previous_score": 0.6998728102815202,
+    "score_change": -0.10876013311629085
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2020,
+    "previous_year": 2019,
+    "sector": "Technology",
+    "score": 0.6699742175794207,
+    "previous_score": 0.6535161308899218,
+    "score_change": 0.016458086689498885
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Technology",
+    "score": 0.6436900788133402,
+    "previous_score": 0.6699742175794207,
+    "score_change": -0.02628413876608049
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Technology",
+    "score": 0.569831790894251,
+    "previous_score": 0.6436900788133402,
+    "score_change": -0.07385828791908922
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Technology",
+    "score": 0.6383179344661273,
+    "previous_score": 0.569831790894251,
+    "score_change": 0.06848614357187632
+  },
+  {
+    "ticker": "AAPL",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Technology",
+    "score": 0.6107974949133319,
+    "previous_score": 0.6383179344661273,
+    "score_change": -0.027520439552795373
+  },
+  {
+    "ticker": "ABBV",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Healthcare",
+    "score": 0.8257560697854165,
+    "previous_score": 0.7981547336689239,
+    "score_change": 0.027601336116492625
+  },
+  {
+    "ticker": "ABT",
+    "year": 2017,
+    "previous_year": 2016,
+    "sector": "Healthcare",
+    "score": 0.16537964611894462,
+    "previous_score": 0.35985608634244026,
+    "score_change": -0.19447644022349564
+  },
+  {
+    "ticker": "ABT",
+    "year": 2018,
+    "previous_year": 2017,
+    "sector": "Healthcare",
+    "score": 0.49384395970800765,
+    "previous_score": 0.16537964611894462,
+    "score_change": 0.32846431358906303
+  },
+  {
+    "ticker": "ABT",
+    "year": 2019,
+    "previous_year": 2018,
+    "sector": "Healthcare",
+    "score": 0.47302949810487305,
+    "previous_score": 0.49384395970800765,
+    "score_change": -0.020814461603134604
+  },
+  {
+    "ticker": "ABT",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Healthcare",
+    "score": 0.6814185279188428,
+    "previous_score": 0.5938807331666133,
+    "score_change": 0.08753779475222956
+  },
+  {
+    "ticker": "ABT",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Healthcare",
+    "score": 0.7186349921344791,
+    "previous_score": 0.6814185279188428,
+    "score_change": 0.03721646421563629
+  },
+  {
+    "ticker": "AXP",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Financials",
+    "score": 0.6051688158367956,
+    "previous_score": 0.6031894118160175,
+    "score_change": 0.0019794040207781194
+  },
+  {
+    "ticker": "BAC",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Financials",
+    "score": 0.4755057230829589,
+    "previous_score": 0.5442438867366693,
+    "score_change": -0.06873816365371044
+  },
+  {
+    "ticker": "BAC",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Financials",
+    "score": 0.3710602611224107,
+    "previous_score": 0.4755057230829589,
+    "score_change": -0.10444546196054821
+  },
+  {
+    "ticker": "BAC",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Financials",
+    "score": 0.5225510784069921,
+    "previous_score": 0.3710602611224107,
+    "score_change": 0.1514908172845814
+  },
+  {
+    "ticker": "C",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Financials",
+    "score": 0.22206007537668332,
+    "previous_score": 0.24674210407057992,
+    "score_change": -0.0246820286938966
+  },
+  {
+    "ticker": "COP",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Energy",
+    "score": 0.598581318737647,
+    "previous_score": 0.5594107373790298,
+    "score_change": 0.039170581358617174
+  },
+  {
+    "ticker": "COP",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Energy",
+    "score": 0.4824517572362939,
+    "previous_score": 0.598581318737647,
+    "score_change": -0.11612956150135306
+  },
+  {
+    "ticker": "COP",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Energy",
+    "score": 0.5773502691896257,
+    "previous_score": 0.4824517572362939,
+    "score_change": 0.09489851195333182
+  },
+  {
+    "ticker": "COP",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Energy",
+    "score": 0.6907271518941765,
+    "previous_score": 0.5773502691896257,
+    "score_change": 0.11337688270455082
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2017,
+    "previous_year": 2016,
+    "sector": "Technology",
+    "score": 0.6828817427348546,
+    "previous_score": 0.6195307182527474,
+    "score_change": 0.06335102448210717
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2018,
+    "previous_year": 2017,
+    "sector": "Technology",
+    "score": 0.34565954273029914,
+    "previous_score": 0.6828817427348546,
+    "score_change": -0.33722220000455544
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2019,
+    "previous_year": 2018,
+    "sector": "Technology",
+    "score": 0.44916735576521344,
+    "previous_score": 0.34565954273029914,
+    "score_change": 0.1035078130349143
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2020,
+    "previous_year": 2019,
+    "sector": "Technology",
+    "score": 0.49820430565656826,
+    "previous_score": 0.44916735576521344,
+    "score_change": 0.04903694989135482
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Technology",
+    "score": 0.5372928463802237,
+    "previous_score": 0.49820430565656826,
+    "score_change": 0.03908854072365542
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Technology",
+    "score": 0.2934230754861915,
+    "previous_score": 0.5372928463802237,
+    "score_change": -0.24386977089403217
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Technology",
+    "score": 0.49026918386186014,
+    "previous_score": 0.2934230754861915,
+    "score_change": 0.19684610837566863
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Technology",
+    "score": 0.5338654184457775,
+    "previous_score": 0.49026918386186014,
+    "score_change": 0.04359623458391737
+  },
+  {
+    "ticker": "HAL",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Energy",
+    "score": 0.6064496310619684,
+    "previous_score": 0.6902013856519744,
+    "score_change": -0.08375175459000606
+  },
+  {
+    "ticker": "HAL",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Energy",
+    "score": 0.49399426349430325,
+    "previous_score": 0.6064496310619684,
+    "score_change": -0.11245536756766511
+  },
+  {
+    "ticker": "HAL",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Energy",
+    "score": 0.609897217810344,
+    "previous_score": 0.49399426349430325,
+    "score_change": 0.11590295431604075
+  },
+  {
+    "ticker": "IBM",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Technology",
+    "score": 0.2258156285269456,
+    "previous_score": 0.39127198971314653,
+    "score_change": -0.16545636118620094
+  },
+  {
+    "ticker": "IBM",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Technology",
+    "score": 0.21413506013330477,
+    "previous_score": 0.2258156285269456,
+    "score_change": -0.011680568393640817
+  },
+  {
+    "ticker": "IBM",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Technology",
+    "score": 0.35268208589607725,
+    "previous_score": 0.21413506013330477,
+    "score_change": 0.13854702576277247
+  },
+  {
+    "ticker": "IBM",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Technology",
+    "score": 0.5574699436078229,
+    "previous_score": 0.35268208589607725,
+    "score_change": 0.20478785771174562
+  },
+  {
+    "ticker": "INTC",
+    "year": 2017,
+    "previous_year": 2016,
+    "sector": "Technology",
+    "score": 0.5021228179427528,
+    "previous_score": 0.6284293746396974,
+    "score_change": -0.12630655669694457
+  },
+  {
+    "ticker": "INTC",
+    "year": 2018,
+    "previous_year": 2017,
+    "sector": "Technology",
+    "score": 0.5629446603966209,
+    "previous_score": 0.5021228179427528,
+    "score_change": 0.060821842453868125
+  },
+  {
+    "ticker": "INTC",
+    "year": 2019,
+    "previous_year": 2018,
+    "sector": "Technology",
+    "score": 0.7372781848051391,
+    "previous_score": 0.5629446603966209,
+    "score_change": 0.17433352440851813
+  },
+  {
+    "ticker": "INTC",
+    "year": 2020,
+    "previous_year": 2019,
+    "sector": "Technology",
+    "score": 0.8719838017344871,
+    "previous_score": 0.7372781848051391,
+    "score_change": 0.13470561692934802
+  },
+  {
+    "ticker": "INTC",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Technology",
+    "score": 0.7403791947933982,
+    "previous_score": 0.8719838017344871,
+    "score_change": -0.1316046069410889
+  },
+  {
+    "ticker": "INTC",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Technology",
+    "score": 0.7522077789777112,
+    "previous_score": 0.7403791947933982,
+    "score_change": 0.011828584184312985
+  },
+  {
+    "ticker": "INTC",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Technology",
+    "score": 0.6002592344969748,
+    "previous_score": 0.7522077789777112,
+    "score_change": -0.15194854448073636
+  },
+  {
+    "ticker": "INTC",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Technology",
+    "score": 0.4937124377972751,
+    "previous_score": 0.6002592344969748,
+    "score_change": -0.10654679669969974
+  },
+  {
+    "ticker": "JNJ",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Healthcare",
+    "score": 0.7445420492050672,
+    "previous_score": 0.7924820749147037,
+    "score_change": -0.04794002570963651
+  },
+  {
+    "ticker": "LOW",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Consumer Discretionary",
+    "score": 0.3492564447508933,
+    "previous_score": 0.17632083273375124,
+    "score_change": 0.17293561201714205
+  },
+  {
+    "ticker": "LOW",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Consumer Discretionary",
+    "score": 0.43185349834537573,
+    "previous_score": 0.3492564447508933,
+    "score_change": 0.08259705359448244
+  },
+  {
+    "ticker": "MCD",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Consumer Discretionary",
+    "score": 0.7175949614759236,
+    "previous_score": 0.7719621738623111,
+    "score_change": -0.05436721238638753
+  },
+  {
+    "ticker": "MCD",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Consumer Discretionary",
+    "score": 0.8109723158741672,
+    "previous_score": 0.8036961064336053,
+    "score_change": 0.007276209440561843
+  },
+  {
+    "ticker": "META",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Technology",
+    "score": 0.32566947363946486,
+    "previous_score": 0.5470162426875745,
+    "score_change": -0.22134676904810968
+  },
+  {
+    "ticker": "META",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Technology",
+    "score": 0.2989913768030944,
+    "previous_score": 0.32566947363946486,
+    "score_change": -0.026678096836370457
+  },
+  {
+    "ticker": "MPC",
+    "year": 2020,
+    "previous_year": 2019,
+    "sector": "Energy",
+    "score": 0.7106195041520286,
+    "previous_score": 0.7182781960208598,
+    "score_change": -0.00765869186883128
+  },
+  {
+    "ticker": "MPC",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Energy",
+    "score": 0.7919645013226099,
+    "previous_score": 0.7106195041520286,
+    "score_change": 0.0813449971705813
+  },
+  {
+    "ticker": "MPC",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Energy",
+    "score": 0.8801683417838453,
+    "previous_score": 0.7919645013226099,
+    "score_change": 0.08820384046123542
+  },
+  {
+    "ticker": "MPC",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Energy",
+    "score": 0.8348651593191478,
+    "previous_score": 0.8801683417838453,
+    "score_change": -0.045303182464697445
+  },
+  {
+    "ticker": "MPC",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Energy",
+    "score": 0.8974445192395055,
+    "previous_score": 0.8348651593191478,
+    "score_change": 0.06257935992035768
+  },
+  {
+    "ticker": "MRK",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Healthcare",
+    "score": 0.7507699744783612,
+    "previous_score": 0.7721162347751404,
+    "score_change": -0.021346260296779107
+  },
+  {
+    "ticker": "MS",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Financials",
+    "score": 0.7807211263629036,
+    "previous_score": 0.6769646428307117,
+    "score_change": 0.10375648353219191
+  },
+  {
+    "ticker": "MS",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Financials",
+    "score": 0.7973779280931882,
+    "previous_score": 0.7807211263629036,
+    "score_change": 0.01665680173028461
+  },
+  {
+    "ticker": "MS",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Financials",
+    "score": 0.5963307937416684,
+    "previous_score": 0.7973779280931882,
+    "score_change": -0.20104713435151977
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2017,
+    "previous_year": 2016,
+    "sector": "Technology",
+    "score": 0.8056715868297503,
+    "previous_score": 0.8078470522124086,
+    "score_change": -0.002175465382658337
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2018,
+    "previous_year": 2017,
+    "sector": "Technology",
+    "score": 0.8313149490175622,
+    "previous_score": 0.8056715868297503,
+    "score_change": 0.025643362187811936
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2019,
+    "previous_year": 2018,
+    "sector": "Technology",
+    "score": 0.6310737939621875,
+    "previous_score": 0.8313149490175622,
+    "score_change": -0.20024115505537465
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2020,
+    "previous_year": 2019,
+    "sector": "Technology",
+    "score": 0.5982905982905984,
+    "previous_score": 0.6310737939621875,
+    "score_change": -0.03278319567158916
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Technology",
+    "score": 0.568234084137339,
+    "previous_score": 0.5982905982905984,
+    "score_change": -0.030056514153259384
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Technology",
+    "score": 0.552325968510516,
+    "previous_score": 0.568234084137339,
+    "score_change": -0.01590811562682304
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Technology",
+    "score": 0.47437137014554326,
+    "previous_score": 0.552325968510516,
+    "score_change": -0.0779545983649727
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Technology",
+    "score": 0.4806851783715085,
+    "previous_score": 0.47437137014554326,
+    "score_change": 0.006313808225965223
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2020,
+    "previous_year": 2019,
+    "sector": "Technology",
+    "score": 0.3121572419905744,
+    "previous_score": 0.24545784641604232,
+    "score_change": 0.06669939557453206
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Technology",
+    "score": 0.5177680526501975,
+    "previous_score": 0.3121572419905744,
+    "score_change": 0.20561081065962317
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Technology",
+    "score": 0.5554954922486548,
+    "previous_score": 0.5177680526501975,
+    "score_change": 0.03772743959845726
+  },
+  {
+    "ticker": "OXY",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Energy",
+    "score": 0.6726038012869032,
+    "previous_score": 0.622101581983194,
+    "score_change": 0.05050221930370924
+  },
+  {
+    "ticker": "OXY",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Energy",
+    "score": 0.609019531759902,
+    "previous_score": 0.6726038012869032,
+    "score_change": -0.06358426952700125
+  },
+  {
+    "ticker": "OXY",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Energy",
+    "score": 0.7622505555575465,
+    "previous_score": 0.609019531759902,
+    "score_change": 0.15323102379764453
+  },
+  {
+    "ticker": "PSX",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Energy",
+    "score": 0.6701804111322314,
+    "previous_score": 0.6050633809075329,
+    "score_change": 0.0651170302246985
+  },
+  {
+    "ticker": "SLB",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Energy",
+    "score": 0.72907299058467,
+    "previous_score": 0.7086058432489726,
+    "score_change": 0.020467147335697433
+  },
+  {
+    "ticker": "TJX",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Consumer Discretionary",
+    "score": 0.6760046749254618,
+    "previous_score": 0.2783303992717976,
+    "score_change": 0.3976742756536642
+  },
+  {
+    "ticker": "TMO",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Healthcare",
+    "score": 0.3784179222972101,
+    "previous_score": 0.41080252783529914,
+    "score_change": -0.03238460553808903
+  },
+  {
+    "ticker": "TMO",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Healthcare",
+    "score": 0.4585612375822924,
+    "previous_score": 0.3784179222972101,
+    "score_change": 0.08014331528508228
+  },
+  {
+    "ticker": "TMO",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Healthcare",
+    "score": 0.5074954869911408,
+    "previous_score": 0.4585612375822924,
+    "score_change": 0.048934249408848385
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2017,
+    "previous_year": 2016,
+    "sector": "Consumer Discretionary",
+    "score": 0.19011727515734336,
+    "previous_score": 0.24671758189758447,
+    "score_change": -0.05660030674024111
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2018,
+    "previous_year": 2017,
+    "sector": "Consumer Discretionary",
+    "score": 0.15464893460541182,
+    "previous_score": 0.19011727515734336,
+    "score_change": -0.03546834055193154
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2019,
+    "previous_year": 2018,
+    "sector": "Consumer Discretionary",
+    "score": 0.2523573072576179,
+    "previous_score": 0.15464893460541182,
+    "score_change": 0.09770837265220608
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2020,
+    "previous_year": 2019,
+    "sector": "Consumer Discretionary",
+    "score": 0.2863710324052292,
+    "previous_score": 0.2523573072576179,
+    "score_change": 0.03401372514761131
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Consumer Discretionary",
+    "score": 0.33783007342852145,
+    "previous_score": 0.2863710324052292,
+    "score_change": 0.05145904102329224
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Consumer Discretionary",
+    "score": 0.28033022315406064,
+    "previous_score": 0.33783007342852145,
+    "score_change": -0.057499850274460806
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Consumer Discretionary",
+    "score": 0.4975185951049946,
+    "previous_score": 0.28033022315406064,
+    "score_change": 0.21718837195093393
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Consumer Discretionary",
+    "score": 0.6170082860753175,
+    "previous_score": 0.4975185951049946,
+    "score_change": 0.11948969097032297
+  },
+  {
+    "ticker": "VLO",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Energy",
+    "score": 0.7459531777612102,
+    "previous_score": 0.6977805655554963,
+    "score_change": 0.048172612205713894
+  },
+  {
+    "ticker": "VLO",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Energy",
+    "score": 0.678810442305156,
+    "previous_score": 0.7459531777612102,
+    "score_change": -0.0671427354560542
+  },
+  {
+    "ticker": "VLO",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Energy",
+    "score": 0.6673450589552753,
+    "previous_score": 0.678810442305156,
+    "score_change": -0.011465383349880676
+  },
+  {
+    "ticker": "VLO",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Energy",
+    "score": 0.6017655803600163,
+    "previous_score": 0.6673450589552753,
+    "score_change": -0.06557947859525903
+  },
+  {
+    "ticker": "WFC",
+    "year": 2021,
+    "previous_year": 2020,
+    "sector": "Financials",
+    "score": 0.07211525799617949,
+    "previous_score": 0.19045153554012703,
+    "score_change": -0.11833627754394754
+  },
+  {
+    "ticker": "WFC",
+    "year": 2022,
+    "previous_year": 2021,
+    "sector": "Financials",
+    "score": 0.20058140058036783,
+    "previous_score": 0.07211525799617949,
+    "score_change": 0.12846614258418834
+  },
+  {
+    "ticker": "WFC",
+    "year": 2023,
+    "previous_year": 2022,
+    "sector": "Financials",
+    "score": 0.08883888995398904,
+    "previous_score": 0.20058140058036783,
+    "score_change": -0.11174251062637879
+  },
+  {
+    "ticker": "WFC",
+    "year": 2024,
+    "previous_year": 2023,
+    "sector": "Financials",
+    "score": 0.11041471335826981,
+    "previous_score": 0.08883888995398904,
+    "score_change": 0.02157582340428077
+  }
+]

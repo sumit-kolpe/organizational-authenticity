@@ -1,0 +1,86 @@
+{
+  "cik": 1364742,
+  "sec_name": "BlackRock Finance, Inc.",
+  "former_names": [
+    {
+      "name": "BlackRock Inc.",
+      "from": "2006-09-05T00:00:00.000Z",
+      "to": "2024-09-26T00:00:00.000Z"
+    },
+    {
+      "name": "BlackRock, Inc.",
+      "from": "2006-10-03T00:00:00.000Z",
+      "to": "2006-10-05T00:00:00.000Z"
+    },
+    {
+      "name": "New BlackRock, Inc.",
+      "from": "2006-06-09T00:00:00.000Z",
+      "to": "2006-09-29T00:00:00.000Z"
+    }
+  ],
+  "filings": [
+    {
+      "accessionNumber": "0001193125-16-542189",
+      "filingDate": "2016-04-15",
+      "reportDate": "2016-05-25",
+      "form": "DEF 14A",
+      "primaryDocument": "d151567ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-17-123291",
+      "filingDate": "2017-04-13",
+      "reportDate": "2017-05-25",
+      "form": "DEF 14A",
+      "primaryDocument": "d331228ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-18-116163",
+      "filingDate": "2018-04-13",
+      "reportDate": "2018-05-23",
+      "form": "DEF 14A",
+      "primaryDocument": "d507277ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-19-104809",
+      "filingDate": "2019-04-12",
+      "reportDate": "2019-05-23",
+      "form": "DEF 14A",
+      "primaryDocument": "d632173ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-20-102552",
+      "filingDate": "2020-04-09",
+      "reportDate": "2020-05-21",
+      "form": "DEF 14A",
+      "primaryDocument": "d814850ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-21-118007",
+      "filingDate": "2021-04-16",
+      "reportDate": "2021-05-26",
+      "form": "DEF 14A",
+      "primaryDocument": "d73637ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-22-105534",
+      "filingDate": "2022-04-14",
+      "reportDate": "2022-05-25",
+      "form": "DEF 14A",
+      "primaryDocument": "d263204ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-23-101977",
+      "filingDate": "2023-04-14",
+      "reportDate": "",
+      "form": "DEF 14A",
+      "primaryDocument": "d455540ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-24-087282",
+      "filingDate": "2024-04-04",
+      "reportDate": "2024-05-15",
+      "form": "DEF 14A",
+      "primaryDocument": "d577664ddef14a.htm"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "unit_tests_passed": 14,
+  "uploaded_html_smoke_tests": [
+    {
+      "file": "AAPL_20160101124138.html",
+      "bytes": 28601,
+      "characters": 906,
+      "flags": [],
+      "title": "Apple - Jobs at Apple",
+      "input_sha256": "815fc3f793039ed335db686664a4b3e447adab9a9249d0a0fe63b6ac6a3a209e",
+      "interpretation": "Automated extraction smoke test only; no manual relevance approval."
+    },
+    {
+      "file": "AAPL_20200115042328.html",
+      "bytes": 85290,
+      "characters": 4430,
+      "flags": [],
+      "title": "About - Jobs at Apple",
+      "input_sha256": "5e36c8eda5b74172200bd754da85395c79ed3f59ba2e86de48a520965e1f28be",
+      "interpretation": "Automated extraction smoke test only; no manual relevance approval."
+    },
+    {
+      "file": "AAPL_20240319041941.html",
+      "bytes": 171981,
+      "characters": 1803,
+      "flags": [],
+      "title": "Careers at Apple",
+      "input_sha256": "0a8d4ba2456a51c34910a9c4d6ebc4f9252e36783f51df5873db5685361f7953",
+      "interpretation": "Automated extraction smoke test only; no manual relevance approval."
+    },
+    {
+      "file": "MSFT_20160101214549.html",
+      "bytes": 54539,
+      "characters": 3174,
+      "flags": [],
+      "title": "About Microsoft",
+      "input_sha256": "63f10acf4619006f22483223cd56318c9f37f0707dedb824b0796af29953a6a2",
+      "interpretation": "Automated extraction smoke test only; no manual relevance approval."
+    },
+    {
+      "file": "MSFT_20200102053409.html",
+      "bytes": 188489,
+      "characters": 1276,
+      "flags": [],
+      "title": "About Microsoft | Mission and Vision | Microsoft",
+      "input_sha256": "095f32b7f64c18b4898e5419edbbfade3a41560876329de96c065ca6df54b893",
+      "interpretation": "Automated extraction smoke test only; no manual relevance approval."
+    },
+    {
+      "file": "MSFT_20240101141329.html",
+      "bytes": 231012,
+      "characters": 1237,
+      "flags": [],
+      "title": "About Microsoft | Mission and Vision | Microsoft",
+      "input_sha256": "dd360d099732a862ff764aae9898cbcd9247d5340f445b74868d72fc24be484a",
+      "interpretation": "Automated extraction smoke test only; no manual relevance approval."
+    },
+    {
+      "file": "NVDA_20161129032458.html",
+      "bytes": 8658,
+      "characters": 0,
+      "flags": [
+        "archive_playback_wrapper"
+      ],
+      "title": "Wayback Machine",
+      "input_sha256": "21758d75b7aca7aa87ffcc1a2c03bb3624b5a7524a823d2b8db4ee75fe300ff1",
+      "interpretation": "Automated extraction smoke test only; no manual relevance approval."
+    },
+    {
+      "file": "NVDA_20190717061750.html",
+      "bytes": 107605,
+      "characters": 2048,
+      "flags": [],
+      "title": "Work Culture, Environment, and Values | NVIDIA",
+      "input_sha256": "c20b40e4df9f03db669a177468dc1d03b29efec4c0139f4056a1012ab96200e5",
+      "interpretation": "Automated extraction smoke test only; no manual relevance approval."
+    }
+  ],
+  "live_network_test": "Successful end-to-end Microsoft 2020 CDX discovery, replay retrieval and candidate extraction. This is a live observation, not a synthetic test. No manual content approval or final annual selection.",
+  "live_test_row": {
+    "ticker": "MSFT",
+    "company_name": "Microsoft",
+    "sector": "Technology",
+    "year": 2020,
+    "status": "candidate_ready",
+    "manual_review_status": "pending",
+    "annual_selection_final": false,
+    "discovery_complete": true,
+    "attempts": [
+      {
+        "snapshot_timestamp": "20200630171905",
+        "original_url": "https://www.microsoft.com/en-us/about/values",
+        "snapshot_url": "https://web.archive.org/web/20200630171905if_/https://www.microsoft.com/en-us/about/values",
+        "html_file": "part1_stated_values/data/batch_v1/captures/MSFT_20200630171905_170f65e924b8.html",
+        "text_file": "part1_stated_values/data/batch_v1/captures/MSFT_20200630171905_170f65e924b8.txt",
+        "text_sha256": "9b54110902c150da4e9c6578b3268bafb098ab3b46810b085b5d1c9c43e976c7",
+        "characters": 955,
+        "title": "Company Values | Microsoft",
+        "quality_flags": "",
+        "extraction_status": "screened_candidate",
+        "manual_review_status": "pending",
+        "annual_selection_final": false,
+        "analysis_version": "batch_v1.0",
+        "page_family": "MSFT_provisional_family"
+      }
+    ],
+    "snapshot_timestamp": "20200630171905",
+    "original_url": "https://www.microsoft.com/en-us/about/values",
+    "snapshot_url": "https://web.archive.org/web/20200630171905if_/https://www.microsoft.com/en-us/about/values",
+    "html_file": "part1_stated_values/data/batch_v1/captures/MSFT_20200630171905_170f65e924b8.html",
+    "text_file": "part1_stated_values/data/batch_v1/captures/MSFT_20200630171905_170f65e924b8.txt",
+    "text_sha256": "9b54110902c150da4e9c6578b3268bafb098ab3b46810b085b5d1c9c43e976c7",
+    "characters": 955,
+    "title": "Company Values | Microsoft",
+    "quality_flags": "",
+    "extraction_status": "screened_candidate",
+    "analysis_version": "batch_v1.0",
+    "page_family": "MSFT_provisional_family",
+    "notes": "Provisional URL family; content review and final annual selection pending."
+  }
+}

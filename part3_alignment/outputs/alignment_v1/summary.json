@@ -1,0 +1,44 @@
+{
+  "total_company_years": 450,
+  "scored_company_years": 137,
+  "scored_companies": 36,
+  "adjacent_scored_pairs": 96,
+  "primary": {
+    "n": 137,
+    "mean": 0.5462373420742094,
+    "median": 0.5938807331666133,
+    "min": 0.07211525799617949,
+    "max": 0.8974445192395055,
+    "sd": 0.20244485967474649
+  },
+  "company_equal_weight_mean": 0.5525709279971759,
+  "variance_of_company_means": 0.037003322657165404,
+  "mean_squared_within_company_deviation": 0.009505530812377106,
+  "variance_caveat": "Descriptive unbalanced panel; these are not variance components or causal estimates.",
+  "exclusion_reasons": {
+    "part2_unavailable": 7,
+    "part1_ineligible": 310
+  },
+  "independent_human_validation": true,
+  "review_basis": "project_owner_confirmation_2026-10-19",
+  "all_scores_provisional": true,
+  "network_requests": 0,
+  "negative_controls": {
+    "same_year": {
+      "n": 137,
+      "mean": 0.024162836393536304,
+      "median": 0.03151682189407712,
+      "min": -0.27785096145194543,
+      "max": 0.3296145343273452,
+      "sd": 0.11421231224267092
+    },
+    "same_sector_year": {
+      "n": 137,
+      "mean": 0.014724447253147704,
+      "median": 0.02105599380934564,
+      "min": -0.323811500789138,
+      "max": 0.3082447541973992,
+      "sd": 0.10086602162633296
+    }
+  }
+}

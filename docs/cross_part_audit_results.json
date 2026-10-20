@@ -1,0 +1,24 @@
+{
+  "scope": "Local generated Part 1 reviewed data; uploaded Part 2 v2; local Part 3 and Part 4 numerically reproduced by user console. User current merged files not supplied.",
+  "checks_passed": [
+    "450 unique matching panel keys",
+    "137 scores independently recalculated from theme membership and raw counts",
+    "All scored proxy rates consistent with counts and word denominators",
+    "All 96 Part 4 changes independently recalculated",
+    "Unknown/missing observations retain null scores"
+  ],
+  "scored": 137,
+  "mean": 0.5462373420742094,
+  "part4_difference": 0.006277629303134025,
+  "sensitivity_omit_WFC2021_ABT2021": {
+    "n": 135,
+    "mean": 0.5493964435037325
+  },
+  "file_byte_hashes": {
+    "p1": "c8cfc66389ec62283cb84af9258debd0ac3b4a1281c687207c3aebd9c8c2b027",
+    "p2": "335a2e1cff60200d21f9f279ea4eba0978e958e36a620784977383bf9a109ea6",
+    "p3": "7412dd123c98e9d4fc771c6083b681b175a8803ae9137969b4a27efcd271fd8a",
+    "p4": "d774221e8f7c701a6a0d9ac6158a7f69721d0f7d399f5f948d43856f1d573678"
+  },
+  "independent_human_validation": false
+}

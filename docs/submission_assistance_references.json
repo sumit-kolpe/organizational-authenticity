@@ -1,0 +1,448 @@
+{
+  "scope": "Selected submission files; PDF text extracted; inventory excludes itself. Mentions do not imply authorship for third-party source text.",
+  "files": [
+    {
+      "file": ".env.example",
+      "terms": [
+        "GEMINI",
+        "Gemini",
+        "LLM"
+      ],
+      "occurrences": 3
+    },
+    {
+      "file": "README.md",
+      "terms": [
+        "Gemini",
+        "LLM",
+        "llm"
+      ],
+      "occurrences": 5
+    },
+    {
+      "file": "config/page_registry.json",
+      "terms": [
+        "LLM"
+      ],
+      "occurrences": 8
+    },
+    {
+      "file": "docs/BATCH_REVIEW.md",
+      "terms": [
+        "LLM"
+      ],
+      "occurrences": 2
+    },
+    {
+      "file": "docs/BATCH_START_HERE.md",
+      "terms": [
+        "LLM"
+      ],
+      "occurrences": 5
+    },
+    {
+      "file": "docs/HUMAN_SOURCE_VALIDATION.md",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "docs/PILOT_REVIEW.md",
+      "terms": [
+        "LLM",
+        "gemini",
+        "independent human"
+      ],
+      "occurrences": 4
+    },
+    {
+      "file": "docs/SUBMISSION_REVIEW_2026-10-19.md",
+      "terms": [
+        "Independent human",
+        "LLM"
+      ],
+      "occurrences": 4
+    },
+    {
+      "file": "docs/cross_part_audit_results.json",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "docs/decision_log.md",
+      "terms": [
+        "LLM"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "docs/human_source_validation_status.json",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "docs/local_final_audit.json",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "docs/pilot_plan.md",
+      "terms": [
+        "LLM"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "docs/pilot_validation_review.md",
+      "terms": [
+        "LLM"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "docs/progress.md",
+      "terms": [
+        "LLM"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "docs/requirements.md",
+      "terms": [
+        "LLM"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "part1_stated_values/Part1_Summary.pdf",
+      "terms": [
+        "Gemini",
+        "llm"
+      ],
+      "occurrences": 2
+    },
+    {
+      "file": "part1_stated_values/README.md",
+      "terms": [
+        "Gemini",
+        "LLM",
+        "gemini",
+        "independent human",
+        "independent_human"
+      ],
+      "occurrences": 7
+    },
+    {
+      "file": "part1_stated_values/outputs/review_v2/ai_quality_review.csv",
+      "terms": [
+        "OpenAI",
+        "independent_human"
+      ],
+      "occurrences": 11
+    },
+    {
+      "file": "part1_stated_values/outputs/review_v2/ai_review_audit.json",
+      "terms": [
+        "ai_assisted"
+      ],
+      "occurrences": 10
+    },
+    {
+      "file": "part1_stated_values/outputs/review_v2/comparison_details.json",
+      "terms": [
+        "llm"
+      ],
+      "occurrences": 64
+    },
+    {
+      "file": "part1_stated_values/outputs/review_v2/part1_values_reviewed.csv",
+      "terms": [
+        "independent_human",
+        "llm"
+      ],
+      "occurrences": 65
+    },
+    {
+      "file": "part1_stated_values/outputs/review_v2/part1_values_reviewed.json",
+      "terms": [
+        "independent_human",
+        "llm"
+      ],
+      "occurrences": 514
+    },
+    {
+      "file": "part1_stated_values/outputs/review_v2/review_summary.json",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "part1_stated_values/outputs/review_v2/theme_evidence.csv",
+      "terms": [
+        "llm"
+      ],
+      "occurrences": 4
+    },
+    {
+      "file": "part1_stated_values/src/analyze_values.py",
+      "terms": [
+        "GEMINI",
+        "LLM",
+        "gemini",
+        "llm"
+      ],
+      "occurrences": 7
+    },
+    {
+      "file": "part1_stated_values/src/apply_ai_review.py",
+      "terms": [
+        "OpenAI",
+        "independent_human"
+      ],
+      "occurrences": 5
+    },
+    {
+      "file": "part1_stated_values/src/batch_web.py",
+      "terms": [
+        "LLM"
+      ],
+      "occurrences": 2
+    },
+    {
+      "file": "part1_stated_values/src/download_snapshot.py",
+      "terms": [
+        "llm"
+      ],
+      "occurrences": 2
+    },
+    {
+      "file": "part1_stated_values/src/finalize_part1_review.py",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 2
+    },
+    {
+      "file": "part1_stated_values/src/gemini_pilot.py",
+      "terms": [
+        "GEMINI",
+        "Gemini",
+        "gemini"
+      ],
+      "occurrences": 4
+    },
+    {
+      "file": "part1_stated_values/src/render_final_summary.py",
+      "terms": [
+        "Gemini",
+        "llm"
+      ],
+      "occurrences": 2
+    },
+    {
+      "file": "part1_stated_values/src/review_pilot.py",
+      "terms": [
+        "gemini",
+        "independent human",
+        "independent_human"
+      ],
+      "occurrences": 4
+    },
+    {
+      "file": "part1_stated_values/summary.md",
+      "terms": [
+        "Gemini"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "part2_disclosed_priorities/README.md",
+      "terms": [
+        "LLM"
+      ],
+      "occurrences": 2
+    },
+    {
+      "file": "part2_disclosed_priorities/outputs/proxy_v2/coverage_summary.json",
+      "terms": [
+        "LLM",
+        "independent human",
+        "independent_human"
+      ],
+      "occurrences": 3
+    },
+    {
+      "file": "part2_disclosed_priorities/outputs/proxy_v2/theme_evidence.csv",
+      "terms": [
+        "llm"
+      ],
+      "occurrences": 34
+    },
+    {
+      "file": "part2_disclosed_priorities/src/proxy_batch.py",
+      "terms": [
+        "Gemini",
+        "LLM",
+        "independent human",
+        "llm"
+      ],
+      "occurrences": 6
+    },
+    {
+      "file": "part2_disclosed_priorities/src/proxy_review.py",
+      "terms": [
+        "Gemini",
+        "LLM",
+        "independent human",
+        "llm"
+      ],
+      "occurrences": 7
+    },
+    {
+      "file": "part3_alignment/outputs/alignment_v1/alignment.csv",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "part3_alignment/outputs/alignment_v1/alignment.json",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 450
+    },
+    {
+      "file": "part3_alignment/outputs/alignment_v1/source_review_queue.json",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 3
+    },
+    {
+      "file": "part3_alignment/outputs/alignment_v1/summary.json",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "part3_alignment/src/analyze_alignment.py",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 4
+    },
+    {
+      "file": "part4_exploration/README.md",
+      "terms": [
+        "llm"
+      ],
+      "occurrences": 2
+    },
+    {
+      "file": "part4_exploration/outputs/exploration_v2/label_theme_review_queue.json",
+      "terms": [
+        "llm"
+      ],
+      "occurrences": 4
+    },
+    {
+      "file": "part4_exploration/outputs/exploration_v2/pairs.csv",
+      "terms": [
+        "llm"
+      ],
+      "occurrences": 56
+    },
+    {
+      "file": "part4_exploration/outputs/exploration_v2/pairs.json",
+      "terms": [
+        "llm"
+      ],
+      "occurrences": 56
+    },
+    {
+      "file": "part4_exploration/outputs/exploration_v2/run_policy.json",
+      "terms": [
+        "llm"
+      ],
+      "occurrences": 2
+    },
+    {
+      "file": "part4_exploration/outputs/exploration_v2/summary.json",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "part4_exploration/src/explore_changes.py",
+      "terms": [
+        "independent_human",
+        "llm"
+      ],
+      "occurrences": 4
+    },
+    {
+      "file": "shared/audit_assistance_references.py",
+      "terms": [
+        "ChatGPT",
+        "Gemini",
+        "OpenAI",
+        "human validation"
+      ],
+      "occurrences": 4
+    },
+    {
+      "file": "shared/final_audit.py",
+      "terms": [
+        "ChatGPT",
+        "Gemini",
+        "LLM",
+        "OpenAI",
+        "human validation",
+        "independent_human",
+        "llm"
+      ],
+      "occurrences": 9
+    },
+    {
+      "file": "shared/finalize_human_review.py",
+      "terms": [
+        "independent_human",
+        "llm"
+      ],
+      "occurrences": 8
+    },
+    {
+      "file": "tests/test_final_review_flags.py",
+      "terms": [
+        "independent_human"
+      ],
+      "occurrences": 3
+    },
+    {
+      "file": "tests/test_gemini_pilot.py",
+      "terms": [
+        "gemini"
+      ],
+      "occurrences": 1
+    },
+    {
+      "file": "tests/test_values_hotfix.py",
+      "terms": [
+        "GEMINI",
+        "Gemini"
+      ],
+      "occurrences": 6
+    }
+  ]
+}

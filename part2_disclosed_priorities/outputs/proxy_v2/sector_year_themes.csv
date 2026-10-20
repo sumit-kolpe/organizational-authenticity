@@ -1,0 +1,406 @@
+﻿sector,year,theme,n_documents,mean_per_1000_words
+Consumer Discretionary,2016,innovation,10,0.1495071499586063
+Consumer Discretionary,2016,integrity,10,0.5027736432034442
+Consumer Discretionary,2016,people,10,0.05407388056545665
+Consumer Discretionary,2016,inclusion,10,0.4432148754462252
+Consumer Discretionary,2016,customer,10,0.11863341846237377
+Consumer Discretionary,2016,environment,10,0.18669226219624552
+Consumer Discretionary,2016,community,10,0.14039247051352172
+Consumer Discretionary,2016,security_privacy,10,0.04955009211185102
+Consumer Discretionary,2016,performance,10,0.23470656868391757
+Consumer Discretionary,2017,innovation,10,0.17277669955476072
+Consumer Discretionary,2017,integrity,10,0.42410753484843433
+Consumer Discretionary,2017,people,10,0.06197122155150071
+Consumer Discretionary,2017,inclusion,10,0.42642843227242766
+Consumer Discretionary,2017,customer,10,0.13738220796848574
+Consumer Discretionary,2017,environment,10,0.3715612550002637
+Consumer Discretionary,2017,community,10,0.1733436477969412
+Consumer Discretionary,2017,security_privacy,10,0.06717412682964345
+Consumer Discretionary,2017,performance,10,0.22194375679275685
+Consumer Discretionary,2018,innovation,10,0.15057335784682804
+Consumer Discretionary,2018,integrity,10,0.5361397214479927
+Consumer Discretionary,2018,people,10,0.1353492920690691
+Consumer Discretionary,2018,inclusion,10,0.7247371087288531
+Consumer Discretionary,2018,customer,10,0.12427209077563205
+Consumer Discretionary,2018,environment,10,0.19148397809978512
+Consumer Discretionary,2018,community,10,0.21021213359939872
+Consumer Discretionary,2018,security_privacy,10,0.14757826764640758
+Consumer Discretionary,2018,performance,10,0.2026057135583701
+Consumer Discretionary,2019,innovation,10,0.15401468057561196
+Consumer Discretionary,2019,integrity,10,0.5401641407526316
+Consumer Discretionary,2019,people,10,0.19215182668175224
+Consumer Discretionary,2019,inclusion,10,0.8241805550167629
+Consumer Discretionary,2019,customer,10,0.11379683671473854
+Consumer Discretionary,2019,environment,10,0.3529415320382953
+Consumer Discretionary,2019,community,10,0.1591014518448892
+Consumer Discretionary,2019,security_privacy,10,0.16303178350104017
+Consumer Discretionary,2019,performance,10,0.242039889695254
+Consumer Discretionary,2020,innovation,10,0.2405470011124025
+Consumer Discretionary,2020,integrity,10,0.519491270797542
+Consumer Discretionary,2020,people,10,0.26303290576575356
+Consumer Discretionary,2020,inclusion,10,0.83749041599775
+Consumer Discretionary,2020,customer,10,0.1257717564251034
+Consumer Discretionary,2020,environment,10,0.39105848310293256
+Consumer Discretionary,2020,community,10,0.18876089372237526
+Consumer Discretionary,2020,security_privacy,10,0.17400818585254182
+Consumer Discretionary,2020,performance,10,0.2482502957548203
+Consumer Discretionary,2021,innovation,10,0.24043291236942374
+Consumer Discretionary,2021,integrity,10,0.5953080675943594
+Consumer Discretionary,2021,people,10,0.5675373222208326
+Consumer Discretionary,2021,inclusion,10,1.513990892052222
+Consumer Discretionary,2021,customer,10,0.09644760060364696
+Consumer Discretionary,2021,environment,10,0.40411317958472404
+Consumer Discretionary,2021,community,10,0.1619681186251588
+Consumer Discretionary,2021,security_privacy,10,0.2735219258792561
+Consumer Discretionary,2021,performance,10,0.2848208904126415
+Consumer Discretionary,2022,innovation,9,0.14993218041159287
+Consumer Discretionary,2022,integrity,9,0.5626888492349502
+Consumer Discretionary,2022,people,9,0.6897945704196464
+Consumer Discretionary,2022,inclusion,9,1.3736420111012715
+Consumer Discretionary,2022,customer,9,0.07997933576773693
+Consumer Discretionary,2022,environment,9,0.4537541282900255
+Consumer Discretionary,2022,community,9,0.19907082189331116
+Consumer Discretionary,2022,security_privacy,9,0.30250184628452953
+Consumer Discretionary,2022,performance,9,0.23907448854715316
+Consumer Discretionary,2023,innovation,10,0.19035852076256568
+Consumer Discretionary,2023,integrity,10,0.7627140255023626
+Consumer Discretionary,2023,people,10,0.7528702520419399
+Consumer Discretionary,2023,inclusion,10,1.1847107185936756
+Consumer Discretionary,2023,customer,10,0.08772430907007134
+Consumer Discretionary,2023,environment,10,0.5420833792499914
+Consumer Discretionary,2023,community,10,0.1728821442849537
+Consumer Discretionary,2023,security_privacy,10,0.48036725792893137
+Consumer Discretionary,2023,performance,10,0.4032646821779187
+Consumer Discretionary,2024,innovation,9,0.2332025500944854
+Consumer Discretionary,2024,integrity,9,0.7690558610572542
+Consumer Discretionary,2024,people,9,0.7237516813066451
+Consumer Discretionary,2024,inclusion,9,0.858344750020564
+Consumer Discretionary,2024,customer,9,0.058484425406889945
+Consumer Discretionary,2024,environment,9,0.5987967721962074
+Consumer Discretionary,2024,community,9,0.2546437333647733
+Consumer Discretionary,2024,security_privacy,9,0.4770656925435517
+Consumer Discretionary,2024,performance,9,0.3384956570842946
+Energy,2016,innovation,10,0.07452517208445505
+Energy,2016,integrity,10,0.48466210747078425
+Energy,2016,people,10,0.10204734159879678
+Energy,2016,inclusion,10,0.253638736549616
+Energy,2016,customer,10,0.005473653481243615
+Energy,2016,environment,10,0.9335858181353189
+Energy,2016,community,10,0.1192370067364798
+Energy,2016,security_privacy,10,0.015446449444914363
+Energy,2016,performance,10,0.1542548707178378
+Energy,2017,innovation,10,0.05840104671670807
+Energy,2017,integrity,10,0.5184579725496673
+Energy,2017,people,10,0.07671303819720879
+Energy,2017,inclusion,10,0.30344750938304343
+Energy,2017,customer,10,0.016496183993242517
+Energy,2017,environment,10,0.7662289874516927
+Energy,2017,community,10,0.12024751990228817
+Energy,2017,security_privacy,10,0.01524384458928563
+Energy,2017,performance,10,0.16664145450515833
+Energy,2018,innovation,10,0.06282710441735573
+Energy,2018,integrity,10,0.4775713789102607
+Energy,2018,people,10,0.07868354520418042
+Energy,2018,inclusion,10,0.38801629116981773
+Energy,2018,customer,10,0.0037432854816672593
+Energy,2018,environment,10,0.5602589182528843
+Energy,2018,community,10,0.15977328346484912
+Energy,2018,security_privacy,10,0.05589914942504167
+Energy,2018,performance,10,0.15993877062546652
+Energy,2019,innovation,10,0.08717088818496367
+Energy,2019,integrity,10,0.5311380326419428
+Energy,2019,people,10,0.17577814398775207
+Energy,2019,inclusion,10,0.47720102497193867
+Energy,2019,customer,10,0.007313228043669409
+Energy,2019,environment,10,0.8679227708686419
+Energy,2019,community,10,0.12671112904764126
+Energy,2019,security_privacy,10,0.09225478138658011
+Energy,2019,performance,10,0.16248596067672372
+Energy,2020,innovation,10,0.0785689974010305
+Energy,2020,integrity,10,0.5069485459464335
+Energy,2020,people,10,0.18599666820480884
+Energy,2020,inclusion,10,0.430566867335124
+Energy,2020,customer,10,0.010803996047239193
+Energy,2020,environment,10,0.7904122769561476
+Energy,2020,community,10,0.141463461316797
+Energy,2020,security_privacy,10,0.08213356381341173
+Energy,2020,performance,10,0.16734235176986945
+Energy,2021,innovation,9,0.12106642283152737
+Energy,2021,integrity,9,0.43455628994191564
+Energy,2021,people,9,0.34283505735446
+Energy,2021,inclusion,9,0.5606139503131364
+Energy,2021,customer,9,0.009590005278184916
+Energy,2021,environment,9,0.8795816590765574
+Energy,2021,community,9,0.1110686611425113
+Energy,2021,security_privacy,9,0.07455575972926605
+Energy,2021,performance,9,0.20058040969311958
+Energy,2022,innovation,10,0.17756365826850226
+Energy,2022,integrity,10,0.5233846058893618
+Energy,2022,people,10,0.3755302586650165
+Energy,2022,inclusion,10,0.6932810229833525
+Energy,2022,customer,10,0.0013395847287340924
+Energy,2022,environment,10,1.2164403396651118
+Energy,2022,community,10,0.11557817021016024
+Energy,2022,security_privacy,10,0.15091279438643468
+Energy,2022,performance,10,0.2366944202540153
+Energy,2023,innovation,10,0.20833374660352594
+Energy,2023,integrity,10,0.5702884999272202
+Energy,2023,people,10,0.3699815636664984
+Energy,2023,inclusion,10,0.8385559618277678
+Energy,2023,customer,10,0.0
+Energy,2023,environment,10,1.2588920625343687
+Energy,2023,community,10,0.149228827735759
+Energy,2023,security_privacy,10,0.26397797126730077
+Energy,2023,performance,10,0.3545526826980214
+Energy,2024,innovation,10,0.22549283537314846
+Energy,2024,integrity,10,0.5927758188125123
+Energy,2024,people,10,0.5014234153498598
+Energy,2024,inclusion,10,0.7039914275817256
+Energy,2024,customer,10,0.009754774010653399
+Energy,2024,environment,10,1.0526811232446718
+Energy,2024,community,10,0.15332984757407703
+Energy,2024,security_privacy,10,0.36147636150078316
+Energy,2024,performance,10,0.3534829365260177
+Financials,2016,innovation,10,0.11104939157333436
+Financials,2016,integrity,10,0.5724055129162154
+Financials,2016,people,10,0.13051692014802463
+Financials,2016,inclusion,10,0.5583123991956963
+Financials,2016,customer,10,0.0451932111135107
+Financials,2016,environment,10,0.3117785722365036
+Financials,2016,community,10,0.2020814899337931
+Financials,2016,security_privacy,10,0.13032309378356932
+Financials,2016,performance,10,0.26167236452653736
+Financials,2017,innovation,10,0.12660934442723284
+Financials,2017,integrity,10,0.9231444076610144
+Financials,2017,people,10,0.1746979602247985
+Financials,2017,inclusion,10,0.6661645963813556
+Financials,2017,customer,10,0.046540761552548764
+Financials,2017,environment,10,0.29181455816267954
+Financials,2017,community,10,0.20490166969772208
+Financials,2017,security_privacy,10,0.1135062785489582
+Financials,2017,performance,10,0.2991071707689994
+Financials,2018,innovation,10,0.127294872118996
+Financials,2018,integrity,10,0.6520727849430691
+Financials,2018,people,10,0.15917440823213486
+Financials,2018,inclusion,10,0.6204714655858093
+Financials,2018,customer,10,0.06552182122809543
+Financials,2018,environment,10,0.4164212265339733
+Financials,2018,community,10,0.23483592388763572
+Financials,2018,security_privacy,10,0.24681977103752312
+Financials,2018,performance,10,0.3079248714815641
+Financials,2019,innovation,10,0.15990827284261094
+Financials,2019,integrity,10,0.6902526447221944
+Financials,2019,people,10,0.31493844884440847
+Financials,2019,inclusion,10,0.9639630756687314
+Financials,2019,customer,10,0.06996880328041656
+Financials,2019,environment,10,0.2550987541622337
+Financials,2019,community,10,0.248354578267911
+Financials,2019,security_privacy,10,0.30005292221451957
+Financials,2019,performance,10,0.3287353173230765
+Financials,2020,innovation,10,0.11186835047618578
+Financials,2020,integrity,10,0.7945030780756249
+Financials,2020,people,10,0.5347982324743003
+Financials,2020,inclusion,10,1.1283716582383398
+Financials,2020,customer,10,0.03672385973625111
+Financials,2020,environment,10,0.3778937319767235
+Financials,2020,community,10,0.29108780152481156
+Financials,2020,security_privacy,10,0.2931641544106877
+Financials,2020,performance,10,0.3419248827300972
+Financials,2021,innovation,10,0.07699998354965798
+Financials,2021,integrity,10,0.7928245671355582
+Financials,2021,people,10,0.5653449897216174
+Financials,2021,inclusion,10,1.9360988052373123
+Financials,2021,customer,10,0.05099297852708106
+Financials,2021,environment,10,0.4978034031592354
+Financials,2021,community,10,0.33113584232517695
+Financials,2021,security_privacy,10,0.29273910828572525
+Financials,2021,performance,10,0.32704584370329615
+Financials,2022,innovation,10,0.10958340571654206
+Financials,2022,integrity,10,0.703323181527471
+Financials,2022,people,10,0.5656954416339853
+Financials,2022,inclusion,10,1.4855544440710065
+Financials,2022,customer,10,0.050052740651882414
+Financials,2022,environment,10,1.1039021513971499
+Financials,2022,community,10,0.480245144571472
+Financials,2022,security_privacy,10,0.312603340586674
+Financials,2022,performance,10,0.3165001720062008
+Financials,2023,innovation,10,0.13232881560434842
+Financials,2023,integrity,10,0.6816039331985468
+Financials,2023,people,10,0.5781609324931702
+Financials,2023,inclusion,10,1.4376737164193407
+Financials,2023,customer,10,0.05366906580037293
+Financials,2023,environment,10,1.0999549244722084
+Financials,2023,community,10,0.29076592695932174
+Financials,2023,security_privacy,10,0.3904272840174363
+Financials,2023,performance,10,0.44676509203262205
+Financials,2024,innovation,10,0.12430244029053628
+Financials,2024,integrity,10,0.6949414535413152
+Financials,2024,people,10,0.6908552086791409
+Financials,2024,inclusion,10,1.2705239021737555
+Financials,2024,customer,10,0.0430946062186991
+Financials,2024,environment,10,0.9332776729778082
+Financials,2024,community,10,0.2544640271074832
+Financials,2024,security_privacy,10,0.3495229177183111
+Financials,2024,performance,10,0.4131733224002643
+Healthcare,2016,innovation,10,0.32772289005126226
+Healthcare,2016,integrity,10,0.5339829286494393
+Healthcare,2016,people,10,0.10633924729032779
+Healthcare,2016,inclusion,10,0.31664508716532247
+Healthcare,2016,customer,10,0.02013322703453737
+Healthcare,2016,environment,10,0.08114026786215642
+Healthcare,2016,community,10,0.20963110054018486
+Healthcare,2016,security_privacy,10,0.028632118726975554
+Healthcare,2016,performance,10,0.2277606679547739
+Healthcare,2017,innovation,10,0.30484588425787307
+Healthcare,2017,integrity,10,0.4842947820512668
+Healthcare,2017,people,10,0.09207252934401129
+Healthcare,2017,inclusion,10,0.28392882940486935
+Healthcare,2017,customer,10,0.04504578501171604
+Healthcare,2017,environment,10,0.07354172349178599
+Healthcare,2017,community,10,0.16711725070826225
+Healthcare,2017,security_privacy,10,0.049427113140847086
+Healthcare,2017,performance,10,0.1913596445868758
+Healthcare,2018,innovation,10,0.358464444493948
+Healthcare,2018,integrity,10,0.5673580268037683
+Healthcare,2018,people,10,0.13604989753635427
+Healthcare,2018,inclusion,10,0.36863647927483245
+Healthcare,2018,customer,10,0.032378510098447
+Healthcare,2018,environment,10,0.1366171378183811
+Healthcare,2018,community,10,0.19274955067837687
+Healthcare,2018,security_privacy,10,0.04601666701159287
+Healthcare,2018,performance,10,0.231787870659921
+Healthcare,2019,innovation,10,0.4214921823437257
+Healthcare,2019,integrity,10,0.633700952822705
+Healthcare,2019,people,10,0.19141390035153447
+Healthcare,2019,inclusion,10,0.4349539319694641
+Healthcare,2019,customer,10,0.05737291163443371
+Healthcare,2019,environment,10,0.16788196331358674
+Healthcare,2019,community,10,0.195347375167103
+Healthcare,2019,security_privacy,10,0.1018101222478678
+Healthcare,2019,performance,10,0.28319554851111833
+Healthcare,2020,innovation,10,0.43408545364193835
+Healthcare,2020,integrity,10,0.6859463259162661
+Healthcare,2020,people,10,0.2945528513292376
+Healthcare,2020,inclusion,10,0.5306694460953734
+Healthcare,2020,customer,10,0.07484346720027188
+Healthcare,2020,environment,10,0.22785759336251044
+Healthcare,2020,community,10,0.1789025079060665
+Healthcare,2020,security_privacy,10,0.12948627760884737
+Healthcare,2020,performance,10,0.3629324209970163
+Healthcare,2021,innovation,10,0.4024757306975781
+Healthcare,2021,integrity,10,0.7076277315152459
+Healthcare,2021,people,10,0.41134374965895437
+Healthcare,2021,inclusion,10,1.0006422693224923
+Healthcare,2021,customer,10,0.0651547957433615
+Healthcare,2021,environment,10,0.24116108653690588
+Healthcare,2021,community,10,0.16886771385149604
+Healthcare,2021,security_privacy,10,0.11900100897032737
+Healthcare,2021,performance,10,0.2818685309581662
+Healthcare,2022,innovation,10,0.5536711510943092
+Healthcare,2022,integrity,10,0.8636443888978315
+Healthcare,2022,people,10,0.49064844998713886
+Healthcare,2022,inclusion,10,1.119121806210877
+Healthcare,2022,customer,10,0.0868389373585244
+Healthcare,2022,environment,10,0.36963132298380275
+Healthcare,2022,community,10,0.21332341179393322
+Healthcare,2022,security_privacy,10,0.22961082074836178
+Healthcare,2022,performance,10,0.3326739573749096
+Healthcare,2023,innovation,10,0.6623984787667583
+Healthcare,2023,integrity,10,0.8524454632793307
+Healthcare,2023,people,10,0.5422820920752822
+Healthcare,2023,inclusion,10,1.2071962814620136
+Healthcare,2023,customer,10,0.0743896270080339
+Healthcare,2023,environment,10,0.33390031562506756
+Healthcare,2023,community,10,0.16196741123452005
+Healthcare,2023,security_privacy,10,0.26930100366119264
+Healthcare,2023,performance,10,0.36986693336797094
+Healthcare,2024,innovation,10,0.7675543750446581
+Healthcare,2024,integrity,10,0.8904023563242206
+Healthcare,2024,people,10,0.510632468860701
+Healthcare,2024,inclusion,10,1.0849688813122067
+Healthcare,2024,customer,10,0.10198535013858999
+Healthcare,2024,environment,10,0.29619594648683967
+Healthcare,2024,community,10,0.19678747153693577
+Healthcare,2024,security_privacy,10,0.4183481747897919
+Healthcare,2024,performance,10,0.41263892218344367
+Technology,2016,innovation,9,0.16966803850922182
+Technology,2016,integrity,9,0.4639827828244214
+Technology,2016,people,9,0.07890918727692242
+Technology,2016,inclusion,9,0.4157078957830006
+Technology,2016,customer,9,0.02707306494203871
+Technology,2016,environment,9,0.19411052763902054
+Technology,2016,community,9,0.1576852839908005
+Technology,2016,security_privacy,9,0.05547910755285422
+Technology,2016,performance,9,0.21445156547556637
+Technology,2017,innovation,9,0.16279669500891591
+Technology,2017,integrity,9,0.4952417174215447
+Technology,2017,people,9,0.07712066966310216
+Technology,2017,inclusion,9,0.5400804685884947
+Technology,2017,customer,9,0.042755895645364944
+Technology,2017,environment,9,0.10546125725695613
+Technology,2017,community,9,0.18441097668506845
+Technology,2017,security_privacy,9,0.05249480286808702
+Technology,2017,performance,9,0.20183535111536216
+Technology,2018,innovation,8,0.17807079979351242
+Technology,2018,integrity,8,0.6233170899425671
+Technology,2018,people,8,0.16037694931026977
+Technology,2018,inclusion,8,0.6498473462317519
+Technology,2018,customer,8,0.037384429675481015
+Technology,2018,environment,8,0.20555573607465968
+Technology,2018,community,8,0.13266552558616065
+Technology,2018,security_privacy,8,0.18269546598113773
+Technology,2018,performance,8,0.21101508861986074
+Technology,2019,innovation,10,0.17816570456097391
+Technology,2019,integrity,10,0.5678770086735111
+Technology,2019,people,10,0.21617785304378714
+Technology,2019,inclusion,10,0.8753803445570599
+Technology,2019,customer,10,0.02042910576834615
+Technology,2019,environment,10,0.2163396399215986
+Technology,2019,community,10,0.1299950372701431
+Technology,2019,security_privacy,10,0.1317900780958661
+Technology,2019,performance,10,0.20202100183247454
+Technology,2020,innovation,10,0.1934253549613935
+Technology,2020,integrity,10,0.6075774662860216
+Technology,2020,people,10,0.22366855775507466
+Technology,2020,inclusion,10,0.733095523496807
+Technology,2020,customer,10,0.020951624418475527
+Technology,2020,environment,10,0.29284817898918
+Technology,2020,community,10,0.1345268737756135
+Technology,2020,security_privacy,10,0.15710853437289998
+Technology,2020,performance,10,0.21265442755268568
+Technology,2021,innovation,10,0.2507114403925397
+Technology,2021,integrity,10,0.7297839347931582
+Technology,2021,people,10,0.3886247418005907
+Technology,2021,inclusion,10,1.2997585493391188
+Technology,2021,customer,10,0.019301030641831828
+Technology,2021,environment,10,0.5112761925083104
+Technology,2021,community,10,0.17659737168313933
+Technology,2021,security_privacy,10,0.2067284879968466
+Technology,2021,performance,10,0.20483045759416962
+Technology,2022,innovation,10,0.22899306216073512
+Technology,2022,integrity,10,0.7676407974794419
+Technology,2022,people,10,0.3329589648733228
+Technology,2022,inclusion,10,1.4619840386185368
+Technology,2022,customer,10,0.014612843993196204
+Technology,2022,environment,10,0.6233680601342763
+Technology,2022,community,10,0.15148188111796787
+Technology,2022,security_privacy,10,0.3237160153248715
+Technology,2022,performance,10,0.17602257068779137
+Technology,2023,innovation,10,0.26962283670301346
+Technology,2023,integrity,10,0.9156629127917629
+Technology,2023,people,10,0.3741508388076521
+Technology,2023,inclusion,10,1.048604571177014
+Technology,2023,customer,10,0.01587669054515338
+Technology,2023,environment,10,0.5822622207997079
+Technology,2023,community,10,0.10729738799069984
+Technology,2023,security_privacy,10,0.45636212489841366
+Technology,2023,performance,10,0.28051620553939416
+Technology,2024,innovation,10,0.3459002122426702
+Technology,2024,integrity,10,1.0307098178498233
+Technology,2024,people,10,0.39006835573119314
+Technology,2024,inclusion,10,1.0178118482044576
+Technology,2024,customer,10,0.012037282200774352
+Technology,2024,environment,10,0.650052030356226
+Technology,2024,community,10,0.15871018236113568
+Technology,2024,security_privacy,10,0.502588946057005
+Technology,2024,performance,10,0.3665711460307564

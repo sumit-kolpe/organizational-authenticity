@@ -1,0 +1,243 @@
+[
+  {
+    "ticker": "AAPL",
+    "year": 2024,
+    "before": {
+      "theme_categories": [
+        "community",
+        "environment",
+        "inclusion",
+        "people",
+        "security_privacy"
+      ],
+      "status": "coded_pending_review",
+      "page_text_clean": "Join us. Be you.\n\nThis is where individual imaginations gather together, committing to the values that lead to great work. Here, you’ll do more than join something — you’ll add something.\n\nWork at Apple\n\nJoin a team and inspire the work.\n\nDiscover how you can make an impact: See our areas of work, worldwide locations, and opportunities for students.\n\nLife at Apple\n\nJoin our community and help define it.\n\nExplore a collaborative culture of inclusion, growth, and originality, supported by resources that make a difference in your life.\n\nJust a few of the ways you can make a difference at Apple.\n\nOur values are part of everything built here — including careers.\n\nAccessibility\n\nTechnology is most powerful when everyone can make their mark.\n\nEducation\n\nEducation is the great equalizer and a powerful source of opportunity for all.\n\nEnvironment\n\nOur goal is to leave the planet better than we found it.\n\nInclusion and Diversity\n\nWe’re committed to making Apple more inclusive and the world more just.\n\nPrivacy\n\nWe design Apple products to protect your privacy and give you control over your information.\n\nRacial Equity and Justice Initiative\n\nThis is a long-term effort to help ensure more positive outcomes for communities of color.\n\nSupplier Responsibility\n\nWe believe in a safe, respectful, and supportive workplace for everyone."
+    },
+    "after_themes": [
+      "community",
+      "environment",
+      "inclusion",
+      "people",
+      "security_privacy"
+    ],
+    "decision": "Accept provisionally",
+    "source_html_sha256": "c8698c48757761b60e74fa3a5d36fbd64b8918b7a7cec329dde7a14ec5d4ac9e",
+    "review_type": "ai_assisted"
+  },
+  {
+    "ticker": "ABT",
+    "year": 2020,
+    "before": {
+      "theme_categories": [
+        "customer",
+        "innovation",
+        "environment",
+        "inclusion",
+        "people",
+        "performance"
+      ],
+      "status": "coded_pending_review",
+      "page_text_clean": "Abbott at a Glance\n\nHelping people live their best lives through better health.\n\nnone\n\naccessibility\n\nBLOOD AND PLASMA SCREENING\n\nPEDIATRIC NUTRITION IN MANY MARKETS\n\nREMOTE HEART FAILURE MONITORING\n\nPIONEERING DIABETES MANAGEMENT\n\nTAKING DIAGNOSTICS TO NEW HEIGHTS\n\nProducts may not be available in all markets\n\nFORTUNE’S MOST ADMIRED COMPANIES since 1984; #1 in Medical Products from 2014-2020\n\nINDUSTRY GROUP LEADER Dow Jones Sustainability Index, 2013-2019, 15th year on the Index\n\nSCIENCE TOP EMPLOYERS for 16 years\n\n100 BEST COMPANIES Working Mother for 19 years in a row\n\nTOP 50 COMPANIES FOR DIVERSITY DiversityInc, for 16 consecutive years\n\nWORKPLACE LEADERSHIP in more than 25 countries\n\nYou are about to exit for another Abbott country or region specific website\n\nPlease be aware that the website you have requested is intended for the residents of a particular country or region, as noted on that site. As a result, the site may contain information on pharmaceuticals, medical devices and other products or uses of those products that are not approved in other countries or regions. The website you have requested also may not be optimized for your specific screen size.\n\nDo you wish to continue and exit this website?\n\nYou are about to exit the Abbott family of websites for a 3rd party website\n\nLinks which take you out of Abbott worldwide websites are not under the control of Abbott, and Abbott is not responsible for the contents of any such site or any further links from such site. Abbott is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement of the linked site by Abbott. The website that you have requested also may not be optimized for your screen size.\n\nDo you wish to continue and exit this website?"
+    },
+    "after_themes": null,
+    "decision": "Exclude",
+    "source_html_sha256": "40cbde852a04f80e847dbe8ba9c4305c5fce730947cfe5055d7b84122dbbc6a0",
+    "review_type": "ai_assisted"
+  },
+  {
+    "ticker": "CVX",
+    "year": 2024,
+    "before": {
+      "theme_categories": [
+        "innovation",
+        "environment",
+        "performance"
+      ],
+      "status": "coded_pending_review",
+      "page_text_clean": "subscribe to our newsletter to receive news and updates.\n\ngetting results the right way\n\nThe Chevron Way explains our beliefs, vision, purpose and values. It guides how we work and establishes a common understanding of our culture and aspirations.\n\nHuman ingenuity has the power to solve any challenge and overcome any obstacle. Meeting the world’s growing energy needs demands pursuit of innovations and advancements that deliver a better future for all.\n\nthe chevron way is our past, our present and our future\n\nChairman and Chief Executive Officer\n\nour purpose is to develop the affordable, reliable, ever-cleaner energy that enables human progress\n\nWe work to provide the energy that enables human progress around the world. We live this purpose every day.\n\nThe imagination and perseverance of people will deliver solutions to energy’s greatest challenges.\n\nOur actions will make energy and global supply chains more sustainable, helping industries and customers who use our products advance a lower carbon world.\n\nMeeting rising expectations demands performance and accountability at the highest level. We aim to deliver industry-leading results.\n\nour vision is to be the global energy company most admired for its people, partnership and performance\n\ndiversity and inclusion\n\nleading performance\n\npartnership\n\npeople and the environment\n\ntrust and integrity\n\nhow we work\n\ntranslations"
+    },
+    "after_themes": [
+      "innovation",
+      "environment",
+      "performance",
+      "inclusion",
+      "integrity",
+      "people",
+      "security_privacy"
+    ],
+    "decision": "Accept provisionally after correction",
+    "source_html_sha256": "254e2b6b87ca4d845c6ec482fb671c3556ed3ce6c5d53786424e7fd15b702de8",
+    "review_type": "ai_assisted"
+  },
+  {
+    "ticker": "JPM",
+    "year": 2024,
+    "before": {
+      "theme_categories": [
+        "community",
+        "customer",
+        "inclusion",
+        "innovation",
+        "integrity",
+        "people",
+        "performance",
+        "security_privacy"
+      ],
+      "status": "coded_pending_review",
+      "page_text_clean": "How we do business\n\nFor 225 years, we’ve served our customers, shareholders and communities with integrity and respect. We work diligently to uphold our core values in everything we do.\n\nWorking toward a stronger future\n\nWe believe that financial institutions have a vital role to play in shaping the global economy. Our goals reflect this responsibility and keep us focused on the service we can provide for our employees, shareholders and communities.\n\nWe power economic growth,\n\nserving our customers, clients and communities for over 225 years.\n\nWe uplift communities around the world,\n\nmaking tangible impact at scale.\n\nWe champion opportunity and enterprise\n\nthat unlock equity, inclusion and sustainable growth.\n\nWe are a great place to work —\n\nan unmatched combination of humanity and excellence at scale.\n\nThe strength of our company has allowed us to always be there for our clients and communities - in good times and in bad times - and this strength enables us to continually invest in building our businesses for the future.\n\nChairman and CEO of JPMorganChase\n\nOur business principles\n\nOur firm is defined by exceptional client service, operational excellence, a commitment to integrity and a winning culture. These four tenets inform all aspects of our company culture and approach to service.\n\nExceptional client service\n\nA commitment to integrity, fairness and responsibility\n\nA great team and winning culture\n\nExceptional client service\n\nOur job is to always do right by our customers and strive not only to meet their needs but to exceed their expectations. We do our best to make it easy for clients to do business with us.\n\n1. We focus on the customer\n\nTreat the customer the way you want to be treated and make sure you see everything from the customer’s eyes\n\nRead customer complaints — and be the customer’s advocate\n\nExceed expectations by listening to customers and anticipating their needs, making it easy for them to do business with us\n\nEarn trust by always focusing on customers’ best interests; high-quality customers will grow along with the company\n\nGive customers a good, fair deal — offer high-quality, competitively priced products and services\n\nConsider the full range of products and services that will fit customer needs, cross-selling when appropriate\n\nNever allow short-term profit considerations to get in the way of doing what’s right for the customer\n\nUse our own products — when it comes to understanding the customer, nothing beats being a customer\n\n2. We are field and client driven; we operate at the local level\n\nUse our size as a strength to execute well at the local level\n\nSpend time in local markets to understand everything about our customers (and what the competition might be doing for them)\n\nProvide the resources and authority needed for decision making in the field\n\nInnovate, test and learn — we know some ideas will fail, and that’s okay\n\n3. We build world-class franchises, investing for the long term, to serve our clients\n\nMake good, long-term decisions that allow us to do well in the good times and withstand the tough times\n\nBe proud of what we are doing\n\nDo right by the customer in all our interactions\n\nEnsure our company will stand the test of time\n\nAs important as strategy is, we have to execute to win. Execution involves every employee and every contact we have with customers. The devil is in the details. We must act quickly on problems; drive results, not just activities; and ensure detailed follow-up so that we meet our commitments.\n\n4. We set the highest standards of performance\n\nMeasure performance with a detailed, balanced scorecard\n\nStrive for excellence; don’t settle for mediocrity\n\nRecognize that teamwork also requires maximum individual effort\n\nCompare yourself with the best\n\nStay hungry; competition is everywhere, so you cannot be lulled into a false sense of security — complacency kills\n\n5. We demand financial rigor and risk discipline; we will always maintain a fortress balance sheet\n\nMonitor, track and report the right things the right way — fix ineffective reporting\n\nEnsure that accounting is fair, accurate and transparent\n\nCreate capital flexibility and manage risk dynamically\n\nRemember, we do not worry about the stock price or quarterly earnings in the short run; if you continue to build a great company, the stock price will take care of itself\n\nShare consistent, comprehensive information with shareholders and each other\n\nMake analysis disciplined, real and fact based, focusing on areas for improvement\n\nAnticipate problems; be prepared with solutions\n\nBe a risk manager; raising red flags is every employee’s responsibility\n\n6. We strive for the best internal governance and controls\n\nCommit to enterprisewide world-class governance, controls and compliance\n\nCultivate strong relationships with our regulators — be transparent, direct and respectful\n\nBuild a safety-first culture\n\nEnsure that our controls infrastructure is as robust as our business\n\nRemember that good compliance is good business\n\n7. We act and think like owners and partners\n\nWork for profitable, sustainable, long-term growth\n\nStreamline management and encourage an appropriate disregard for hierarchy\n\nGaurd the firm’s resources; spend the firm’s money as if it were your own\n\nInvest wisely for the future — including on infrastructure and people\n\nRecognize that competitive intelligence is competitive advantage\n\nFoster a spirit of partnership\n\nEnsure compensation is fair and fully transparent to senior management based on a balanced scorecard; any special deals should be minimized and for good reason\n\nRespect and learn from your people/team\n\n8. We strive to build and maintain the best, most efficient systems and operations\n\nPromote efficiencies and remember that leaner is better\n\nLeverage technology to make operations fast and simple\n\nCut waste relentlessly — and eliminate unnecessary bureaucracy\n\nBe an expert and ensure we know our business best\n\n9. We are disciplined in everything we do\n\nBe rigorous and detailed, with continuous follow-up\n\nMaintain an intense work ethic to get the job done right\n\nAlways strive for improvement and have the ability to drive change — make a list and get it done\n\nAct in a thoughtful, coordinated way — not in haste or in isolation\n\nAlways fight complacency by analyzing our own actions and our own weaknesses; management should celebrate our successes, but also emphasize the negatives\n\nEnforce a good decision-making process and eliminate “waste of time” meetings; stand up war rooms to get the right people in the room and kill bureaucracy\n\nDo it consistently — like exercising or weeding the garden\n\nConduct regular, well-organized and thorough business reviews of functions and controls\n\n10. We execute with both skill and urgency\n\nWork with energy and focus; take responsibility and deliver on commitments\n\nEnsure that every role, every person and every detail count\n\nGet a little better every day — continually raise the bar\n\nDeliver results; investigate, analyze and improve when problems arise\n\nKnow the details, commit to follow-ups, and meet deadlines for clients and colleagues\n\nManage change with deliberate speed\n\nA commitment to integrity, fairness and responsibility\n\nEthical behavior does not just happen. It must be cultivated and affirmed throughout the organization. At JPMorganChase, acting with integrity is paramount — and it applies to every aspect of our company.\n\n11. We will not compromise our integrity\n\nDo the right thing even when it’s not the easy thing\n\nHave zero tolerance for unethical behavior\n\nBe accountable, straightforward and honest in all your dealings\n\nAbide by the spirit and the letter of the laws and regulations\n\nLook at the facts in a cold-blooded way; admit and learn from mistakes\n\nAcknowledge the negatives\n\nHave only one truth for all audiences\n\nGet the right people in the room (and the best answers will be found)\n\nHave a fierce resolve in everything you do\n\nDemostrate determination, resiliency and tenacity\n\nDo not let temporary setbacks become permanent excuses\n\nUse mistakes and problems as opportunities to get better — not reasons to quit\n\n14. We foster an environment of respect, inclusiveness, humanity and humility\n\nTreat all people properly and with respect — from clerks to CEOs\n\nExcel by embracing an inclusive work environment and diverse teams\n\nBe open to different management and individual styles; there are many ways to be successful\n\nRespect people’s personal lives and show compassion when an employee is struggling\n\nEncourage all employees to take care of themselves — their mind, body, spirit and soul — and their friends and family\n\nHelp each other — whether in serving clients or in navigating careers at the firm\n\nHave the humility to recognize that you don’t know everything — and foster an environment of openness, trust and sharing\n\nHire and promote those people who deserve respect (would you let your kids report to them?)\n\nHave a deep acknowledgment of those who came before you — who helped pave the way and shape who we are\n\n15. We help strengthen the communities in which we live and work\n\nLeverage our success in order to give back to the communities where we do business\n\nBe good, engaged citizens\n\nView ourselves as a local small business: Know our customers, create summer jobs and support local organizations\n\nA great team and winning culture\n\nEventually, it all comes down to people. Creating a winning team and self-sustaining culture takes hard work, and there is no substitute for it.\n\nTeams do not win because they have a new stadium or the most attractive uniforms. Some of the best teams do not even have the most talented individual athletes. Teams succeed because they are disciplined, work well together, execute consistently and have a passion to win.\n\n16. We hire, train and retain great, diverse employees\n\nHire great people and train them well\n\nEveryone everyone to contribute to the best of his/her ability\n\nTreat everyone with respect — everyone counts\n\nEncourage life-long learning and a deep curiosity\n\nAcknowledge and reward high performers — that helps identify and develop leaders\n\nRecognize that we gain strength from a diverse workforce — embrace our differences\n\n17. We build teamwork, loyalty and morale\n\nProvide our employees with the truth, opportunities, training, meaningful work and a commitment to build a healthy, vibrant company\n\nRecognize that teamwork can mean both getting along and having the courage to stand alone and do the right thing\n\nConsistently provide honest and direct feedback; encourage people to say what is on their minds\n\nRemove obstacles in order to facilitate the team’s success\n\nPut loyalty to the institution ahead of your or anyone else’s personal agenda; collaborate and act as if the company’s priorities are your own\n\nServe and support each other\n\n18. We maintain an open, entrepreneurial meritocracy for all\n\nKnow your people well; put them in the right jobs and assess them honestly\n\nMake people decisions based on meritocracy\n\nDeal with people issues; take action with non-performers\n\n19. We communicate honestly, clearly and consistently\n\nRecognize that information is power; share it as quickly as possible\n\nSet clear goals and priorities, reinforce them, ensure follow-up and communicate progress often\n\nEncourage constructive, open debate and consider different approaches\n\nDrive to reach decisions and go forward with one agenda\n\nShare your passion for learning and knowledge\n\nReinforce important messages clearly\n\nProvide constant feedback — tell people when they are doing a good job and, more important, when they are not\n\n20. We strive to be good leaders\n\nRemember that leadership is an honor and a responsibility\n\nUnderstand that leadership is personal\n\nAct quickly on tough issues and have the courage to fight for what you believe in\n\nShare your passion to win\n\nSupport people who are willing to speak up — encourage constructive challenge\n\nBe fair, be just, be willing to do the right thing — not the easy thing\n\nChallenge the status quo: Fight social, racial and economic inequities\n\nGet the incentives right (but that is not enough; people must feel they are valued and their contributions are important)\n\nBe a leader in your community\n\nStrive for continual improvement — drive change and innovation and never stop learning\n\nHelp our people take care of themselves — their health and spirit\n\nLearn about our business\n\nExplore the principles, leadership and recognition that make us who we are today.\n\nLeading global financial progress through service and innovation for over 225 years.\n\nMeet the people upholding our values and moving our organization forward.\n\nWe’re proud of our global talent that makes this company a great place to work, grow and invest for the future.\n\nYou are now leaving JPMorganChase\n\nJPMorganChase's website terms, privacy and security policies don't apply to the site or app you're about to visit. Please review its website terms, privacy and security policies to see how they apply to you. JPMorganChase isn't responsible for (and doesn't provide) any products, services or content at this third-party site or app, except for products and services that explicitly carry the JPMorganChase name."
+    },
+    "after_themes": [
+      "community",
+      "customer",
+      "inclusion",
+      "innovation",
+      "integrity",
+      "people",
+      "performance",
+      "security_privacy"
+    ],
+    "decision": "Accept provisionally",
+    "source_html_sha256": "6f0bdbfb4b6166e3ee1e16dba985b38ca2e9e144723f80753beadbe80c3b4fbf",
+    "review_type": "ai_assisted"
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2024,
+    "before": {
+      "theme_categories": [
+        "innovation",
+        "inclusion",
+        "community",
+        "people"
+      ],
+      "status": "coded_pending_review",
+      "page_text_clean": "What we value\n\nOur mission is to empower every person and every organization on the planet to achieve more.\n\nOur mission in action\n\nInnovation\n\nWe believe technology can and should be a force for good and that meaningful innovation can and will contribute to a brighter world in big and small ways.\n\nDiversity and inclusion\n\nWe thrive on diverse voices. We engage our employees’ and customers’ experiences, strengths, and different points of view to inform, challenge, and stretch our thinking. This is how we innovate.\n\nCorporate Social Responsibility\n\nWe believe technology is a powerful force for good and are working to foster a sustainable future where everyone has access to the benefits and opportunities created by technology.\n\nAI\n\nWe believe that, when designed with people at the center, AI can extend your capabilities, free you up for more creative and strategic endeavors, and help you or your organization achieve more.\n\nTrustworthy Computing\n\nResponding to COVID-19 together\n\nAs the world responds to the outbreak of COVID-19, we’re working to do our part by ensuring the safety of our employees, striving to protect the health and well-being of the communities in which we operate, and providing technology, tips, and resources to our customers."
+    },
+    "after_themes": [
+      "innovation",
+      "inclusion",
+      "community",
+      "people",
+      "customer",
+      "security_privacy"
+    ],
+    "decision": "Accept provisionally after correction",
+    "source_html_sha256": "42b78780dcdbe71f236d2e732a1f385ca9d4dd8f8dae728779796099981a6ece",
+    "review_type": "ai_assisted"
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2024,
+    "before": {
+      "theme_categories": [
+        "innovation",
+        "performance",
+        "integrity",
+        "people",
+        "community"
+      ],
+      "status": "coded_pending_review",
+      "page_text_clean": "is for Google\n\nAs Sergey and I wrote in the original founders letter 11 years ago, “Google is not a conventional company. We do not intend to become one”\n\nAs part of that, we also said that you could expect us to make “smaller bets in areas that might seem very speculative or even strange when compared to our current businesses.” From the start, we’ve always strived to do more, and to do important and meaningful things with the resources we have.\n\nWe did a lot of things that seemed crazy at the time. Many of those crazy things now have over a billion users, like Google Maps, YouTube, Chrome, and Android. And we haven’t stopped there. We are still trying to do things other people think are crazy but we are super excited about.\n\nWe’ve long believed that over time companies tend to get comfortable doing the same thing, just making incremental changes. But in the technology industry, where revolutionary ideas drive the next big growth areas, you need to be a bit uncomfortable to stay relevant.\n\nOur company is operating well today, but we think we can make it cleaner and more accountable. So we are creating a new company, called Alphabet. I am really excited to be running Alphabet as CEO with help from my capable partner, Sergey, as President.\n\nWhat is Alphabet? Alphabet is mostly a collection of companies. The largest of which, of course, is Google. This newer Google is a bit slimmed down, with the companies that are pretty far afield of our main internet products contained in Alphabet instead. What do we mean by far afield? Good examples are our health efforts: Life Sciences (that works on the glucose-sensing contact lens), and Calico (focused on longevity). Fundamentally, we believe this allows us more management scale, as we can run things independently that aren’t very related.\n\nAlphabet is about businesses prospering through strong leaders and independence. In general, our model is to have a strong CEO who runs each business, with Sergey and me in service to them as needed. We will rigorously handle capital allocation and work to make sure each business is executing well. We’ll also make sure we have a great CEO for each business, and we’ll determine their compensation. In addition, with this new structure we plan to implement segment reporting for our Q4 results, where Google financials will be provided separately than those for the rest of Alphabet businesses as a whole.\n\nThis new structure will allow us to keep tremendous focus on the extraordinary opportunities we have inside of Google. A key part of this is Sundar Pichai. Sundar has been saying the things I would have said (and sometimes better!) for quite some time now, and I’ve been tremendously enjoying our work together. He has really stepped up since October of last year, when he took on product and engineering responsibility for our internet businesses. Sergey and I have been super excited about his progress and dedication to the company. And it is clear to us and our board that it is time for Sundar to be CEO of Google. I feel very fortunate to have someone as talented as he is to run the slightly slimmed down Google and this frees up time for me to continue to scale our aspirations. I have been spending quite a bit of time with Sundar, helping him and the company in any way I can, and I will of course continue to do that. Google itself is also making all sorts of new products, and I know Sundar will always be focused on innovation—continuing to stretch boundaries. I know he deeply cares that we can continue to make big strides on our core mission to organize the world’s information. Recent launches like Google Photos and Google Now using machine learning are amazing progress. Google also has some services that are run with their own identity, like YouTube. Susan is doing a great job as CEO, running a strong brand and driving incredible growth.\n\nSergey and I are seriously in the business of starting new things. Alphabet will also include our X lab, which incubates new efforts like Wing, our drone delivery effort. We are also stoked about growing our investment arms, Ventures and Capital, as part of this new structure.\n\nAlphabet Inc. will replace Google Inc. as the publicly-traded entity and all shares of Google will automatically convert into the same number of shares of Alphabet, with all of the same rights. Google will become a wholly-owned subsidiary of Alphabet. Our two classes of shares will continue to trade on Nasdaq as GOOGL and GOOG.\n\nFor Sergey and me this is a very exciting new chapter in the life of Google—the birth of Alphabet. We liked the name Alphabet because it means a collection of letters that represent language, one of humanity’s most important innovations, and is the core of how we index with Google search! We also like that it means alpha-bet (Alpha is investment return above benchmark), which we strive for! I should add that we are not intending for this to be a big consumer brand with related products—the whole point is that Alphabet companies should have independence and develop their own brands.\n\nGetting more ambitious things done.\n\nTaking the long-term view.\n\nEmpowering great entrepreneurs and companies to flourish.\n\nInvesting at the scale of the opportunities and resources we see.\n\nImproving the transparency and oversight of what we’re doing.\n\nMaking Google even better through greater focus.\n\nAnd hopefully… as a result of all this, improving the lives of as many people as we can.\n\nWhat could be better? No wonder we are excited to get to work with everyone in the Alphabet family. Don’t worry, we’re still getting used to the name too!"
+    },
+    "after_themes": [
+      "innovation",
+      "performance",
+      "integrity",
+      "community"
+    ],
+    "decision": "Accept provisionally after correction",
+    "source_html_sha256": "7f3201d575d814c6ec37f45c108f6f186bd61f146251f7f3af5f93f4540b0920",
+    "review_type": "ai_assisted"
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2022,
+    "before": {
+      "theme_categories": [
+        "innovation",
+        "people",
+        "community",
+        "performance",
+        "environment"
+      ],
+      "status": "coded_pending_review",
+      "page_text_clean": "OUR CULTURE\n\nWE'RE ONE TEAM SOLVING THE WORLD'S VISUAL COMPUTING CHALLENGES\n\nOUR WORK\n\nWe make unique contributions to solving some of the world's most stimulating technology problems – in industries ranging from gaming to scientific exploration. Our work demands the best talent, and we challenge them to do their best work. We're large enough to tackle projects of enormous scale, but small enough so that each employee can make a difference – and, in doing so, help us invent the future.\n\nOUR ATTITUDE\n\nThere's only one team at NVIDIA. That means no politics, no hierarchy. Reporting lines exist, but teams form around projects based on the skills that are required. As a leading technology innovator, we continuously take risks and regard failure as a step toward success. We treat each other with candor and respect, and strive for excellence in whatever we do.\n\nOUR COMMITMENT TO YOU\n\nWe're committed to fostering a culture where talented employees can do their life's work. We provide excellent pay and terrific benefits. Employees enjoy a relaxed setting, with a flexible approach to time off. And they and their families have access to the groundbreaking Stanford Health Navigator service, among other perks.\n\nOUR COMMITMENT TO OTHERS\n\nOur passion for delivering the best in visual computing technology extends to making a contribution to our communities . We have one of the corporate world's only employee-run charitable foundations. Among its work is Project Inspire , our massive, annual volunteer event – held in offices worldwide – in place of holiday parties. Our leadership in sustainability has been recognized by a growing number of influential organizations."
+    },
+    "after_themes": [
+      "innovation",
+      "people",
+      "community",
+      "performance",
+      "integrity"
+    ],
+    "decision": "Accept provisionally after correction",
+    "source_html_sha256": "1a24b516c80e2011944d45d1c260892b98f1c94b2efc880efcd47cbc58221fbd",
+    "review_type": "ai_assisted"
+  },
+  {
+    "ticker": "WFC",
+    "year": 2024,
+    "before": {
+      "theme_categories": [
+        "community",
+        "customer"
+      ],
+      "status": "coded_pending_review",
+      "page_text_clean": "Navegó a una página que no está disponible en español en este momento. Seleccione el enlace si desea ver otro contenido en español.\n\nEsta página solo está disponible en inglés\n\nSelecione Cancele para permanecer en esta página o Continúe para ver nuestra página principal en español.\n\nAbout Wells Fargo\n\nWho We Are\n\nWells Fargo Stories\n\nExplore our stories of how we’re helping customers succeed and communities thrive. Learn More\n\nCorporate Responsibility\n\nLearn about our Corporate Responsibility activities\n\nWe’re helping to create long-term economic growth and improved quality of life for everyone in our communities. Learn More\n\nCorporate Responsibility\n\nLearn about where we give\n\nWe’re building stronger communities by focusing on housing affordability, small business growth, financial health and sustainability. Learn More\n\nNewsroom\n\nWells Fargo reports first quarter results\n\nInvestor Relations\n\nLearn more about Wells Fargo's financial performance.\n\nLeadership and Governance\n\nLearn more about our leadership team and corporate governance.\n\nNewsroom\n\nGet the latest, breaking news from around Wells Fargo.\n\nWorking at Wells Fargo\n\nFind out why Wells Fargo is a top U.S. employer.\n\nCorporate Responsibility\n\nSee how Wells Fargo is creating solutions for stronger communities.\n\nResponsible Lending\n\nLearn about our commitment to helping people and communities succeed financially.\n\nSocial Media\n\nConnect and communicate with us.\n\nWho We Are\n\nLearn about our history and values.\n\nWells Fargo has provided this link for your convenience but does not control or endorse the website and is not responsible for the products, services, content, links, privacy policy, or security policy of the website."
+    },
+    "after_themes": [
+      "community",
+      "customer"
+    ],
+    "decision": "Accept provisionally after correction",
+    "source_html_sha256": "a872800271381d78bfeed907ae6bdc60ad95dda07fc1719097f8ed426e25ddd5",
+    "review_type": "ai_assisted"
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2024,
+    "before": {
+      "theme_categories": [
+        "environment",
+        "inclusion"
+      ],
+      "status": "coded_pending_review",
+      "page_text_clean": "About Us\n\nAccelerating the World's Transition to Sustainable Energy\n\nThe Future is Sustainable\n\nWe’re building a world powered by solar energy, running on batteries and transported by electric vehicles. Explore the most recent impact of our products, people and supply chain.\n\nProduce solar energy for residential and commercial needs\n\nInstall batteries to store clean energy\n\nMake badass, zero-emission vehicles that can charge with clean energy\n\nProduce solar energy for residential and commercial needs\n\nInstall batteries to store clean energy\n\nMake badass, zero-emission vehicles that can charge with clean energy\n\nJoin Us\n\n¹ 20.4 million metric tons is equivalent to over 48 billion miles of driving.\n\nTesla participates in the E-Verify Program .\n\nTesla is an Equal Opportunity / Affirmative Action employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.\n\nTesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.\n\nFor quick access to screen reading technology compatible with this site, download a free compatible screen reader ( view the free step-by-step tutorial )."
+    },
+    "after_themes": [
+      "environment",
+      "inclusion"
+    ],
+    "decision": "Accept provisionally after correction",
+    "source_html_sha256": "a7a79c72211959b3b0397c30b197db74b2219095a61e527518bc31f01ef294d5",
+    "review_type": "ai_assisted"
+  },
+  {
+    "ticker": "COP",
+    "year": 2024,
+    "before": {
+      "theme_categories": [
+        "people",
+        "security_privacy",
+        "integrity",
+        "community",
+        "innovation",
+        "performance"
+      ],
+      "status": "coded_pending_review",
+      "page_text_clean": "SPIRIT Values\n\nOur SPIRIT Values guide how we do our work across the ConocoPhillips organization.\n\nSafety\n\nNo task is so important that we can’t take the time to do it safely. A safe company is a successful company.\n\nHSE ambassadors mark 10-year anniversary\n\nSafety and Sustainability at Ekofisk: 50 years and still learning\n\nPeople\n\nWe respect one another. We recognize that our success depends upon the capabilities and inclusion of our employees. We value different voices and opinions.\n\nAndy Frerman: Wax on, wax off — Overcoming the paraffin challenge\n\nFrom military veteran to safety leader\n\nIntegrity\n\nWe are ethical and trustworthy in our relationships with internal and external stakeholders. We keep our promises.\n\nListening to Stakeholders on Alaska’s North Slope\n\nWater recycling in the Delaware Basin\n\nResponsibility\n\nWe are accountable for our actions. We care about our neighbors. Sustainability is core to our company and creates shared value for our stakeholders.\n\nCondemning Racial Injustice, Championing Human Rights\n\nConocoPhillips focuses on its core job and values during COVID-19\n\nInnovation\n\nWe anticipate change and respond with creative solutions. We are responsive to the changing needs of the industry. We embrace learning. We are not afraid to try new things.\n\nTechnical times\n\nFueling a culture of innovation\n\nTeamwork\n\nWe have a “can do” attitude that inspires top performance from everyone. We encourage collaboration. We celebrate success. We win together.\n\nA Legacy of Conservation and Collaboration\n\nLongest rotary well in Alaska for the 17th time"
+    },
+    "after_themes": [
+      "people",
+      "security_privacy",
+      "integrity",
+      "community",
+      "innovation",
+      "performance",
+      "inclusion"
+    ],
+    "decision": "Accept provisionally after correction",
+    "source_html_sha256": "e99826c12088f60b064af1a1bad4d422dbc5e074b8019ddca3ef9ea048318aba",
+    "review_type": "ai_assisted"
+  }
+]

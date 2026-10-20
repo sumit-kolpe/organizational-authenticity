@@ -1,0 +1,535 @@
+{
+  "schema_version": 1,
+  "created_on": "2026-10-19",
+  "annual_reference_date": "07-01",
+  "selection_policy": "First ranked page within a provisional family with a screened candidate; within each URL, nearest July 1, ties earlier. At most three replay attempts per company-year. Not a final annual selection until content and family are reviewed.",
+  "candidates": [
+    {
+      "ticker": "MSFT",
+      "url": "https://www.microsoft.com/en-us/about/values",
+      "page_family": "MSFT_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.microsoft.com/en-us/about/values",
+      "evidence_status": "pilot_family_provisional",
+      "notes": "Existing provisional pilot family. See original page_registry.json for reviewed capture evidence. Additional years remain unreviewed."
+    },
+    {
+      "ticker": "AAPL",
+      "url": "https://www.apple.com/jobs/us/about.html",
+      "page_family": "AAPL_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.apple.com/jobs/us/about.html",
+      "evidence_status": "pilot_family_provisional",
+      "notes": "Existing provisional pilot family. See original page_registry.json for reviewed capture evidence. Additional years remain unreviewed. Recruitment audience; changes among about and landing pages can change measured themes."
+    },
+    {
+      "ticker": "AAPL",
+      "url": "https://www.apple.com/careers/us/",
+      "page_family": "AAPL_provisional_family",
+      "priority": 2,
+      "enabled": true,
+      "source_url": "https://www.apple.com/careers/us/",
+      "evidence_status": "pilot_family_provisional",
+      "notes": "Existing provisional pilot family. See original page_registry.json for reviewed capture evidence. Additional years remain unreviewed. Recruitment audience; changes among about and landing pages can change measured themes."
+    },
+    {
+      "ticker": "AAPL",
+      "url": "https://www.apple.com/jobs/us/",
+      "page_family": "AAPL_provisional_family",
+      "priority": 3,
+      "enabled": true,
+      "source_url": "https://www.apple.com/jobs/us/",
+      "evidence_status": "pilot_family_provisional",
+      "notes": "Existing provisional pilot family. See original page_registry.json for reviewed capture evidence. Additional years remain unreviewed. Recruitment audience; changes among about and landing pages can change measured themes."
+    },
+    {
+      "ticker": "NVDA",
+      "url": "https://www.nvidia.com/en-us/about-nvidia/culture-at-nvidia/",
+      "page_family": "NVDA_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.nvidia.com/en-us/about-nvidia/culture-at-nvidia/",
+      "evidence_status": "pilot_family_provisional",
+      "notes": "Culture page inspected for 2019. Later redirects and early-year gaps unresolved. Do not substitute the rejected 2016 brand-configuration page."
+    },
+    {
+      "ticker": "GOOGL",
+      "url": "https://abc.xyz/",
+      "page_family": "GOOGL_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://abc.xyz/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified. Parent Alphabet, not subsidiary Google. Current homepage is investor-oriented; check historical corporate identity content."
+    },
+    {
+      "ticker": "META",
+      "url": "https://about.meta.com/company-info/",
+      "page_family": "META_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://about.meta.com/company-info/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified. Current inspection blocked; historical Facebook branding/domain changes unresolved."
+    },
+    {
+      "ticker": "AVGO",
+      "url": "https://www.broadcom.com/company",
+      "page_family": "AVGO_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.broadcom.com/company",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "CRM",
+      "url": "https://www.salesforce.com/company/our-values/",
+      "page_family": "CRM_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.salesforce.com/company/our-values/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "ORCL",
+      "url": "https://www.oracle.com/corporate/",
+      "page_family": "ORCL_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.oracle.com/corporate/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "IBM",
+      "url": "https://www.ibm.com/about",
+      "page_family": "IBM_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.ibm.com/about",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "INTC",
+      "url": "https://www.intel.com/content/www/us/en/company-overview/company-overview.html",
+      "page_family": "INTC_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.intel.com/content/www/us/en/company-overview/company-overview.html",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "BRK.B",
+      "url": "https://berkshirehathaway.com/owners.html",
+      "page_family": "BRK.B_provisional_family",
+      "priority": 1,
+      "enabled": false,
+      "source_url": "https://berkshirehathaway.com/owners.html",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Owner manual: document-type exception requires explicit review; disabled for automatic website collection."
+    },
+    {
+      "ticker": "JPM",
+      "url": "https://www.jpmorganchase.com/about/business-principles",
+      "page_family": "JPM_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.jpmorganchase.com/about/business-principles",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "BAC",
+      "url": "https://about.bankofamerica.com/en/our-company",
+      "page_family": "BAC_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://about.bankofamerica.com/en/our-company",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "WFC",
+      "url": "https://www.wellsfargo.com/about/",
+      "page_family": "WFC_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.wellsfargo.com/about/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "GS",
+      "url": "https://www.goldmansachs.com/our-firm/purpose-and-values",
+      "page_family": "GS_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.goldmansachs.com/our-firm/purpose-and-values",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "MS",
+      "url": "https://www.morganstanley.com/about-us/morgan-stanley-core-values",
+      "page_family": "MS_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.morganstanley.com/about-us/morgan-stanley-core-values",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "BLK",
+      "url": "https://www.blackrock.com/corporate/about-us/who-we-are/principles",
+      "page_family": "BLK_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.blackrock.com/corporate/about-us/who-we-are/principles",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "SCHW",
+      "url": "https://www.aboutschwab.com/",
+      "page_family": "SCHW_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.aboutschwab.com/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "AXP",
+      "url": "https://www.americanexpress.com/en-us/company/who-we-are/",
+      "page_family": "AXP_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.americanexpress.com/en-us/company/who-we-are/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "C",
+      "url": "https://www.citigroup.com/global/about-us",
+      "page_family": "C_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.citigroup.com/global/about-us",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "LLY",
+      "url": "https://www.lilly.com/about",
+      "page_family": "LLY_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.lilly.com/about",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "UNH",
+      "url": "https://www.unitedhealthgroup.com/mission",
+      "page_family": "UNH_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.unitedhealthgroup.com/mission",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "JNJ",
+      "url": "https://www.jnj.com/our-credo",
+      "page_family": "JNJ_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.jnj.com/our-credo",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "ABBV",
+      "url": "https://www.abbvie.com/who-we-are/our-principles.html",
+      "page_family": "ABBV_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.abbvie.com/who-we-are/our-principles.html",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "MRK",
+      "url": "https://www.merck.com/company-overview/",
+      "page_family": "MRK_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.merck.com/company-overview/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "TMO",
+      "url": "https://corporate.thermofisher.com/us/en/index/about.html",
+      "page_family": "TMO_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://corporate.thermofisher.com/us/en/index/about.html",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "ABT",
+      "url": "https://www.abbott.com/about-abbott/at-a-glance.html",
+      "page_family": "ABT_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.abbott.com/about-abbott/at-a-glance.html",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "PFE",
+      "url": "https://www.pfizer.com/about/purpose-history",
+      "page_family": "PFE_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.pfizer.com/about/purpose-history",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "MDT",
+      "url": "https://www.medtronic.com/en-us/our-company.html",
+      "page_family": "MDT_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.medtronic.com/en-us/our-company.html",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "BMY",
+      "url": "https://www.bms.com/our-company/mission-vision-values.html",
+      "page_family": "BMY_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.bms.com/our-company/mission-vision-values.html",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "AMZN",
+      "url": "https://www.aboutamazon.com/about-us",
+      "page_family": "AMZN_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.aboutamazon.com/about-us",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "TSLA",
+      "url": "https://www.tesla.com/about",
+      "page_family": "TSLA_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.tesla.com/about",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "HD",
+      "url": "https://corporate.homedepot.com/page/living-our-values",
+      "page_family": "HD_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://corporate.homedepot.com/page/living-our-values",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "MCD",
+      "url": "https://corporate.mcdonalds.com/corpmcd/our-purpose-and-impact.html",
+      "page_family": "MCD_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://corporate.mcdonalds.com/corpmcd/our-purpose-and-impact.html",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "NKE",
+      "url": "https://about.nike.com/en/mission",
+      "page_family": "NKE_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://about.nike.com/en/mission",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "SBUX",
+      "url": "https://about.starbucks.com/mission/",
+      "page_family": "SBUX_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://about.starbucks.com/mission/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "TGT",
+      "url": "https://corporate.target.com/about/purpose-history",
+      "page_family": "TGT_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://corporate.target.com/about/purpose-history",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "LOW",
+      "url": "https://corporate.lowes.com/who-we-are",
+      "page_family": "LOW_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://corporate.lowes.com/who-we-are",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "TJX",
+      "url": "https://www.tjx.com/company/about-tjx",
+      "page_family": "TJX_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.tjx.com/company/about-tjx",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "F",
+      "url": "https://corporate.ford.com/about/purpose/",
+      "page_family": "F_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://corporate.ford.com/about/purpose/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "XOM",
+      "url": "https://corporate.exxonmobil.com/who-we-are/our-approach/our-guiding-principles",
+      "page_family": "XOM_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://corporate.exxonmobil.com/who-we-are/our-approach/our-guiding-principles",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "CVX",
+      "url": "https://www.chevron.com/who-we-are/culture/the-chevron-way",
+      "page_family": "CVX_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.chevron.com/who-we-are/culture/the-chevron-way",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "COP",
+      "url": "https://www.conocophillips.com/about-us/who-we-are/spirit-values/",
+      "page_family": "COP_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.conocophillips.com/about-us/who-we-are/spirit-values/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "EOG",
+      "url": "https://www.eogresources.com/company/",
+      "page_family": "EOG_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.eogresources.com/company/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "SLB",
+      "url": "https://www.slb.com/about/who-we-are",
+      "page_family": "SLB_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.slb.com/about/who-we-are",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "MPC",
+      "url": "https://www.marathonpetroleum.com/About/Our-Values/",
+      "page_family": "MPC_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.marathonpetroleum.com/About/Our-Values/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "PSX",
+      "url": "https://www.phillips66.com/about/",
+      "page_family": "PSX_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.phillips66.com/about/",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified. Current /about redirects to homepage; do not assume historical about content."
+    },
+    {
+      "ticker": "VLO",
+      "url": "https://www.valero.com/about",
+      "page_family": "VLO_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.valero.com/about",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "OXY",
+      "url": "https://www.oxy.com/about",
+      "page_family": "OXY_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.oxy.com/about",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified."
+    },
+    {
+      "ticker": "HAL",
+      "url": "https://www.halliburton.com/en/sustainability/guiding-principles",
+      "page_family": "HAL_provisional_family",
+      "priority": 1,
+      "enabled": true,
+      "source_url": "https://www.halliburton.com/en/sustainability/guiding-principles",
+      "evidence_status": "discovery_lead_only",
+      "notes": "Current official-site discovery lead; historical relevance and page-family continuity unverified. Sustainability-specific framing; evaluate suitability before comparison."
+    }
+  ],
+  "excluded_captures": [
+    {
+      "ticker": "NVDA",
+      "timestamp": "20161129032458",
+      "reason": "User screenshot of iframe replay shows brand-configuration content, not organizational values."
+    }
+  ]
+}

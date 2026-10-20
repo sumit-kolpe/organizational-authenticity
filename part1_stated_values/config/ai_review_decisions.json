@@ -1,0 +1,606 @@
+[
+  {
+    "ticker": "AAPL",
+    "year": 2024,
+    "source_suitable": "Mixed",
+    "decision": "Accept provisionally",
+    "theme_precision_notes": "Five retained themes supported. Customer testimonial correctly excluded.",
+    "missing_themes": "No clear additional theme under the stated taxonomy.",
+    "cleaning_notes": "Remove recruitment navigation and retain explicit values; careers scope remains.",
+    "keep_ids": [
+      "b0000",
+      "b0001",
+      "b0006",
+      "b0008",
+      "b0010",
+      "b0011",
+      "b0012",
+      "b0013",
+      "b0014",
+      "b0015",
+      "b0016",
+      "b0017",
+      "b0018",
+      "b0019",
+      "b0020",
+      "b0021",
+      "b0022",
+      "b0023",
+      "b0024",
+      "b0025"
+    ],
+    "themes": {
+      "community": [
+        "b0015",
+        "b0023"
+      ],
+      "environment": [
+        "b0017"
+      ],
+      "inclusion": [
+        "b0008",
+        "b0019"
+      ],
+      "people": [
+        "b0008",
+        "b0025"
+      ],
+      "security_privacy": [
+        "b0021"
+      ]
+    },
+    "source_text_sha256": "69b49c61e099e8974ed393e46b3ee705b6572ece121cd56b5a626eb0e8e4e6c9",
+    "recovered_blocks": []
+  },
+  {
+    "ticker": "ABT",
+    "year": 2020,
+    "source_suitable": "No",
+    "decision": "Exclude",
+    "theme_precision_notes": "Award rankings and product headings do not establish the coded corporate values.",
+    "missing_themes": "Brief health mission is present but insufficient for broad values coverage.",
+    "cleaning_notes": "Product slogans, awards and exit dialogs dominate. Exclude this observation, not all Abbott years.",
+    "keep_ids": [
+      "b0000",
+      "b0001"
+    ],
+    "themes": {},
+    "source_text_sha256": "df96311e599f64440daf3a3c00c4d4e2f1053793cdbbe639518c4c71726e1e70",
+    "recovered_blocks": []
+  },
+  {
+    "ticker": "CVX",
+    "year": 2024,
+    "source_suitable": "Yes",
+    "decision": "Accept provisionally after correction",
+    "theme_precision_notes": "Original innovation, environment and performance labels supported.",
+    "missing_themes": "Restore omitted HTML div paragraphs supporting inclusion, integrity, people and safety.",
+    "cleaning_notes": "Cleaner missed substantive div.body paragraphs; source-specific recovery recorded.",
+    "keep_ids": [
+      "b0001",
+      "b0002",
+      "b0003",
+      "b0004",
+      "b0006",
+      "b0007",
+      "b0008",
+      "b0009",
+      "b0010",
+      "b0011",
+      "b0012",
+      "b0013",
+      "b0014",
+      "b0015",
+      "b0016",
+      "b0017",
+      "b0018"
+    ],
+    "themes": {
+      "innovation": [
+        "b0003",
+        "b0008"
+      ],
+      "environment": [
+        "b0009"
+      ],
+      "performance": [
+        "b0010"
+      ],
+      "inclusion": [
+        "review_div_inclusion"
+      ],
+      "integrity": [
+        "review_div_integrity"
+      ],
+      "people": [
+        "review_div_safety"
+      ],
+      "security_privacy": [
+        "review_div_safety"
+      ]
+    },
+    "source_text_sha256": "fcc54ee53639de739245cd65cfabc8a152f0408e3355e8fcbe2e134f91fe92a2",
+    "recovered_blocks": [
+      {
+        "id": "review_div_inclusion",
+        "text": "We learn from and respect the cultures in which we operate. We have an inclusive work environment that values the uniqueness and diversity of individual talents, experiences and ideas."
+      },
+      {
+        "id": "review_div_integrity",
+        "text": "We earn trust and respect by acting with integrity and operating with the highest ethical standards. Our culture and reputation are built upon these principles."
+      },
+      {
+        "id": "review_div_safety",
+        "text": "We aim to lead our industry in health, safety and environmental performance. The protection of people, assets, communities and the environment is our highest priority."
+      }
+    ]
+  },
+  {
+    "ticker": "JPM",
+    "year": 2024,
+    "source_suitable": "Yes",
+    "decision": "Accept provisionally",
+    "theme_precision_notes": "Eight labels supported; safety label refers to internal risk/safety culture, not privacy.",
+    "missing_themes": "No clear additional theme; sustainable growth alone is not environmental evidence.",
+    "cleaning_notes": "Remove CEO attribution/quotation and trailing directory/exit notice; keep principles.",
+    "keep_ids": [
+      "b0000",
+      "b0001",
+      "b0002",
+      "b0003",
+      "b0004",
+      "b0005",
+      "b0006",
+      "b0007",
+      "b0008",
+      "b0009",
+      "b0010",
+      "b0011",
+      "b0014",
+      "b0015",
+      "b0016",
+      "b0017",
+      "b0018",
+      "b0019",
+      "b0020",
+      "b0021",
+      "b0022",
+      "b0023",
+      "b0024",
+      "b0025",
+      "b0026",
+      "b0027",
+      "b0028",
+      "b0029",
+      "b0030",
+      "b0031",
+      "b0032",
+      "b0033",
+      "b0034",
+      "b0035",
+      "b0036",
+      "b0037",
+      "b0038",
+      "b0039",
+      "b0040",
+      "b0041",
+      "b0042",
+      "b0043",
+      "b0044",
+      "b0045",
+      "b0046",
+      "b0047",
+      "b0048",
+      "b0049",
+      "b0050",
+      "b0051",
+      "b0052",
+      "b0053",
+      "b0054",
+      "b0055",
+      "b0056",
+      "b0057",
+      "b0058",
+      "b0059",
+      "b0060",
+      "b0061",
+      "b0062",
+      "b0063",
+      "b0064",
+      "b0065",
+      "b0066",
+      "b0067",
+      "b0068",
+      "b0069",
+      "b0070",
+      "b0071",
+      "b0072",
+      "b0073",
+      "b0074",
+      "b0075",
+      "b0076",
+      "b0077",
+      "b0078",
+      "b0079",
+      "b0080",
+      "b0081",
+      "b0082",
+      "b0083",
+      "b0084",
+      "b0085",
+      "b0086",
+      "b0087",
+      "b0088",
+      "b0089",
+      "b0090",
+      "b0091",
+      "b0092",
+      "b0093",
+      "b0094",
+      "b0095",
+      "b0096",
+      "b0097",
+      "b0098",
+      "b0099",
+      "b0100",
+      "b0101",
+      "b0102",
+      "b0103",
+      "b0104",
+      "b0105",
+      "b0106",
+      "b0107",
+      "b0108",
+      "b0109",
+      "b0110",
+      "b0111",
+      "b0112",
+      "b0113",
+      "b0114",
+      "b0115",
+      "b0116",
+      "b0117",
+      "b0118",
+      "b0119",
+      "b0120",
+      "b0121",
+      "b0122",
+      "b0123",
+      "b0124",
+      "b0125",
+      "b0126",
+      "b0127",
+      "b0128",
+      "b0129",
+      "b0130",
+      "b0131",
+      "b0132",
+      "b0133",
+      "b0134",
+      "b0135",
+      "b0136",
+      "b0137",
+      "b0138",
+      "b0139",
+      "b0140",
+      "b0141",
+      "b0142",
+      "b0143",
+      "b0144",
+      "b0145",
+      "b0146",
+      "b0147",
+      "b0148",
+      "b0149",
+      "b0150",
+      "b0151",
+      "b0152",
+      "b0153",
+      "b0154",
+      "b0155",
+      "b0156",
+      "b0157",
+      "b0158",
+      "b0159",
+      "b0160",
+      "b0161"
+    ],
+    "themes": {
+      "community": [
+        "b0006",
+        "b0117",
+        "b0118"
+      ],
+      "customer": [
+        "b0020",
+        "b0024",
+        "b0026"
+      ],
+      "inclusion": [
+        "b0109",
+        "b0130",
+        "b0157"
+      ],
+      "innovation": [
+        "b0034",
+        "b0073",
+        "b0160"
+      ],
+      "integrity": [
+        "b0093",
+        "b0094",
+        "b0096"
+      ],
+      "people": [
+        "b0107",
+        "b0124",
+        "b0131"
+      ],
+      "performance": [
+        "b0041",
+        "b0043",
+        "b0063"
+      ],
+      "security_privacy": [
+        "b0059"
+      ]
+    },
+    "source_text_sha256": "a52f95a8c12f5f9a0e926c9c6d61c8aa4f358e78ec4a23395b3ad4c9c1b69431",
+    "recovered_blocks": []
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2024,
+    "source_suitable": "Yes",
+    "decision": "Accept provisionally after correction",
+    "theme_precision_notes": "Existing four labels supported; COVID text is historical content displayed in 2024.",
+    "missing_themes": "Add customer enablement and safety from mission/AI and employee-safety passages.",
+    "cleaning_notes": "Keep values section; note old COVID messaging and empty Trustworthy Computing heading.",
+    "keep_ids": [
+      "b0000",
+      "b0001",
+      "b0002",
+      "b0003",
+      "b0004",
+      "b0005",
+      "b0006",
+      "b0007",
+      "b0008",
+      "b0009",
+      "b0010",
+      "b0011",
+      "b0012",
+      "b0013"
+    ],
+    "themes": {
+      "innovation": [
+        "b0004"
+      ],
+      "inclusion": [
+        "b0006"
+      ],
+      "community": [
+        "b0008"
+      ],
+      "people": [
+        "b0013"
+      ],
+      "customer": [
+        "b0001",
+        "b0010"
+      ],
+      "security_privacy": [
+        "b0013"
+      ]
+    },
+    "source_text_sha256": "abe73de451b52f91fdc4aa716c64148b18393f8e4a0137bdcc008064e2a0f217",
+    "recovered_blocks": []
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2024,
+    "source_suitable": "Mixed",
+    "decision": "Accept provisionally after correction",
+    "theme_precision_notes": "Innovation, performance, integrity and broad community aspiration supported. Remove people label: CEO autonomy/entrepreneurship is not clear employee wellbeing evidence.",
+    "missing_themes": "No clear additional theme.",
+    "cleaning_notes": "Founding letter displayed in 2024; not current CEO attribution or newly written annual commitments.",
+    "keep_ids": [
+      "b0000",
+      "b0001",
+      "b0002",
+      "b0003",
+      "b0004",
+      "b0005",
+      "b0006",
+      "b0007",
+      "b0008",
+      "b0009",
+      "b0010",
+      "b0011",
+      "b0012",
+      "b0013",
+      "b0014",
+      "b0015",
+      "b0016",
+      "b0017",
+      "b0018",
+      "b0019"
+    ],
+    "themes": {
+      "innovation": [
+        "b0002",
+        "b0003",
+        "b0004"
+      ],
+      "performance": [
+        "b0007",
+        "b0011",
+        "b0015"
+      ],
+      "integrity": [
+        "b0005",
+        "b0016"
+      ],
+      "community": [
+        "b0018"
+      ]
+    },
+    "source_text_sha256": "1a8412e8133a31a0c12d3060c9ea1486b43e735561be7ba5a2b65a9e6b6ab17f",
+    "recovered_blocks": []
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2022,
+    "source_suitable": "Mixed",
+    "decision": "Accept provisionally after correction",
+    "theme_precision_notes": "Innovation, people, community and performance supported. Sustainability recognition alone is ambiguous as an environmental commitment.",
+    "missing_themes": "Add integrity for explicit candor; remove ambiguous environment code.",
+    "cleaning_notes": "Retain culture paragraphs; recruitment emphasis. Recognition claim is not evidence of actual behavior.",
+    "keep_ids": [
+      "b0000",
+      "b0001",
+      "b0002",
+      "b0003",
+      "b0004",
+      "b0005",
+      "b0006",
+      "b0007",
+      "b0008",
+      "b0009"
+    ],
+    "themes": {
+      "innovation": [
+        "b0003",
+        "b0005"
+      ],
+      "people": [
+        "b0005",
+        "b0007"
+      ],
+      "community": [
+        "b0009"
+      ],
+      "performance": [
+        "b0005"
+      ],
+      "integrity": [
+        "b0005"
+      ]
+    },
+    "source_text_sha256": "4e1147b87db95cee049a54f99eadf5c9c931c91db5c940279975c985e79f908a",
+    "recovered_blocks": []
+  },
+  {
+    "ticker": "WFC",
+    "year": 2024,
+    "source_suitable": "Mixed",
+    "decision": "Accept provisionally after correction",
+    "theme_precision_notes": "Community and customer financial-success commitments supported; prior performance removal retained.",
+    "missing_themes": "No further supported theme; sustainability without context is ambiguous.",
+    "cleaning_notes": "Directory-heavy source. Retain substantive community and responsible-lending blurbs only.",
+    "keep_ids": [
+      "b0003",
+      "b0007",
+      "b0009",
+      "b0012",
+      "b0025",
+      "b0026"
+    ],
+    "themes": {
+      "community": [
+        "b0009",
+        "b0012"
+      ],
+      "customer": [
+        "b0026"
+      ]
+    },
+    "source_text_sha256": "85ad941f72324119a9831775139a6fda922eb913a51ef10941a06fb6fe288b82",
+    "recovered_blocks": []
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2024,
+    "source_suitable": "Mixed",
+    "decision": "Accept provisionally after correction",
+    "theme_precision_notes": "Environment and inclusion supported; screen-reader instruction removed from evidence.",
+    "missing_themes": "No clear additional theme in retained text.",
+    "cleaning_notes": "Deduplicate product blocks and remove footnote, E-Verify notice and screen-reader instruction. Retain recruitment inclusion with scope caveat.",
+    "keep_ids": [
+      "b0000",
+      "b0001",
+      "b0002",
+      "b0003",
+      "b0004",
+      "b0005",
+      "b0006",
+      "b0010",
+      "b0013",
+      "b0014"
+    ],
+    "themes": {
+      "environment": [
+        "b0001",
+        "b0003",
+        "b0006"
+      ],
+      "inclusion": [
+        "b0013",
+        "b0014"
+      ]
+    },
+    "source_text_sha256": "899b213b1ad87e0fbaf399df9f56b3b08d22e9771001f8b56ab5260ec33a9016",
+    "recovered_blocks": []
+  },
+  {
+    "ticker": "COP",
+    "year": 2024,
+    "source_suitable": "Yes",
+    "decision": "Accept provisionally after correction",
+    "theme_precision_notes": "Six existing themes supported. Safety refers to occupational safety.",
+    "missing_themes": "Add inclusion from explicit different-voices and employee-inclusion language.",
+    "cleaning_notes": "Remove article headlines. Corporate blockquote is an unattributed values statement, not necessarily a testimonial.",
+    "keep_ids": [
+      "b0000",
+      "b0001",
+      "b0002",
+      "b0003",
+      "b0004",
+      "b0007",
+      "b0008",
+      "b0011",
+      "b0012",
+      "b0015",
+      "b0016",
+      "b0019",
+      "b0020",
+      "b0023",
+      "b0024"
+    ],
+    "themes": {
+      "people": [
+        "b0008"
+      ],
+      "security_privacy": [
+        "b0004"
+      ],
+      "integrity": [
+        "b0012"
+      ],
+      "community": [
+        "b0016"
+      ],
+      "innovation": [
+        "b0020"
+      ],
+      "performance": [
+        "b0024"
+      ],
+      "inclusion": [
+        "b0008"
+      ]
+    },
+    "source_text_sha256": "8deb3d681a8a94fe01e7be9189a0802349a0172b4eaae4fc8f91f9f6f9ab1b56",
+    "recovered_blocks": []
+  }
+]

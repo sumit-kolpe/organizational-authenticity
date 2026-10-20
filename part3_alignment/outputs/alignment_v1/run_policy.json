@@ -1,0 +1,19 @@
+{
+  "version": "alignment_v1.0",
+  "part1_sha256": "b9d536264dfbc493db08018ac0410395ec72504619a526ab438d6e65451e6f5f",
+  "part2_sha256": "32893d587176e7a69434e2c34595398570b21153ab1259bddfb11af2f5bc20a5",
+  "themes": [
+    "innovation",
+    "integrity",
+    "people",
+    "inclusion",
+    "customer",
+    "environment",
+    "community",
+    "security_privacy",
+    "performance"
+  ],
+  "primary": "cosine(binary stated themes, disclosure counts per 1000 words)",
+  "missing": "null; no imputation",
+  "validation": "Numerical checks plus project-owner-confirmed completed source review, no additional source corrections"
+}

@@ -1,0 +1,876 @@
+[
+  {
+    "ticker": "MSFT",
+    "sector": "Technology",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.05530254230435361,
+      "integrity": 0.1375800328650869,
+      "people": -0.04576462350128413,
+      "inclusion": 0.8352125261770051,
+      "customer": -0.02898468075830728,
+      "environment": 0.6319937362847144,
+      "community": -0.08770602257168739,
+      "security_privacy": -0.16095866673775894,
+      "performance": 0.0592669450151142
+    },
+    "covid_marker_change": 0.2566494108790782,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "NVDA",
+    "sector": "Technology",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.11915829690592727,
+      "integrity": 0.11815730836324612,
+      "people": 0.6775094035725583,
+      "inclusion": 0.606761699914237,
+      "customer": 0.0012067942934304923,
+      "environment": 0.35999755327522603,
+      "community": 0.0012067942934304923,
+      "security_privacy": 0.1931073925855715,
+      "performance": 0.06856440221938787
+    },
+    "covid_marker_change": 0.4101919684401709,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "GOOGL",
+    "sector": "Technology",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.026689412822938602,
+      "integrity": 0.3377218069445783,
+      "people": 0.14082285973052588,
+      "inclusion": 0.4454468656912267,
+      "customer": -0.021598788719216003,
+      "environment": 0.7393330119646782,
+      "community": 0.22020523359724048,
+      "security_privacy": 0.0957175958373668,
+      "performance": -0.05172105682413848
+    },
+    "covid_marker_change": 0.197706759175379,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "META",
+    "sector": "Technology",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.15630820201070955,
+      "integrity": 0.22693988244782515,
+      "people": -0.09854146381031087,
+      "inclusion": 0.11349530453143974,
+      "customer": -0.030049582139485012,
+      "environment": 0.5925244836055632,
+      "community": 0.26191973357685006,
+      "security_privacy": 0.06445385386901409,
+      "performance": 0.040433446546983665
+    },
+    "covid_marker_change": 0.7086710791614335,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "CRM",
+    "sector": "Technology",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.12478463514214003,
+      "integrity": 0.22690933430758886,
+      "people": 0.1253593074420136,
+      "inclusion": 0.1973252499436765,
+      "customer": -0.006074891259446456,
+      "environment": 0.19750961421803886,
+      "community": 0.13170826153104453,
+      "security_privacy": 0.2844718984944903,
+      "performance": -0.010114038812998244
+    },
+    "covid_marker_change": 0.35533723056103705,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "ORCL",
+    "sector": "Technology",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.008093601558725363,
+      "integrity": -0.17381876472967805,
+      "people": 0.09693137452727116,
+      "inclusion": 0.5570738821040994,
+      "customer": -0.0033288127603481373,
+      "environment": 0.12529389235413524,
+      "community": 0.031521264147988004,
+      "security_privacy": -0.015472380497697835,
+      "performance": -0.03068180905518697
+    },
+    "covid_marker_change": 0.22030433239799196,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "IBM",
+    "sector": "Technology",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.025748575163127813,
+      "integrity": 0.21020983642407565,
+      "people": 0.3322103268888117,
+      "inclusion": 1.1989555941968777,
+      "customer": -0.009484066767830045,
+      "environment": 0.47607131825089555,
+      "community": -0.024032552348303593,
+      "security_privacy": 0.08789416467996336,
+      "performance": -0.007099729808792837
+    },
+    "covid_marker_change": 0.279068092614598,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "INTC",
+    "sector": "Technology",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.07946707790734908,
+      "integrity": 0.07880969211111954,
+      "people": 0.38779701926895765,
+      "inclusion": 1.4712060151911222,
+      "customer": -0.010912935722822481,
+      "environment": 0.0902872994609698,
+      "community": -0.048037268003166544,
+      "security_privacy": 0.31199941634994516,
+      "performance": -0.18154243376975
+    },
+    "covid_marker_change": 0.5188487276277622,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "BRK.B",
+    "sector": "Financials",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.0,
+      "integrity": -0.08833114392993147,
+      "people": 0.3757799429167904,
+      "inclusion": 1.8386621479785341,
+      "customer": 0.0,
+      "environment": 0.9435980863015972,
+      "community": -0.09832971458265832,
+      "security_privacy": 0.0,
+      "performance": 0.040089801154586276
+    },
+    "covid_marker_change": 0.08766546857192951,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "JPM",
+    "sector": "Financials",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.034519243859993776,
+      "integrity": 0.14914085220667306,
+      "people": 0.2050540792301021,
+      "inclusion": 1.3615454038277144,
+      "customer": -0.02427182955877019,
+      "environment": 0.5528474091701746,
+      "community": 0.19076881375145552,
+      "security_privacy": 0.0513344331891534,
+      "performance": -0.08695694606547255
+    },
+    "covid_marker_change": 0.7816799497996434,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "BAC",
+    "sector": "Financials",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.01267963940831783,
+      "integrity": 0.11707897784327426,
+      "people": 1.185154697602206,
+      "inclusion": 1.0881738764231776,
+      "customer": 0.011231935955327566,
+      "environment": 0.9088753718422354,
+      "community": 0.5931988842208111,
+      "security_privacy": 0.05054157072935017,
+      "performance": 0.036329824984510345
+    },
+    "covid_marker_change": 0.8439512981936478,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "WFC",
+    "sector": "Financials",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.07474622028704075,
+      "integrity": -0.006640236096472574,
+      "people": 0.2557524949728085,
+      "inclusion": 1.2314955266956789,
+      "customer": -0.12245116261225972,
+      "environment": 0.1795428697191157,
+      "community": 0.13973031849391604,
+      "security_privacy": -0.1612618033761669,
+      "performance": -0.07484495282898118
+    },
+    "covid_marker_change": 1.0934604499320817,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "GS",
+    "sector": "Financials",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.006324760305546892,
+      "integrity": 0.12953063062204895,
+      "people": 0.10161158770924397,
+      "inclusion": 0.5574427825561168,
+      "customer": 0.060925152387032784,
+      "environment": 0.2596613325349473,
+      "community": 0.26758513573514303,
+      "security_privacy": 0.03535317265984622,
+      "performance": 0.08508661705782286
+    },
+    "covid_marker_change": 0.6353802846274079,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "MS",
+    "sector": "Financials",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.03138499921100338,
+      "integrity": -0.0018747909816294595,
+      "people": 0.28382711629278645,
+      "inclusion": 0.8076761774099654,
+      "customer": 0.0,
+      "environment": 0.0674894093197766,
+      "community": -0.05363928900658568,
+      "security_privacy": -0.043353454740675756,
+      "performance": -0.07532008087901598
+    },
+    "covid_marker_change": 0.474685555992576,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "BLK",
+    "sector": "Financials",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.008768496473953252,
+      "integrity": 0.22580176016267572,
+      "people": 0.38151108127966304,
+      "inclusion": 0.278720977294328,
+      "customer": -0.010095299628492973,
+      "environment": 0.5424102332470259,
+      "community": 0.48290895467590483,
+      "security_privacy": 0.1363020456162834,
+      "performance": 0.15578934077741557
+    },
+    "covid_marker_change": 0.7084792381084132,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "SCHW",
+    "sector": "Financials",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.026197820789836998,
+      "integrity": 0.029890420742181123,
+      "people": -0.189208420147182,
+      "inclusion": -0.6895641579395226,
+      "customer": -0.008341953351796856,
+      "environment": 0.3322123862064058,
+      "community": -0.021878972104390965,
+      "security_privacy": 0.1835337977806185,
+      "performance": 0.007144687604528965
+    },
+    "covid_marker_change": 0.03130378662665836,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "AXP",
+    "sector": "Financials",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.37615167405348426,
+      "integrity": 0.08432972596328658,
+      "people": 0.16006679148123087,
+      "inclusion": 2.0421056348499103,
+      "customer": -0.07752931283621445,
+      "environment": 0.20658601391897408,
+      "community": 0.1254838220842882,
+      "security_privacy": -0.007466927527370104,
+      "performance": -0.0420070084665185
+    },
+    "covid_marker_change": 1.1400474369370501,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "C",
+    "sector": "Financials",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.03155092536684538,
+      "integrity": 0.1301853984567216,
+      "people": 0.5250885000576476,
+      "inclusion": 0.6698351711729873,
+      "customer": -0.0016920570025687129,
+      "environment": 0.6577047570406382,
+      "community": 0.015124470437627047,
+      "security_privacy": 0.04736594377074388,
+      "performance": -0.01088214881459404
+    },
+    "covid_marker_change": 0.585654694149252,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "LLY",
+    "sector": "Healthcare",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.22667258453321637,
+      "integrity": 0.6210880352814654,
+      "people": 0.5840631444366884,
+      "inclusion": 0.4409942281233672,
+      "customer": 0.05869456047572936,
+      "environment": 0.31713628676501626,
+      "community": 0.03974025317776936,
+      "security_privacy": 0.06346188825964649,
+      "performance": 0.025989078993694487
+    },
+    "covid_marker_change": 0.7655317474873332,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "UNH",
+    "sector": "Healthcare",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.0051810945472725856,
+      "integrity": 0.05278085212243244,
+      "people": -0.16944540595286017,
+      "inclusion": 0.5007860724293425,
+      "customer": 0.024308788514369156,
+      "environment": 0.20433783678417794,
+      "community": -0.03012922724523945,
+      "security_privacy": 0.20378931041162618,
+      "performance": 0.02704228300220074
+    },
+    "covid_marker_change": 1.0445199134065455,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "JNJ",
+    "sector": "Healthcare",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.09882765374624569,
+      "integrity": 0.20467755537614396,
+      "people": 0.6038637067817149,
+      "inclusion": 1.2005911204411306,
+      "customer": 0.16760049655534914,
+      "environment": 0.14681031563721358,
+      "community": 0.09176452841528998,
+      "security_privacy": 0.07166149500063834,
+      "performance": 0.12632390612578687
+    },
+    "covid_marker_change": 2.8448178788485543,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "ABBV",
+    "sector": "Healthcare",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.21269370247680142,
+      "integrity": 0.07041496330371677,
+      "people": 0.17054589881446916,
+      "inclusion": 0.5117838811399492,
+      "customer": 0.025109855618330193,
+      "environment": 0.1108785912914888,
+      "community": -0.050080580109476,
+      "security_privacy": -0.014105964001579869,
+      "performance": -0.0021402709878759196
+    },
+    "covid_marker_change": 0.38916446324208354,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "MRK",
+    "sector": "Healthcare",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.014220778540414702,
+      "integrity": 0.23266218574590802,
+      "people": 0.23771346079861055,
+      "inclusion": 0.38745568510535716,
+      "customer": -0.016601630514846984,
+      "environment": 0.06621698798989192,
+      "community": 0.023513126070046936,
+      "security_privacy": 0.21854191655100824,
+      "performance": 0.041961015890598086
+    },
+    "covid_marker_change": 1.7218939586213282,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "TMO",
+    "sector": "Healthcare",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.10409628464804516,
+      "integrity": 0.16636585229797995,
+      "people": 0.15961352232750659,
+      "inclusion": 0.32837604929270414,
+      "customer": 0.036815390149812735,
+      "environment": 0.295356355341478,
+      "community": 0.03749908790843315,
+      "security_privacy": 0.2152282877356143,
+      "performance": 0.27669559268622873
+    },
+    "covid_marker_change": 1.028887213383869,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "ABT",
+    "sector": "Healthcare",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.1631194680096324,
+      "integrity": 0.06349384042817252,
+      "people": 0.19163996923628976,
+      "inclusion": 1.058516590483917,
+      "customer": 0.021510121050038886,
+      "environment": 0.12749297699432366,
+      "community": -0.03503019344351935,
+      "security_privacy": 0.21152630071693299,
+      "performance": -0.0037403981012368304
+    },
+    "covid_marker_change": 0.9198946197700204,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "PFE",
+    "sector": "Healthcare",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.048232305870401504,
+      "integrity": 0.15882415082871126,
+      "people": 0.31541533973822355,
+      "inclusion": 0.5904862634766479,
+      "customer": 0.005029626202756491,
+      "environment": 0.003894112105622405,
+      "community": 0.002755151216569815,
+      "security_privacy": 0.03359667588667023,
+      "performance": -0.025994516569468384
+    },
+    "covid_marker_change": 2.4902798448491437,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "MDT",
+    "sector": "Healthcare",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.15790148403564852,
+      "integrity": -0.012731476652413254,
+      "people": 0.05605548398806392,
+      "inclusion": 0.45031171188385144,
+      "customer": -0.00779055729284886,
+      "environment": 0.03063914269965956,
+      "community": -0.02040712026280793,
+      "security_privacy": -0.008397127949203012,
+      "performance": 0.14068636839795864
+    },
+    "covid_marker_change": 0.7866685555962266,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "BMY",
+    "sector": "Healthcare",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.11119033546123602,
+      "integrity": 0.29348974520090265,
+      "people": 0.7231768886223158,
+      "inclusion": 1.111566719069097,
+      "customer": -0.003465093913664258,
+      "environment": 0.22870393633483171,
+      "community": -0.08915402672731959,
+      "security_privacy": 0.008622419684788538,
+      "performance": -0.10902771362770386
+    },
+    "covid_marker_change": 1.3936565006906605,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "AMZN",
+    "sector": "Consumer Discretionary",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.10834320305063111,
+      "integrity": 0.3552706689993099,
+      "people": 0.9125915052192006,
+      "inclusion": 1.8822146643640418,
+      "customer": -0.20830364055304398,
+      "environment": 0.3407990385655477,
+      "community": 0.13756099693275503,
+      "security_privacy": 0.28594140793285805,
+      "performance": 0.01632082720347572
+    },
+    "covid_marker_change": 0.842631554799891,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "TSLA",
+    "sector": "Consumer Discretionary",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.03240524952420036,
+      "integrity": 0.07376444542068583,
+      "people": 0.5160559832803787,
+      "inclusion": 0.8112109457152606,
+      "customer": -0.053594397598970986,
+      "environment": 0.13941719022051385,
+      "community": -0.005924388519230665,
+      "security_privacy": 0.0010908437988566555,
+      "performance": 0.01834927028794777
+    },
+    "covid_marker_change": 0.09329056864554147,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "HD",
+    "sector": "Consumer Discretionary",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.02162485148552115,
+      "integrity": 0.007523061865431391,
+      "people": 0.17702671515053064,
+      "inclusion": -0.3317452295004646,
+      "customer": -0.011444704225597235,
+      "environment": 0.1277980788035566,
+      "community": -0.058948293033194904,
+      "security_privacy": 0.009275941344981109,
+      "performance": -0.04372125587907358
+    },
+    "covid_marker_change": 0.9543675040550557,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "NKE",
+    "sector": "Consumer Discretionary",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.11186542737791712,
+      "integrity": 0.06501763298410668,
+      "people": 0.4506815151366554,
+      "inclusion": 1.1472502435275385,
+      "customer": 0.0,
+      "environment": 0.2294887940706386,
+      "community": 0.1010755672029503,
+      "security_privacy": -0.056845703603165876,
+      "performance": -0.02462557004192162
+    },
+    "covid_marker_change": 0.9984382954795654,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "SBUX",
+    "sector": "Consumer Discretionary",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.09332314771442485,
+      "integrity": 0.13305754502715778,
+      "people": 0.07744881533060549,
+      "inclusion": 0.7429094179013351,
+      "customer": 0.034487488506092547,
+      "environment": 0.30814117605565117,
+      "community": 0.13195754944573274,
+      "security_privacy": 0.1405926520442375,
+      "performance": 0.0783530228146197
+    },
+    "covid_marker_change": 1.0716652088829477,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "TGT",
+    "sector": "Consumer Discretionary",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.014382482971883175,
+      "integrity": 0.29626362044333077,
+      "people": 1.078729369734767,
+      "inclusion": 0.33217628127475024,
+      "customer": -0.029088797863497634,
+      "environment": 0.09665522447054711,
+      "community": 0.02511770651680993,
+      "security_privacy": 0.7063771951982024,
+      "performance": -0.010643784545455781
+    },
+    "covid_marker_change": 0.6509104784897113,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "LOW",
+    "sector": "Consumer Discretionary",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.029654190297070435,
+      "integrity": 0.016338356114256547,
+      "people": 0.49342256618844726,
+      "inclusion": 1.2671725405399392,
+      "customer": -0.018895485887953978,
+      "environment": 0.41068518001723,
+      "community": -0.03825845706658518,
+      "security_privacy": 0.05703667488921427,
+      "performance": 0.04185089954369159
+    },
+    "covid_marker_change": 0.9189101413799344,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "TJX",
+    "sector": "Consumer Discretionary",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.07491547970501398,
+      "integrity": -0.5847758194242082,
+      "people": 0.3862893411660465,
+      "inclusion": -0.11741581777488053,
+      "customer": 0.01982428348563378,
+      "environment": 0.02744425490488367,
+      "community": -0.10398534265891518,
+      "security_privacy": 0.08672275185928659,
+      "performance": 0.2426021888543481
+    },
+    "covid_marker_change": 2.021422181006338,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "F",
+    "sector": "Consumer Discretionary",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": -0.08548829252196966,
+      "integrity": -0.03375140753324035,
+      "people": 0.09021904796571484,
+      "inclusion": 0.26486342439542154,
+      "customer": 0.06354842584827992,
+      "environment": 0.008456637847276793,
+      "community": 0.04213853703969128,
+      "security_privacy": 0.038859549345168554,
+      "performance": 0.012554854999276083
+    },
+    "covid_marker_change": 1.9251714386511096,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "CVX",
+    "sector": "Energy",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.0601234978563759,
+      "integrity": 0.09479243358432193,
+      "people": 0.2170052852795686,
+      "inclusion": 0.41655141114314187,
+      "customer": 0.006697923643670462,
+      "environment": 0.11023764055072638,
+      "community": -0.08126589570549861,
+      "security_privacy": 0.05530247888279766,
+      "performance": 0.06229901187541968
+    },
+    "covid_marker_change": 0.4003854309473404,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "COP",
+    "sector": "Energy",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.026978938575433625,
+      "integrity": 0.1103108602680567,
+      "people": 0.5799763246073206,
+      "inclusion": 0.018822571159315404,
+      "customer": 0.0,
+      "environment": 0.3797327475727773,
+      "community": 0.03605808401814806,
+      "security_privacy": 0.0017299501919151583,
+      "performance": 0.008759292585310219
+    },
+    "covid_marker_change": 1.0592141208306678,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "EOG",
+    "sector": "Energy",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.1256698540384692,
+      "integrity": -0.1909103963776767,
+      "people": 0.029253268403867924,
+      "inclusion": 0.11555866963808134,
+      "customer": 0.0,
+      "environment": 0.2540802836675944,
+      "community": 0.01003051314970907,
+      "security_privacy": 0.05247962970202285,
+      "performance": -0.005763490198989807
+    },
+    "covid_marker_change": 0.02708754695174805,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "SLB",
+    "sector": "Energy",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.11452246547732342,
+      "integrity": -0.11481815381552918,
+      "people": 0.02603272989788269,
+      "inclusion": 0.2680051635707033,
+      "customer": 0.00742467665533166,
+      "environment": 0.19826670755593662,
+      "community": 0.018527368355446716,
+      "security_privacy": 0.06830589898730907,
+      "performance": 0.010352467017969533
+    },
+    "covid_marker_change": 0.5091734209581315,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "MPC",
+    "sector": "Energy",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.022439637375460012,
+      "integrity": 0.02659391073667916,
+      "people": 0.32359166525982186,
+      "inclusion": 0.45077220453717903,
+      "customer": -0.015832213765091398,
+      "environment": 0.1741356155317182,
+      "community": 0.03591205116884045,
+      "security_privacy": -0.03007520644693165,
+      "performance": 0.018918268393200682
+    },
+    "covid_marker_change": 0.17853668909603124,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "PSX",
+    "sector": "Energy",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.1312994583203854,
+      "integrity": -0.3057260315130984,
+      "people": 0.38844915593535223,
+      "inclusion": 0.38352657204214524,
+      "customer": 0.0,
+      "environment": 0.2358131958885452,
+      "community": -0.18812844246528282,
+      "security_privacy": -0.011556377070748275,
+      "performance": -0.04216259644155476
+    },
+    "covid_marker_change": 0.33442117554564943,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "VLO",
+    "sector": "Energy",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.025574231658424415,
+      "integrity": 0.20305423185420168,
+      "people": 0.4663725949218053,
+      "inclusion": 0.4757508505993636,
+      "customer": 0.0,
+      "environment": 0.5476848370925511,
+      "community": 0.02921186342644494,
+      "security_privacy": 0.21809699725396237,
+      "performance": 0.1471178360070724
+    },
+    "covid_marker_change": 0.7201198105388744,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "OXY",
+    "sector": "Energy",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.0635037643335117,
+      "integrity": -0.09838140029123735,
+      "people": 0.06274927840113781,
+      "inclusion": 0.025470835461379904,
+      "customer": 0.0,
+      "environment": 0.5964411084779498,
+      "community": -0.09277224070809012,
+      "security_privacy": -0.05038223818588147,
+      "performance": 0.13098005942668184
+    },
+    "covid_marker_change": 1.0081789506800125,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  },
+  {
+    "ticker": "HAL",
+    "sector": "Energy",
+    "pre_years": "2018,2019",
+    "post_years": "2021,2022",
+    "theme_rate_changes": {
+      "innovation": 0.06361393124228559,
+      "integrity": 0.16114192487440254,
+      "people": 0.013549490307852331,
+      "inclusion": 0.13955180573210935,
+      "customer": -0.0037200067650914777,
+      "environment": 0.140219514113582,
+      "community": -0.14013884087318101,
+      "security_privacy": 0.08114511993248726,
+      "performance": 0.03559387180894097
+    },
+    "covid_marker_change": 0.5205989090650858,
+    "caveat": "Coincidence with pandemic period, not a causal estimate; filing-year timing and other changes confound."
+  }
+]

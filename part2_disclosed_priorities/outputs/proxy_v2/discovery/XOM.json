@@ -1,0 +1,69 @@
+{
+  "cik": 34088,
+  "sec_name": "EXXON MOBIL CORP",
+  "former_names": [
+    {
+      "name": "EXXON CORP",
+      "from": "1994-05-11T00:00:00.000Z",
+      "to": "1999-11-30T00:00:00.000Z"
+    }
+  ],
+  "filings": [
+    {
+      "accessionNumber": "0001193125-16-539460",
+      "filingDate": "2016-04-13",
+      "reportDate": "2016-05-25",
+      "form": "DEF 14A",
+      "primaryDocument": "d14941ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-17-122538",
+      "filingDate": "2017-04-13",
+      "reportDate": "2017-05-31",
+      "form": "DEF 14A",
+      "primaryDocument": "d182248ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-18-115091",
+      "filingDate": "2018-04-12",
+      "reportDate": "2018-05-30",
+      "form": "DEF 14A",
+      "primaryDocument": "d527562ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-19-103474",
+      "filingDate": "2019-04-11",
+      "reportDate": "2019-05-29",
+      "form": "DEF 14A",
+      "primaryDocument": "d686227ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-20-102226",
+      "filingDate": "2020-04-09",
+      "reportDate": "2020-05-27",
+      "form": "DEF 14A",
+      "primaryDocument": "d869473ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-22-098314",
+      "filingDate": "2022-04-07",
+      "reportDate": "2022-05-25",
+      "form": "DEF 14A",
+      "primaryDocument": "d280259ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-23-100079",
+      "filingDate": "2023-04-13",
+      "reportDate": "",
+      "form": "DEF 14A",
+      "primaryDocument": "d429320ddef14a.htm"
+    },
+    {
+      "accessionNumber": "0001193125-24-092545",
+      "filingDate": "2024-04-11",
+      "reportDate": "2024-05-29",
+      "form": "DEF 14A",
+      "primaryDocument": "d784249ddef14a.htm"
+    }
+  ]
+}

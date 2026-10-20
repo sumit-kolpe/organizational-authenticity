@@ -1,0 +1,47 @@
+[
+  {
+    "ticker": "AAPL",
+    "year": 2024,
+    "original_changed_from_prior": false
+  },
+  {
+    "ticker": "ABT",
+    "year": 2020,
+    "original_changed_from_prior": true
+  },
+  {
+    "ticker": "ABT",
+    "year": 2021,
+    "original_changed_from_prior": false
+  },
+  {
+    "ticker": "COP",
+    "year": 2024,
+    "original_changed_from_prior": false
+  },
+  {
+    "ticker": "GOOGL",
+    "year": 2024,
+    "original_changed_from_prior": false
+  },
+  {
+    "ticker": "MSFT",
+    "year": 2024,
+    "original_changed_from_prior": false
+  },
+  {
+    "ticker": "NVDA",
+    "year": 2022,
+    "original_changed_from_prior": false
+  },
+  {
+    "ticker": "TSLA",
+    "year": 2024,
+    "original_changed_from_prior": true
+  },
+  {
+    "ticker": "WFC",
+    "year": 2024,
+    "original_changed_from_prior": true
+  }
+]

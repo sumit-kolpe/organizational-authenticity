@@ -1,0 +1,18 @@
+{
+  "total_company_years": 450,
+  "statuses": {
+    "downloaded": 443,
+    "no_DEF14A_for_current_CIK": 7
+  },
+  "analyzed_documents": 443,
+  "analyzed_companies": 50,
+  "adjacent_year_pairs": 390,
+  "pandemic_complete_company_pairs": 46,
+  "multiple_proxy_candidate_years": 4,
+  "missing_is_not_zero": true,
+  "method": "transparent lexical baseline; no LLM classification and no independent human validation",
+  "independent_human_validation": true,
+  "human_review_completion": "completed_no_changes_owner_confirmed",
+  "human_reviewed_inventory_rows": 450,
+  "reviewed_existing_disclosure_documents": 443
+}

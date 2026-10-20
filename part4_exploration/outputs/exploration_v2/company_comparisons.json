@@ -1,0 +1,226 @@
+[
+  {
+    "ticker": "AAPL",
+    "n_changed": 2,
+    "n_unchanged": 2,
+    "changed_mean": 0.04515818730429405,
+    "unchanged_mean": 0.08862313834408359,
+    "within_company_difference": -0.043464951039789534
+  },
+  {
+    "ticker": "ABBV",
+    "n_changed": 1,
+    "n_unchanged": 0,
+    "changed_mean": 0.027601336116492625,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "ABT",
+    "n_changed": 5,
+    "n_unchanged": 0,
+    "changed_mean": 0.13370189487671183,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "AXP",
+    "n_changed": 1,
+    "n_unchanged": 0,
+    "changed_mean": 0.0019794040207781194,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "BAC",
+    "n_changed": 1,
+    "n_unchanged": 2,
+    "changed_mean": 0.10444546196054821,
+    "unchanged_mean": 0.11011449046914593,
+    "within_company_difference": -0.005669028508597712
+  },
+  {
+    "ticker": "C",
+    "n_changed": 0,
+    "n_unchanged": 1,
+    "changed_mean": null,
+    "unchanged_mean": 0.0246820286938966,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "COP",
+    "n_changed": 1,
+    "n_unchanged": 2,
+    "changed_mean": 0.09489851195333182,
+    "unchanged_mean": 0.07765007142998512,
+    "within_company_difference": 0.017248440523346703
+  },
+  {
+    "ticker": "GOOGL",
+    "n_changed": 1,
+    "n_unchanged": 6,
+    "changed_mean": 0.19684610837566863,
+    "unchanged_mean": 0.13934604983843654,
+    "within_company_difference": 0.057500058537232085
+  },
+  {
+    "ticker": "HAL",
+    "n_changed": 1,
+    "n_unchanged": 2,
+    "changed_mean": 0.11590295431604075,
+    "unchanged_mean": 0.09810356107883558,
+    "within_company_difference": 0.01779939323720517
+  },
+  {
+    "ticker": "IBM",
+    "n_changed": 4,
+    "n_unchanged": 0,
+    "changed_mean": 0.13011795326358996,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "INTC",
+    "n_changed": 4,
+    "n_unchanged": 2,
+    "changed_mean": 0.07847571006680722,
+    "unchanged_mean": 0.15032004055273135,
+    "within_company_difference": -0.07184433048592413
+  },
+  {
+    "ticker": "JNJ",
+    "n_changed": 0,
+    "n_unchanged": 1,
+    "changed_mean": null,
+    "unchanged_mean": 0.04794002570963651,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "LOW",
+    "n_changed": 2,
+    "n_unchanged": 0,
+    "changed_mean": 0.12776633280581223,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "MCD",
+    "n_changed": 1,
+    "n_unchanged": 0,
+    "changed_mean": 0.007276209440561843,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "META",
+    "n_changed": 2,
+    "n_unchanged": 0,
+    "changed_mean": 0.12401243294224007,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "MPC",
+    "n_changed": 4,
+    "n_unchanged": 1,
+    "changed_mean": 0.05994672235525142,
+    "unchanged_mean": 0.045303182464697445,
+    "within_company_difference": 0.014643539890553975
+  },
+  {
+    "ticker": "MRK",
+    "n_changed": 1,
+    "n_unchanged": 0,
+    "changed_mean": 0.021346260296779107,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "MS",
+    "n_changed": 1,
+    "n_unchanged": 0,
+    "changed_mean": 0.01665680173028461,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "MSFT",
+    "n_changed": 1,
+    "n_unchanged": 4,
+    "changed_mean": 0.20024115505537465,
+    "unchanged_mean": 0.030420385390566504,
+    "within_company_difference": 0.16982076966480814
+  },
+  {
+    "ticker": "NVDA",
+    "n_changed": 0,
+    "n_unchanged": 2,
+    "changed_mean": null,
+    "unchanged_mean": 0.13615510311707762,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "OXY",
+    "n_changed": 1,
+    "n_unchanged": 2,
+    "changed_mean": 0.15323102379764453,
+    "unchanged_mean": 0.05704324441535524,
+    "within_company_difference": 0.09618777938228928
+  },
+  {
+    "ticker": "PSX",
+    "n_changed": 1,
+    "n_unchanged": 0,
+    "changed_mean": 0.0651170302246985,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "SLB",
+    "n_changed": 1,
+    "n_unchanged": 0,
+    "changed_mean": 0.020467147335697433,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "TJX",
+    "n_changed": 1,
+    "n_unchanged": 0,
+    "changed_mean": 0.3976742756536642,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "TMO",
+    "n_changed": 1,
+    "n_unchanged": 1,
+    "changed_mean": 0.03238460553808903,
+    "unchanged_mean": 0.08014331528508228,
+    "within_company_difference": -0.047758709746993255
+  },
+  {
+    "ticker": "TSLA",
+    "n_changed": 5,
+    "n_unchanged": 2,
+    "changed_mean": 0.0881958234085848,
+    "unchanged_mean": 0.05447944564887652,
+    "within_company_difference": 0.033716377759708274
+  },
+  {
+    "ticker": "VLO",
+    "n_changed": 3,
+    "n_unchanged": 0,
+    "changed_mean": 0.04226024367054959,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  },
+  {
+    "ticker": "WFC",
+    "n_changed": 3,
+    "n_unchanged": 0,
+    "changed_mean": 0.11951497691817156,
+    "unchanged_mean": null,
+    "within_company_difference": null
+  }
+]

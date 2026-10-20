@@ -1,0 +1,13 @@
+{
+  "version": "exploration_v1.0",
+  "part1_sha256": "b9d536264dfbc493db08018ac0410395ec72504619a526ab438d6e65451e6f5f",
+  "alignment_sha256": "cc7fb86e6ea184b58511ef00231882df232cb25940a4c7cff484ed07d28d724f",
+  "alignment_policy_sha256": "a987689b10c9d1dc92c076a777df398892c688653906fe5aaacd26b5fbabb023",
+  "question": "Is absolute alignment change larger when Part 1 records a text change?",
+  "design": "exploratory descriptive association; no causal identification",
+  "label_statuses": [
+    "identical_extracted_blocks",
+    "llm_compared_human_reviewed",
+    "llm_repaired_human_reviewed"
+  ]
+}

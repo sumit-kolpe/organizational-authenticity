@@ -1,0 +1,14 @@
+{
+  "downloaded_captures": 215,
+  "selected_candidates": 193,
+  "unique_selected_texts": 158,
+  "integrity_failures": [],
+  "statuses": {
+    "candidate_ready": 180,
+    "no_records_for_queried_urls": 223,
+    "no_eligible_capture_returned": 7,
+    "replay_failed": 18,
+    "source_selection_pending": 9,
+    "candidate_flagged": 13
+  }
+}

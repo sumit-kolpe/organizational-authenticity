@@ -1,0 +1,31 @@
+{
+  "status": "numerical_checks_passed_review_completion_owner_confirmed",
+  "active_versions": {
+    "part1_stated_values": "review_v2",
+    "part2_disclosed_priorities": "proxy_v2",
+    "part3_alignment": "alignment_v1",
+    "part4_exploration": "exploration_v2"
+  },
+  "panel_rows": 450,
+  "part1_eligible": 140,
+  "part2_analyzed": 443,
+  "part3_scored": 137,
+  "part3_mean": 0.5462373420742094,
+  "part4_known_pairs": 79,
+  "part4_difference": 0.006277629303134025,
+  "summary_page_counts": {
+    "part1_stated_values/Part1_Summary.pdf": 1,
+    "part2_disclosed_priorities/outputs/proxy_v2/Part2_Summary.pdf": 2,
+    "part3_alignment/outputs/alignment_v1/Part3_Summary.pdf": 2,
+    "part4_exploration/outputs/exploration_v2/Part4_Summary.pdf": 2
+  },
+  "readme_present": {
+    "part1_stated_values": true,
+    "part2_disclosed_priorities": true,
+    "part3_alignment": true,
+    "part4_exploration": true
+  },
+  "independent_human_validation": true,
+  "source_review": "Project owner confirms completed source review with no further corrections; numerical checks independently confirm arithmetic, not source accuracy.",
+  "network_requests": 0
+}
