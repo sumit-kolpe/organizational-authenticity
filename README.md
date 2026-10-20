@@ -12,10 +12,10 @@ Important interpretation: Proxy statements are corporate disclosures, not indepe
 
 | Part | Implemented directory | Primary data / results | Written summary | Coverage |
 |---|---|---|---|---|
-| 1 — Stated values | `part1_stated_values/` | `outputs/review_v2/part1_values_reviewed.csv` (and JSON) | `Part1_Summary.pdf` | 450 inventory rows; 140 accepted usable records, 37 firms |
-| 2 — Lived/disclosed values | `part2_disclosed_priorities/` | `outputs/proxy_v2/disclosure_metrics.csv` (and JSON) | `outputs/proxy_v2/Part2_Summary.pdf` | 443 analyzed proxy statements, 50 firms |
-| 3 — Alignment measure | `part3_alignment/` | `outputs/alignment_v1/alignment.csv` (and JSON) | `outputs/alignment_v1/Part3_Summary.pdf` | 137 nonmissing index scores, 36 firms |
-| 4 — Additional analysis | `part4_exploration/` | `outputs/exploration_v2/pairs.csv` (and JSON) | `outputs/exploration_v2/Part4_Summary.pdf` | 79 pairs with known text-change labels, 28 firms |
+| 1. Stated values | `part1_stated_values/` | `outputs/review_v2/part1_values_reviewed.csv` (and JSON) | `Part1_Summary.pdf` | 450 inventory rows; 140 accepted usable records, 37 firms |
+| 2. Lived/disclosed values | `part2_disclosed_priorities/` | `outputs/proxy_v2/disclosure_metrics.csv` (and JSON) | `outputs/proxy_v2/Part2_Summary.pdf` | 443 analyzed proxy statements, 50 firms |
+| 3. Alignment measure | `part3_alignment/` | `outputs/alignment_v1/alignment.csv` (and JSON) | `outputs/alignment_v1/Part3_Summary.pdf` | 137 nonmissing index scores, 36 firms |
+| 4. Additional analysis | `part4_exploration/` | `outputs/exploration_v2/pairs.csv` (and JSON) | `outputs/exploration_v2/Part4_Summary.pdf` | 79 pairs with known text-change labels, 28 firms |
 
 Every implemented directory includes its own `README.md`, source code in `src/`, and versioned output files in `outputs/`. Each PDF is one or two pages. `part2_disclosed_priorities/DATA_DICTIONARY.md` explains the Part 2 columns. The authoritative assignment company list is `config/companies.csv`.
 
